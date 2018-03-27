@@ -1,0 +1,43 @@
+- name: Home
+  link: /
+- name: Steve Avian
+  link: /steve-avian/
+- name: In the Media
+  link: /shamayoga-in-the-media/
+- name: Teacher<br/> Training
+  link: /teacher-training/
+  submenu:
+    - subname: Course Content
+      sublink: /course-content/
+    - subname: The Tutors
+      sublink: /the-tutors/
+    - subname: Accredititation
+      sublink: /accredititation/
+    - subname: Prerequisites
+      sublink: /prerequisites/
+    - subname: Testimonials
+      sublink: /testimonials/
+    - subname: Course Fees
+      sublink: /course-fees/
+    - subname: Venues
+      sublink: /venues/
+    - subname: Course Application
+      sublink: /course-application/
+- name: Classes
+  link: /classes/
+- name: Yoga Workshops
+  link: /yoga-workshops/
+- name: Yoga Retreats
+  link: /yoga-retreats/
+- name: Shop
+  link: /shop/
+- name: Yoga Gallery
+  link: /yoga-gallery/
+- name: Philosophy of Yoga
+  link: /philosophy-of-yoga/
+- name: Yoga Resources
+  link: /yoga-resources/
+- name: Contact Shamayoga
+  link: /contact-shamayoga/
+- name: <i class="fa fa-search"></i>
+  link: /search
