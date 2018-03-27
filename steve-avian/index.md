@@ -5,9 +5,8 @@ layout: page
 hero_image:
 ---
 
-Steve Avian is the founder of the Shamayoga school. He is an internationally qualified (FRYOG- ICM) yoga teacher with over 30 years experience of yoga and has been teaching yoga for over 18 years. He has studied yoga in the UK, India, Europe and the USA. He is also a member of the Yoga Alliance and the Independent Yoga Network.
+Steve Avian is the founder of the Shamayoga school. He is an internationally qualified (FRYOG- ICM) yoga teacher with over 30 years experience of yoga and has been teaching yoga for over 18 years. He has studied yoga in the UK, India, Europe and the USA. He is also a member of the Yoga Alliance and the Independent Yoga Network.{% include right-image.html src="https://lh3.googleusercontent.com/-Bngu1vPDFDc/U30Y2fXOB0I/AAAAAAAAAL8/JyaLpcIsfzw/s450/spotlight%2520Pigeon%2520copy.jpg" width="400" caption="Pigeon pose"%}
 
-![](https://lh3.googleusercontent.com/-Bngu1vPDFDc/U30Y2fXOB0I/AAAAAAAAAL8/JyaLpcIsfzw/s450/spotlight%2520Pigeon%2520copy.jpg)
 
 I fell in love with yoga over thirty years ago and she has been a constant throughout my life-changes and life-styles. She is a challenging mistress – yielding and withholding her secrets, melting and remaking me along the way.
 
