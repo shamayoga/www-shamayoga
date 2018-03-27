@@ -1,6 +1,6 @@
 ---
-title:
+title: Teacher Training at Shamayoga
 description:
-layout:
+layout: page
 hero-img:
 ---

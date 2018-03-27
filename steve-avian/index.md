@@ -1,6 +1,6 @@
 ---
-title:
+title: Steve Avian Yoga Practicioner and Yoga Teacher
 description:
-layout:
+layout: page
 hero-img:
 ---

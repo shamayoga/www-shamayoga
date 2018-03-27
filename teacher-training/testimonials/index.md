@@ -1,6 +1,6 @@
 ---
-title:
+title: Shamayoga Teacher Training - Past Student Testimonials
 description:
-layout:
+layout: page
 hero-img:
 ---

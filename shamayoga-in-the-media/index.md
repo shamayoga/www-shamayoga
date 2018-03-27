@@ -1,6 +1,6 @@
 ---
-title:
+title: Shamayoga in the Media
 description:
-layout:
+layout: page
 hero-img:
 ---

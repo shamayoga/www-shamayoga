@@ -1,6 +1,6 @@
 ---
-title:
+title: The Philosophy of the Ancient Art of Yoga
 description:
-layout:
+layout: page
 hero-img:
 ---

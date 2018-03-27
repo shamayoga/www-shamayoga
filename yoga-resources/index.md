@@ -1,6 +1,6 @@
 ---
-title:
+title: Yoga Resources
 description:
-layout:
+layout: page
 hero-img:
 ---

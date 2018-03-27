@@ -1,6 +1,6 @@
 ---
-title:
+title: Shamayoga Teacher Training Application
 description:
-layout:
+layout:  page
 hero-img:
 ---

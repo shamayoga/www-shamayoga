@@ -1,6 +1,6 @@
 ---
-title:
+title: Shop at Shamayoga
 description:
-layout:
+layout: page
 hero-img:
 ---

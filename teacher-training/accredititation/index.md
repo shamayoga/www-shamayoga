@@ -1,6 +1,6 @@
 ---
-title:
+title: Shamayoga Teacher Training - Acreditation
 description:
-layout:
+layout: page
 hero-img:
 ---

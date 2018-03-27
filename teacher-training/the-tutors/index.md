@@ -1,6 +1,6 @@
 ---
-title:
+title: Shamayoga Teacher Training - The Tutors
 description:
-layout:
+layout: page
 hero-img:
 ---

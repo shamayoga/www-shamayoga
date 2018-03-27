@@ -1,6 +1,6 @@
 ---
-title:
+title: Yoaga Workshops with Shamayoga
 description:
-layout:
+layout: page
 hero-img:
 ---

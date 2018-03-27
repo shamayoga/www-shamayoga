@@ -1,6 +1,6 @@
 ---
-title:
+title: Yoga Retreats with Shamayoga
 description:
-layout:
+layout: page
 hero-img:
 ---

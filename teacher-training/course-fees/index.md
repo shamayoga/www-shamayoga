@@ -1,6 +1,6 @@
 ---
-title:
+title: Shamayoga Teacher Training - Course Fees
 description:
-layout:
+layout: page
 hero-img:
 ---

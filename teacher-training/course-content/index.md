@@ -1,6 +1,6 @@
 ---
-title:
+title: Shamayoga Teacher Training - Course Content
 description:
-layout:
+layout: page
 hero-img:
 ---
