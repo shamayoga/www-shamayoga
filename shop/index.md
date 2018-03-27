@@ -2,5 +2,5 @@
 title: Shop at Shamayoga
 description:
 layout: page
-hero-img:
+hero_image:
 ---

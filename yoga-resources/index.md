@@ -2,5 +2,5 @@
 title: Yoga Resources
 description:
 layout: page
-hero-img:
+hero_image:
 ---

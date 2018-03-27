@@ -2,5 +2,5 @@
 title: Shamayoga Photo Gallery
 description:
 layout: page
-hero-img:
+hero_image:
 ---

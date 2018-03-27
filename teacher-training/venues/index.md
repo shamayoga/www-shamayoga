@@ -2,5 +2,5 @@
 title: Shamayoga Teacher Training - The Venues
 description:
 layout: page
-hero-img:
+hero_image:
 ---
