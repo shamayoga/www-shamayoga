@@ -1,6 +1,6 @@
 ---
-title: Yoaga Workshops with Shamayoga
+title: Yoga Workshops with Shamayoga
 description:
 layout: page
-hero-img:
+hero_image:
 ---

@@ -2,5 +2,5 @@
 title: Yoga Classes
 description:
 layout: page
-hero-img:
+hero_image:
 ---

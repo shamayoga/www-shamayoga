@@ -2,5 +2,5 @@
 title: Yoga Retreats with Shamayoga
 description:
 layout: page
-hero-img:
+hero_image:
 ---
