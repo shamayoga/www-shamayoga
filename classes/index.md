@@ -1,6 +1,6 @@
 ---
-title:
+title: Yoga Classes
 description:
-layout:
+layout: page
 hero-img:
 ---
