@@ -1,6 +1,6 @@
 ---
-title:
+title: Contact Shamayoga
 description:
-layout:
+layout: page
 hero-img:
 ---
