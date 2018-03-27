@@ -26,6 +26,13 @@ github_username:  shamayoga
 markdown: kramdown
 plugins:
   - jekyll-feed
+  
+# -----------
+# CloudCannon
+# -----------
+_editable_regions:
+  image:
+    url_src: true  
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
