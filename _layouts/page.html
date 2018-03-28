@@ -10,11 +10,11 @@
 <li class='sidebar-brand'><a href='/'><img src='//lh3.googleusercontent.com/-VVq1Y-FFG9g/VX27FPwKmhI/AAAAAAAAAeE/N0Kv79ld2ZA/s160/shamskranjiblue.png'/></a>
 </li>
 {% for nav in site.data.main-nav %}
-   <li><a href="{{ site.baseurl }}{{ nav.link }}">{{ nav.name }}</a></li>
+   <li><a href="{{ site.url }}{{ nav.link }}">{{ nav.name }}</a></li>
     {% if nav.submenu != null %}
     <ul class="sub-menu">
         {% for item in nav.submenu %}
-        <li><a href="{{ site.baseurl }}{{ item.sublink }}">{{ item.subname }}</a></li>
+        <li><a href="{{ site.url }}{{ item.sublink }}">{{ item.subname }}</a></li>
         {% endfor %}
     </ul>
     {% endif %}
