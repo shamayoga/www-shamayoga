@@ -1,5 +1,3 @@
-- name: Home
-  link: {{site.url}}
 - name: Steve Avian
   link: /steve-avian/
 - name: In the Media
