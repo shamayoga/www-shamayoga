@@ -42,4 +42,4 @@ Each weekend will open and close with a sharing circle to summarise the main top
 
 <br />
 <div class="well">
-<a href="https://downloads.shamayoga.org.uk/yogateaching2018calendar.pdf">Download Course Calendar</a></div>
+<a href="https://downloads.shamayoga.org.uk/yogateaching2019calendar.pdf">Download Course Calendar</a></div>
