@@ -6,21 +6,21 @@
   link: /teacher-training/
   submenu:
     - subname: Course Content
-      sublink: /course-content/
+      sublink: /teacher-training/course-content/
     - subname: The Tutors
-      sublink: /the-tutors/
+      sublink: /teacher-training/the-tutors/
     - subname: Accredititation
-      sublink: /accredititation/
+      sublink: /teacher-training/accredititation/
     - subname: Prerequisites
-      sublink: /prerequisites/
+      sublink: /teacher-training/prerequisites/
     - subname: Testimonials
-      sublink: /testimonials/
+      sublink: /teacher-training/testimonials/
     - subname: Course Fees
-      sublink: /course-fees/
+      sublink: /teacher-training/course-fees/
     - subname: Venues
-      sublink: /venues/
+      sublink: /teacher-training/venues/
     - subname: Course Application
-      sublink: /course-application/
+      sublink: /teacher-training/course-application/
 - name: Classes
   link: /classes/
 - name: Yoga Workshops
