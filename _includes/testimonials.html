@@ -1,4 +1,4 @@
     {% for testimonial in site.data.testimonials %}
-       <div class="testimonial-testimony">{{ testimonial.testimony }}<br>
-       <span class="testimonial-name">{{ testimonial.student }}</span></div>
+       <blockquote class="testimonial">{{ testimonial.testimony }}</blockquote><br>
+       <span class="testimonial-name">{{ testimonial.student }}</span>
     {% endfor %}
