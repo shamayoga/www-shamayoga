@@ -94,7 +94,7 @@ margin-bottom: 10px;
   margin-right: 0.25em;
   vertical-align: -0.4em;
 }
-.post blockquote {display: block; padding: 0px 30px; font-style: italic; color: #999;}
+.post blockquote {display: block; padding: 0px 30px; font-style: italic; color: #999;font-size: 1.3em;font-family: serif;}
 .left{padding:20px 25px 0px 0px;width:300px;float:right;}
 .sidebar h2{padding: 10px;
 color: #222222;
