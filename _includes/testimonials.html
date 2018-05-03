@@ -1,4 +1,4 @@
     {% for testimonial in site.data.testimonials %}
-       <h4>{{ testimonial.student }}</h4>
        <p>{{ testimonial.testimony }}</p>
+       <footer class="testimonial-name">{{ testimonial.student }}</footer>
     {% endfor %}
