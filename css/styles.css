@@ -88,7 +88,7 @@ margin-bottom: 10px;
 .post h6 {padding: 10px 0px; font-size: 16px; font-weight: normal; color: #666;}
 .post blockquote:before {
   color: #000;
-  content: open-quote;
+  content: '"';
   font-size: 4em;
   line-height: 0.1em;
   margin-right: 0.25em;
