@@ -13,4 +13,4 @@ If you are interested in the course or require any additional information please
 
 &nbsp;
 
-![](/uploads/powerofyogastudio-1-1.jpg)
+![](/assets/pdf.svg)
