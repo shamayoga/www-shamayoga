@@ -9,8 +9,8 @@ If you are interested in the course or require any additional information please
 
 **Shamayoga**<br>2b Westwick Crescent<br>Sheffield<br>S8 7DG
 
-![](/assets/pdf.svg){: pdf-icon}[Download an Application Form](https://downloads.shamayoga.org.uk/appForm.pdf){: .download target="_blank"}
-![](/assets/pdf.svg){: pdf-icon}[Download Course Calendar](https://downloads.shamayoga.org.uk/yogateaching2019calendar.pdf){: .download target="_blank"}
+![](../../assets/pdf.svg){: pdf-icon} [Download an Application Form](https://downloads.shamayoga.org.uk/appForm.pdf){: .download target="_blank"}
+![](../../assets/pdf.svg){: pdf-icon} [Download Course Calendar](https://downloads.shamayoga.org.uk/yogateaching2019calendar.pdf){: .download target="_blank"}
 
 &nbsp;
 
