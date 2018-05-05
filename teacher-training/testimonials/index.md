@@ -4,6 +4,6 @@ description:
 layout: testimonial
 hero_image:
 images:
- - image: logo.png
+  - image: /uploads/powerofyogastudio-1-1.jpg
 ---
 
