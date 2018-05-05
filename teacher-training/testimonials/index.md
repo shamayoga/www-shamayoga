@@ -4,6 +4,6 @@ description:
 layout: testimonial
 hero_image:
 images:
- - logo.png
+ - image: logo.png
 ---
 
