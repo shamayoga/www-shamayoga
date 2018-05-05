@@ -25,7 +25,7 @@
     <div class="widget-content">
     <div id="gallery">
         {% for gimage in page.gallery_images %}
-           <a href="{{ gimage.image | replace: 'w800', 's0' }}"/><img class="gallery-image" src="{{ gimage.image | replace: 'w800', 'w250' }}"/></a>
+           <a href="{{ gimage.image | replace: 'w800', 's0' }}" target="_blank"/><img class="gallery-image" src="{{ gimage.image | replace: 'w800', 'w250' }}"/></a>
         {% endfor %}
     </div>
     </div>
