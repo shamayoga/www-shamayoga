@@ -5,7 +5,7 @@ layout: gallery_page
 hero_image:
 gallery_images:
   - image: >-
-      https://lh3.googleusercontent.com/3KfdUdbA-i25XaGPQgixqD9_6vzcXkRpjT4tPa1GuHOs_NvZVElSFr6_K3yDAm_E4D9UeOGm2gOQqbqp8Q=w800-rj-l80-e30#.jpg
+      https://lh3.googleusercontent.com/3KfdUdbA-i25XaGPQgixqD9_6vzcXkRpjT4tPa1GuHOs_NvZVElSFr6_K3yDAm_E4D9UeOGm2gOQqbqp8Q=s0-rj-l80-e30#.jpg
   - image: >-
       https://lh3.googleusercontent.com/DojXOZ84x-USxrW7d7_GAyPxurQYyDAZDOCkoKB8eJQplekH-64ag1_YI3cbywnZVEjbg94zr55t27AbHg=s0-rj-l80-e30#.jpg
   - image: >-
