@@ -23,9 +23,9 @@
     <!--<h1 class='post-title entry-title'>Shamayoga School</h1> <div class='post-header'> </div>-->
     <div class="top section" id="top"><div class="widget HTML" data-version="1" id="HTML1">
     <div class="widget-content">
-    <div id="grid">
+    <div id="gallery">
         {% for gimage in page.gallery_images %}
-           <img class="grid-image" src="{{ gimage.image | replace: 'w800', 'w350' }}"/>
+           <img class="gallery-image" src="{{ gimage.image | replace: 'w800', 'w350' }}"/>
         {% endfor %}
     </div>
     </div>
