@@ -25,7 +25,7 @@
     <div class="widget-content">
     <div id="grid">
         {% for gimage in page.gallery_images %}
-         <img class="grid-image" src="{{ gimage.image }}"/>
+           <img class="grid-image" src="{{ gimage.image | replace: 'w800', 'w350' }}"/>
         {% endfor %}
     </div>
     </div>
