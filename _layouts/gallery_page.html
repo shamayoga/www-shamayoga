@@ -1,0 +1,71 @@
+
+{% include head.html %}
+<body class='http://www.shamayoga.org.uk/'>
+<div id='wrapper'>
+<!-- Sidebar -->
+{% include sidebar-nav.html %}
+<!-- END Sidebar -->
+<!-- Page content -->
+<div id="page-content-wrapper">
+    <div class="content-header">
+    <h1>
+    <a class="btn btn-default fa fa-bars" href="#" id="menu-toggle"><i class="icon-reorder"></i></a>
+    <img class="photo-right" src="//lh3.googleusercontent.com/-C2rIRKGd_b0/VV2_AYCmZMI/AAAAAAAAATc/6ZOlFI-RZDE/s287/newshamalogo.png">
+    </h1>
+    </div>
+    <!-- Keep all page content within the page-content inset div! -->
+    <div class="page-content inset">
+    <div class="container" id="container">
+    <div class="row">
+    <div class="col-12 col-sm-12 col-lg-12 clearfix">
+    <div class="post-outer">
+    <div class="post hentry">
+    <!--<h1 class='post-title entry-title'>Shamayoga School</h1> <div class='post-header'> </div>-->
+    <div class="top section" id="top"><div class="widget HTML" data-version="1" id="HTML1">
+    <div class="widget-content">
+    <div id="grid">
+        {% for image in page.images %}
+         <img class="grig-image" src="{{ image.image }}"/>
+        {% endfor %}
+    </div>
+    </div>
+    </div></div>
+    </div>
+    </div>
+    <div class="main section" id="main"><div class="widget Blog" data-version="1" id="Blog1">
+    <div class="blog-posts hfeed">
+    <!--Can't find substitution for tag [adEnd]-->
+    </div>
+    <div class="blog-feeds">
+    <div class="feed-links">
+    Subscribe to:
+    <a class="feed-link" href="https://www.shamayoga.org.uk/feeds/posts/default" target="_blank" type="application/atom+xml">Posts (Atom)</a>
+    </div>
+    </div>
+    </div></div>
+    <!-- END Loop -->
+    </div>
+    <!-- END Content -->
+    <div class="col-6 col-sm-4 col-lg-4">
+    <div class="sidebox">
+    <div class="sidebar no-items section" id="sidebar"></div>
+    </div>
+    </div>
+    </div>
+    </div>
+    <!-- END Container -->
+    </div>
+    </div>
+
+{% include footer.html %}<!-- END Footer -->
+<!-- Custom JavaScript for the Menu Toggle -->
+<script>
+//<![CDATA[
+    $('#menu-toggle').click(function(e) {
+        e.preventDefault();
+        $('#wrapper').toggleClass('active');
+        $('#menu-toggle').toggleClass('fa-bars fa-chevron-left');
+    });
+//]]>
+    </script>
+</html>
