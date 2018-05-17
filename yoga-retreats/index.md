@@ -41,17 +41,17 @@ Join us for a revealing and fun weekend exploring the third eye ! Price includes
 
 * Theory and Practice of activating Ajna - dynamic and receptive aspects .
 * Balancing Ajna in relation to the chakras as a whole .
-* The meaning of the inner colours often experienced as Ajna awakens in relation to subtle realms .
-* Seeing and sensing the Aura and subtle energies .
-* Exploring the connections between the conscious and unconscious mind to gain insights into who we are and our standing in the world . Includes a variety of synchronistic arts such as dowsing , Tarot and Runes .
+* The meaning of the inner colours often experienced as Ajna awakens in relation to subtle realms.
+* Seeing and sensing the Aura and subtle energies.
+* Exploring the connections between the conscious and unconscious mind to gain insights into who we are and our standing in the world . Includes a variety of synchronistic arts such as dowsing, Tarot and Runes.
 * Asanas and Pranayama specifics to purify the pineal gland and stimulate Ajna Chakra
-* Shambhavi mudra 3rd eye meditation
-* Lots of opportunities for question and answer sessions. Small group only
+* Shambhavi mudra 3rd eye meditation.
+* Lots of opportunities for question and answer sessions. Small group only.
 
-Check www.fountainscourt.com for details and prices of optional additional therapies that will be available during your stay.
+Check [www.fountainscourt.com](www.fountainscourt.com) for details and prices of optional additional therapies that will be available during your stay.
 
 #### Booking Information
 
-Secure your place now with a deposit of &pound;50(non refundable) . The balance ( &pound;148 ) to be paid by August 19th.
+Secure your place now with a deposit of &pound;50 (non refundable). The balance ( &pound;148 ) to be paid by August 19th.
 
 To book or further information contact Steve Avian<br>Telephone: 07792557105 or Email: [steveavian@yahoo.co.uk](mailto:steveavian@yahoo.co.uk?subject=Third%20Eye%20Weekend%20Retreat)
