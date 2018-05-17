@@ -5221,6 +5221,7 @@ padding-left:14px;
     .download::before{content: url('../../assets/pdf.svg');width:24px; height:24px;vertical-align: top;padding-right:10px;}
     .download::after{content: ' \2193';font-weight: 900;font-size: 1.6em;}
     .pdf-icon{width: 32px; height:32px;}
+    #gallery{display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); grid-gap:10px; justify-content: space-evenly;}
 #sidebar-wrapper::-webkit-scrollbar {width: 10px;height: 6px;}
 #sidebar-wrapper::-webkit-scrollbar-button:start:decrement,#sidebar-wrapper::-webkit-scrollbar-button:end:increment {height: 8px;display: block;background-color: transparent;}
 #sidebar-wrapper::-webkit-scrollbar-track-piece {background-color: #0000ff;-webkit-border-radius: 6px;}
