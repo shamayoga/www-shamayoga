@@ -24,19 +24,19 @@
 - name: Everything Yoga
   link: /everything-yoga/
   submenu:
-    - name: Yoga Classes
+    - subname: Yoga Classes
       sublink: /yoga-classes/
-    - name: Yoga Workshops
+    - subname: Yoga Workshops
       sublink: /yoga-workshops/
-    - name: Yoga Retreats
+    - subname: Yoga Retreats
       sublink: /yoga-retreats/
-    - name: Yoga Shop
+    - subname: Yoga Shop
       sublink: /yoga-shop/
-    - name: Yoga Gallery
+    - subname: Yoga Gallery
       sublink: /yoga-gallery/
-    - name: Philosophy of Yoga
+    - subname: Philosophy of Yoga
       sublink: /philosophy-of-yoga/
-    - name: Yoga Resources
+    - subname: Yoga Resources
       sublink: /yoga-resources/
 - name: Contact Shamayoga
   link: /contact-shamayoga/
