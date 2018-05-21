@@ -1,5 +1,3 @@
-- name: Steve Avian
-  link: /steve-avian/
 - name: In the Media
   link: /shamayoga-in-the-media/
 - name: Teacher Training
@@ -21,20 +19,25 @@
       sublink: /teacher-training/venues/
     - subname: Course Application
       sublink: /teacher-training/course-application/
-- name: Yoga Classes
-  link: /yoga-classes/
-- name: Yoga Workshops
-  link: /yoga-workshops/
-- name: Yoga Retreats
-  link: /yoga-retreats/
-- name: Yoga Shop
-  link: /yoga-shop/
-- name: Yoga Gallery
-  link: /yoga-gallery/
-- name: Philosophy of Yoga
-  link: /philosophy-of-yoga/
-- name: Yoga Resources
-  link: /yoga-resources/
+    - name: Steve Avian
+      sublink: /steve-avian/
+- name: Everything Yoga
+  link: /everything-yoga/
+  submenu:
+    - name: Yoga Classes
+      sublink: /yoga-classes/
+    - name: Yoga Workshops
+      sublink: /yoga-workshops/
+    - name: Yoga Retreats
+      sublink: /yoga-retreats/
+    - name: Yoga Shop
+      sublink: /yoga-shop/
+    - name: Yoga Gallery
+      sublink: /yoga-gallery/
+    - name: Philosophy of Yoga
+      sublink: /philosophy-of-yoga/
+    - name: Yoga Resources
+      sublink: /yoga-resources/
 - name: Contact Shamayoga
   link: /contact-shamayoga/
 - name: <i class="fa fa-search"></i>
