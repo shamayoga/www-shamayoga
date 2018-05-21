@@ -1,7 +1,7 @@
 ---
 title: Shamayoga - Learn yoga or Learn To Teach Yoga
 description:
-layout: page
+layout: home
 hero_image:
 ---
 

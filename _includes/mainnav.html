@@ -1,0 +1,25 @@
+    <nav class="navbar navbar-default">
+        <div class="container-fluid">
+          <!--<div class="navbar-header">
+            <a class="navbar-brand" href="/"><img src='//lh3.googleusercontent.com/-VVq1Y-FFG9g/VX27FPwKmhI/AAAAAAAAAeE/N0Kv79ld2ZA/s160/shamskranjiblue.png'/></a>
+          </div> -->
+          <ul class="nav navbar-nav">
+            {% for nav in site.data.main-nav %}
+            {% if nav.submenu != null %}
+            <li class="dropdown">
+            <li class="dropdown-toggle" type="button" data-toggle="dropdown"><a href="{{ site.url }}{{ nav.link }}">{{ nav.name }}<span class="caret"></span></a></li>
+            <ul class="dropdown-menu">
+                {% for item in nav.submenu %}
+                <li><a href="{{ site.url }}{{ item.sublink }}">{{ item.subname }}</a></li>
+                {% endfor %}
+            </ul>
+            </li>
+            {% else %}
+            <li><a href="{{ site.url }}{{ nav.link }}">{{ nav.name }}</a></li>
+            {% endif %}
+        {% endfor %}
+        <li><a href="https://www.facebook.com/Shamayoga9/"><img src="https://lh3.googleusercontent.com/-M7v0Yd8tD42GHMSCMmaq_1tYuigGv87QV2WRz5nEUt9DnfUa29CtjhsfFGpE6Y8CvFoLkIKp31eqSyILzen8_GyttxT1z3w=s120"></a></li>
+
+          </ul>
+        </div>
+      </nav>

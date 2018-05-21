@@ -1,0 +1,30 @@
+{% include head.html %}
+<body class='http://www.shamayoga.org.uk/'>
+<header role="banner">
+    <h1>Header</h1>
+</header>
+   
+   
+    {% include mainnav.html %}
+
+   
+<section role="main">
+{{ content }}
+</section>
+   
+   
+<footer>
+    {% include footer.html %}
+</footer>
+<!-- Custom JavaScript for the Menu Toggle -->
+<script>
+    //<![CDATA[
+        $('#menu-toggle').click(function(e) {
+            e.preventDefault();
+            $('#wrapper').toggleClass('active');
+            $('#menu-toggle').toggleClass('fa-bars fa-chevron-left');
+        });
+    //]]>
+        </script>
+    </html>
+    
