@@ -7,6 +7,7 @@
     <li><a href="{{ site.url }}">home</a></li>
     {% for nav in site.data.main-nav %}
        <li><a href="{{ site.url }}{{ nav.link }}">{{ nav.name }}</a></li>
+       {% if nav.link == '/everything-yoga/' and page.url contains '/everything-yoga/' %}
         {% if nav.submenu != null %}
         <ul class="sub-menu">
             {% for item in nav.submenu %}
@@ -14,6 +15,16 @@
             {% endfor %}
         </ul>
         {% endif %}
+       {% endif %}
+       {% if nav.link == '/teacher-training/' and page.url contains '/teacher-training/'%}
+       {% if nav.submenu != null %}
+       <ul class="sub-menu">
+           {% for item in nav.submenu %}
+           <li><a href="{{ site.url }}{{ item.sublink }}">{{ item.subname }}</a></li>
+           {% endfor %}
+       </ul>
+       {% endif %}
+      {% endif %}
     {% endfor %}
     <li><a href="https://www.facebook.com/Shamayoga9/"><img src="https://lh3.googleusercontent.com/-M7v0Yd8tD42GHMSCMmaq_1tYuigGv87QV2WRz5nEUt9DnfUa29CtjhsfFGpE6Y8CvFoLkIKp31eqSyILzen8_GyttxT1z3w=s120"></a></li>
     </ul>

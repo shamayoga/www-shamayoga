@@ -1,3 +1,5 @@
+- name: Steve Avian
+  link: /steve-avian/
 - name: Everything Yoga
   link: /everything-yoga/
   submenu:
@@ -11,7 +13,7 @@
       sublink: /everything-yoga/yoga-shop/
     - subname: Yoga Gallery
       sublink: /everything-yoga/yoga-gallery/
-    - subname: Philosophy of Yoga
+    - subname: Yoga Philosophy
       sublink: /everything-yoga/philosophy-of-yoga/
     - subname: Yoga Resources
       sublink: /everything-yoga/yoga-resources/
@@ -34,8 +36,6 @@
       sublink: /teacher-training/venues/
     - subname: Course Application
       sublink: /teacher-training/course-application/
-    - name: Steve Avian
-      sublink: /steve-avian/
 - name: Contact Shamayoga
   link: /contact-shamayoga/
 - name: In the Media
