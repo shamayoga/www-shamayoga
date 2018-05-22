@@ -5121,8 +5121,8 @@ list-style: none;
     }
 
 .sidebar-nav li a {
-  text-shadow: 2px 2px #999999;
-  color: #fff;
+  text-shadow: 1px 1px #fff;
+  color: #999;
   display: block;
   text-decoration: none;
   font-size: 1.4em;
