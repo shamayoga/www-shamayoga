@@ -2,19 +2,19 @@
   link: /everything-yoga/
   submenu:
     - subname: Yoga Classes
-      sublink: /yoga-classes/
+      sublink: /everything-yoga/yoga-classes/
     - subname: Yoga Workshops
-      sublink: /yoga-workshops/
+      sublink: /everything-yoga/yoga-workshops/
     - subname: Yoga Retreats
-      sublink: /yoga-retreats/
+      sublink: /everything-yoga/yoga-retreats/
     - subname: Yoga Shop
-      sublink: /yoga-shop/
+      sublink: /everything-yoga/yoga-shop/
     - subname: Yoga Gallery
-      sublink: /yoga-gallery/
+      sublink: /everything-yoga/yoga-gallery/
     - subname: Philosophy of Yoga
-      sublink: /philosophy-of-yoga/
+      sublink: /everything-yoga/philosophy-of-yoga/
     - subname: Yoga Resources
-      sublink: /yoga-resources/
+      sublink: /everything-yoga/yoga-resources/
 - name: Teacher Training
   link: /teacher-training/
   submenu:
