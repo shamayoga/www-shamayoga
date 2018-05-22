@@ -5121,9 +5121,11 @@ list-style: none;
     }
 
 .sidebar-nav li a {
-  color: #999999;
+  text-shadow: 2px 2px #999999;
+  color: #fff;
   display: block;
   text-decoration: none;
+  font-size: 1.4em;
 }
 
 .sidebar-nav li a:hover {
