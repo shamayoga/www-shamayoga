@@ -156,13 +156,19 @@ line-height: 1;
   }
 
 
-    @media only screen and (max-width: 768px) {
+    @media only screen and (max-width: 320px) {
 
         #wrapper{margin: 0px 0px;}
         .list{display:block;}
         .list li{height:320px;xborder-radius: 0; border: none; /* 4px solid #150DD3/*#eb580c*/; }
         .list li div{font-size: 14px;}
     
+        }
+        @media only screen and (max-width: 768px) {
+            .list{display:block;}
+            .list li{height:600px;border: none;}
+            .list li div{font-size: 14px;}
+
         }
 </style>
 </head>
