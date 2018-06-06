@@ -73,7 +73,14 @@ grid-gap: 2px;
 grid-template-columns: 1fr 1fr;
 xgrid-auto-rows: 80px;
 }
-.list li {
+.circle {
+    border-radius: 50%;
+    width: 100%;
+    padding-bottom: 100%;
+    position:relative;
+    display: flex;
+  }
+.xlist li {
 background-color: #88d8b0;
 display: flex;
 align-items: center;
@@ -89,17 +96,21 @@ font-family: Arial, Helvetica, sans-serif;
 font-size: 18px;
 text-align:center;
 font-weight: 800;
-position: relative;
+position: absolute;
+width: 60%;
+left:17%;
+xbottom: 2px;
+xright: 20%;
 
 background: white;
 padding: 12px;
 opacity: 0.75;
 border-radius: 50px 50px;
 }
-.left{justify-content: center; padding: left 2px;} /*flex-start*/
-.right{justify-content: center; padding-right:2px;} /*flex-end*/
-.top{top: 30%;}
-.bottom{top: 30%;}
+.xleft{justify-content: flex-end; left:18%;} /*flex-start*/
+.xright{justify-content: flex-start; right:18%;} /*flex-end*/
+.top{top: 12%;}
+.bottom{bottom: 12%;}
 /*
 .right>.top{transform: rotate(330deg);}
 .right>.bottom{transform: rotate(30deg);}
@@ -154,40 +165,18 @@ display: inline;
 vertical-align: top;
 padding-top: 12px;
 }
-@media only screen and (max-width: 800px) {
-.list{xdisplay:block;}
-.list li{height:350px;border: none;}
-.list li div{font-size: 14px;}
 
-}        @media only screen and (max-width: 600px) {
+@media only screen and (max-width: 600px) {
 .list{display:block;}
-.list li{height:520px;border: none;}
-.list li div{font-size: 14px;}
+.xlist li{height:520px;border: none;}
+.list li div{font-size: 13px;}
+.top{top:77%;}
+.xright{left:18%;}
 
 }
-@media only screen and (max-width: 500px) {
-
-#wrapper{margin: 0px 0px;}
-.list{display:block;}
-.list li{height:440px; border: none; /* 4px solid #150DD3/*#eb580c*/; }
-.list li div{font-size: 14px;}
-
-}
-@media only screen and (max-width: 400px) {
-
-#wrapper{margin: 0px 0px;}
-.list{display:block;}
-.list li{height:340px; border: none; /* 4px solid #150DD3/*#eb580c*/; }
-.list li div{font-size: 14px;}
-
-}
-
 @media only screen and (max-width: 320px) {
+    .list li div{font-size: 12px;}
 
-    #wrapper{margin: 0px 0px;}
-    .list{display:block;}
-    .list li{height:280px; border: none; /* 4px solid #150DD3/*#eb580c*/; }
-    .list li div{font-size: 14px;}
 
     }
 
@@ -274,18 +263,18 @@ padding-top: 12px;
             </ul>
             </div>
 <ul class="list">
-<li class="right" style="background-image: url(https://lh3.googleusercontent.com/-B03gcaFaoh0/WxeoPO8wTFI/AAAAAAAAA7E/gZ2-m6l-PTYJpvfIAwiGhLGsd28oLq3GwCJoC/w530-h707-n/webphotos4.jpg);background-size: cover;">
-<div  class="bottom">Teach Your Yoga</div>
+<li class="circle " style="background-image: url(https://lh3.googleusercontent.com/-B03gcaFaoh0/WxeoPO8wTFI/AAAAAAAAA7E/gZ2-m6l-PTYJpvfIAwiGhLGsd28oLq3GwCJoC/w530-h707-n/webphotos4.jpg);background-size: cover;">
+<div  class="bottom right">Teach Your Yoga</div>
 </li>
 
-<li class="right" style="background-image: url(https://lh3.googleusercontent.com/-vGstkkaPVMI/WxeoLMRAL4I/AAAAAAAAA60/uzeUG42g1W4RLd_NpFT5p5HG76vVZYuZwCJoC/s0/webphotos11.jpg);background-size: cover;"> <!-- w530-h707-n -->
-    <div class="top">Be More, Do More With Yoga</div>
+<li class="circle " style="background-image: url(https://lh3.googleusercontent.com/-vGstkkaPVMI/WxeoLMRAL4I/AAAAAAAAA60/uzeUG42g1W4RLd_NpFT5p5HG76vVZYuZwCJoC/s0/webphotos11.jpg);background-size: cover;"> <!-- w530-h707-n -->
+    <div class="bottom left">Be More, Do More With Yoga</div>
 </li>
-<li class="left" style="background-image: url(https://lh3.googleusercontent.com/-at4BRwtOZr0/WxWMDGoO7HI/AAAAAAAAA4Q/W232tLCfbmom6Tc8AjyQC6ozUL0nWvtUgCJoC/w530-h398-n/webphotos12.jpg);background-size: cover;">
-<div class="top">Bring Out the Yoga in You</div>
+<li class="circle " style="background-image: url(https://lh3.googleusercontent.com/-at4BRwtOZr0/WxWMDGoO7HI/AAAAAAAAA4Q/W232tLCfbmom6Tc8AjyQC6ozUL0nWvtUgCJoC/w530-h398-n/webphotos12.jpg);background-size: cover;">
+<div class="top right">Bring Out the Yoga in You</div>
 </li>
-<li class="left" style="background-image: url('https://lh3.googleusercontent.com/-59oUpWgH4Wg/WxenwcgKF5I/AAAAAAAAA6g/RjwVMtRFp3IaLvwFCvc6DT8dhXCw51BTACJoC/w530-h764-n/Sunpidgeon%2Bpose.jpg');background-size: cover;"><!--https://lh3.googleusercontent.com/-otkxhZ_5c1s/WxUnbdP4v6I/AAAAAAAAA2s/29Xv2Ba8o6Ajs6ibeFNZkwkJlwZk4W9lQCJoC/w530-h574-n/webphotos23.jpg-->
-<div class="bottom">About Steve Avian</div>
+<li class="circle " style="background-image: url('https://lh3.googleusercontent.com/-59oUpWgH4Wg/WxenwcgKF5I/AAAAAAAAA6g/RjwVMtRFp3IaLvwFCvc6DT8dhXCw51BTACJoC/w530-h764-n/Sunpidgeon%2Bpose.jpg');background-size: cover;"><!--https://lh3.googleusercontent.com/-otkxhZ_5c1s/WxUnbdP4v6I/AAAAAAAAA2s/29Xv2Ba8o6Ajs6ibeFNZkwkJlwZk4W9lQCJoC/w530-h574-n/webphotos23.jpg-->
+<div class="top left">About Steve Avian</div>
 </li>
 
 
