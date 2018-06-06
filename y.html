@@ -80,7 +80,7 @@ line-height: 1;
     xjustify-content: flex-end;
     letter-spacing: 1px;
     height: 440px;
-    border-radius: 50%; /* 4px solid #150DD3/*#eb580c*/;   
+    xborder-radius: 50%; /* 4px solid #150DD3/*#eb580c*/;   
     xborder: double 6px #eb580c;
 }
 .list li div{
@@ -154,16 +154,44 @@ line-height: 1;
     vertical-align: top;
     padding-top: 12px;
   }
+  @media only screen and (max-width: 800px) {
+    .list{xdisplay:block;}
+    .list li{height:350px;border: none;}
+    .list li div{font-size: 14px;}
 
+}        @media only screen and (max-width: 600px) {
+    .list{display:block;}
+    .list li{height:520px;border: none;}
+    .list li div{font-size: 14px;}
 
-    @media only screen and (max-width: 768px) {
+}
+@media only screen and (max-width: 500px) {
+
+    #wrapper{margin: 0px 0px;}
+    .list{display:block;}
+    .list li{height:440px; border: none; /* 4px solid #150DD3/*#eb580c*/; }
+    .list li div{font-size: 14px;}
+
+    }
+@media only screen and (max-width: 400px) {
+
+    #wrapper{margin: 0px 0px;}
+    .list{display:block;}
+    .list li{height:340px; border: none; /* 4px solid #150DD3/*#eb580c*/; }
+    .list li div{font-size: 14px;}
+
+    }
+
+    @media only screen and (max-width: 320px) {
 
         #wrapper{margin: 0px 0px;}
         .list{display:block;}
-        .list li{height:320px;xborder-radius: 0; border: none; /* 4px solid #150DD3/*#eb580c*/; }
+        .list li{height:280px; border: none; /* 4px solid #150DD3/*#eb580c*/; }
         .list li div{font-size: 14px;}
     
         }
+
+
 </style>
 </head>
 <body>
