@@ -5091,10 +5091,10 @@ th.hidden-print, td.hidden-print {
 #sidebar-wrapper {
     overflow-y: auto !important;
     overflow-x: hidden !important;
-    padding: 10px;
+    padding: 5px;
     border: 1px solid #ccc;
     margin-left: -250px;
-    width: 250px;
+    width: 260px;
     background: #150DD3;
     position: fixed;
     height: 100%;
@@ -5206,12 +5206,12 @@ padding-left:14px;
 
 #wrapper.active {
   position: relative;
-  left: 250px;
+  left: 260px;
 }
 
 #wrapper.active #sidebar-wrapper {
   left: 250px;
-  width: 250px;
+  width: 260px;
   transition: all 0.4s ease 0s;
 }
 
@@ -5228,7 +5228,7 @@ padding-left:14px;
     .photo-right{float:right; padding: 20px;}
     .photo-left{float:left; padding: 20px;}
     .photo-tutor{float:left;padding:0px 10px 10px 0px;}
-    .sidebar-nav{margin-top:240px;}
+    .sidebar-nav{margin-top:40px;}
     .sub-menu{list-style: none;}
     .gallery-container{text-align:center;}
     .gallery-image{padding:20px; border:1px solid #cccccc;}
@@ -5248,5 +5248,5 @@ padding-left:14px;
 #sidebar-wrapper::-webkit-scrollbar-track-piece {background-color: #0000ff;-webkit-border-radius: 6px;}
 #sidebar-wrapper::-webkit-scrollbar-thumb:vertical {height: 20px;background-color: #fff;-webkit-border-radius: 6px;border: 1px solid #bbb;}
 #sidebar-wrapper::-webkit-scrollbar-thumb:horizontal {width: 50px;background-color: #666;-webkit-border-radius: 3px;}
-#sidebar-wrapper{overflow-y:auto !important;overflow-x:hidden !important;padding:10px;border: 1px solid #ccc;}
+#sidebar-wrapper{overflow-y:auto !important;overflow-x:hidden !important;}
 /* START SHAMA STYLEY */
