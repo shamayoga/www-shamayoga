@@ -1,5 +1,5 @@
 {% include head.html %}
-<body class='http://www.shamayoga.org.uk/'>
+<body class='home-page' style="background-image:url(https://i.pinimg.com/736x/7b/9d/29/7b9d29dbdc91bf6f417d986ceca1467f--indian-embroidery-designs-embroidery-patterns.jpg);background-size:cover;">
     <style>
 
         a{text-decoration:none;}
@@ -8,14 +8,14 @@
         padding-left: 0;
         list-style: none;
         display: grid;
-        grid-gap: 2px;
-        grid-template-columns: 1fr 1fr;
+        grid-gap: 8px;
+        grid-template-columns: 1fr 1fr 1fr;
         }
           .circle {
             flex: 1;
             background: #bada55;
             position:relative;
-            border-radius: 50%;
+            xborder-radius: 50%;
             margin: 5px;
           }
           .circle:before {
@@ -25,22 +25,22 @@
           }
         
         .list li div{
-        color: 	#eb580c/*#150DD3*/;
+        color: 	rgb(233, 149, 22)/*#150DD3*/;
         font-family: Arial, Helvetica, sans-serif;    
         font-size: 18px;
         text-align:center;
         font-weight: 800;
         position: absolute;
-        width: 60%;
-        left:17%;
-        background: white;
+        width: 100%;
+        left: 0;/*17%;*/
+        bottom:0;
+        background: rgba(255,255,255,0.75);
         padding: 12px;
-        opacity: 0.75;
-        border-radius: 50px 50px;
+        xborder-radius: 50px 50px;
         }
 
-        .top{top: 12%;}
-        .bottom{bottom: 12%;}
+        .xtop{top: 12%;}
+        .xbottom{bottom: 12%;}
 
         #wrapper {
         padding-left: 0;
@@ -56,7 +56,7 @@
             top: 20px;
         }
         #logo a{
-            color: rgb(20, 29, 210);
+            color: rgb(233, 149, 22);
             text-decoration:none;
             font-weight:bold;
         }
