@@ -5087,15 +5087,19 @@ th.hidden-print, td.hidden-print {
 }
 
 #sidebar-wrapper {
-  margin-left: -250px;
-  left: 250px;
-  width: 250px;
-  background: #150DD3;
-  position: fixed;
-  height: 100%;
-  overflow-y: auto;
-  z-index: 1000;
-  transition: all 0.4s ease 0s;
+    overflow-y: auto !important;
+    overflow-x: hidden !important;
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin-left: -250px;
+    width: 0px;
+    background: #150DD3;
+    position: fixed;
+    height: 100%;
+    overflow-y: auto;
+    z-index: 1000;
+    transition: all 0.4s ease 0s;
+    top: 40px;
 }
 
 #page-content-wrapper {

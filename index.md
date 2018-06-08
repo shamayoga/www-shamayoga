@@ -1,8 +1,21 @@
 ---
 title: Shamayoga - Learn yoga or Learn To Teach Yoga
 description:
-layout: page
+layout: homepage
 hero_image:
+bubbles:
+ - image: https://lh3.googleusercontent.com/-B03gcaFaoh0/WxeoPO8wTFI/AAAAAAAAA7E/gZ2-m6l-PTYJpvfIAwiGhLGsd28oLq3GwCJoC/w530-h707-n/webphotos4.jpg
+   label-text: Teach Your Yoga
+   label-position: bottom
+ - image: https://lh3.googleusercontent.com/-vGstkkaPVMI/WxeoLMRAL4I/AAAAAAAAA60/uzeUG42g1W4RLd_NpFT5p5HG76vVZYuZwCJoC/s0/webphotos11.jpg
+   label-text: Be More, Do More With Yoga
+   label-position: bottom
+ - image: https://lh3.googleusercontent.com/-at4BRwtOZr0/WxWMDGoO7HI/AAAAAAAAA4Q/W232tLCfbmom6Tc8AjyQC6ozUL0nWvtUgCJoC/w530-h398-n/webphotos12.jpg
+   label-text: Bring Out the Yoga in You
+   label-position: top
+ - image: https://lh3.googleusercontent.com/-59oUpWgH4Wg/WxenwcgKF5I/AAAAAAAAA6g/RjwVMtRFp3IaLvwFCvc6DT8dhXCw51BTACJoC/w530-h764-n/Sunpidgeon%2Bpose.jpg
+   label-text: About Steve Avian
+   label-position: top
 ---
 
 # The Roots of Shamayoga
