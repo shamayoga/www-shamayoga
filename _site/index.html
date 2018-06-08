@@ -16,57 +16,13 @@
 <meta content='http://www.shamayoga.org.uk/' property='og:url'/>
 <meta content='shamayoga' property='og:title'/>
 <meta content='' property='og:description'/>
-<link rel="stylesheet" href="http://localhost:8000/css/styles.css">
+<link rel="stylesheet" href="http://localhost:4000/css/styles.css">
 </head>
 <body class='http://www.shamayoga.org.uk/'>
     <style>
-            @font-face {
-                font-family: 'FontAwesome';
-                src: url('https://netdna.bootstrapcdn.com/font-awesome/4.0.3/fonts/fontawesome-webfont.eot?v=4.0.3');
-                src: url('https://netdna.bootstrapcdn.com/font-awesome/4.0.3/fonts/fontawesome-webfont.eot?#iefix&v=4.0.3') format('embedded-opentype'), url('https://netdna.bootstrapcdn.com/font-awesome/4.0.3/fonts/fontawesome-webfont.woff?v=4.0.3') format('woff'), url('https://netdna.bootstrapcdn.com/font-awesome/4.0.3/fonts/fontawesome-webfont.ttf?v=4.0.3') format('truetype'), url('https://netdna.bootstrapcdn.com/font-awesome/4.0.3/fonts/fontawesome-webfont.svg?v=4.0.3#fontawesomeregular') format('svg');
-                font-weight: normal;
-                font-style: normal;
-              }
-              .fa {
-                display: inline-block;
-                font-family: FontAwesome;
-                font-style: normal;
-                font-weight: normal;
-                line-height: 1;
-                -webkit-font-smoothing: antialiased;
-                -moz-osx-font-smoothing: grayscale;
-              }      
-              .fa-bars:before {content: "\f0c9";}
-              .fa-times:before {content: "\f00d";}
-              .fa-chevron-left:before {content: "\f053";}
-              .fa-chevron-right:before {content: "\f054";}
-              .fa-at:before {content: "@";font-weight: bold;}
-              .fa-phone:before {content: "\f095";}
-              .fa-envelope:before {content: "\f0e0";}
+
         a{text-decoration:none;}
-        .btn{
-        display: inline-block;
-        padding: 6px 12px;
-        margin-bottom: 0;
-        font-size: 14px;
-        font-weight: bold;
-        line-height: 1.428571429;
-        text-align: center;
-        white-space: nowrap;
-        vertical-align: middle;
-        cursor: pointer;
-        border: 1px solid transparent;
-        border-radius: 4px;
-        -webkit-user-select: none;
-        }
-        .fa{
-        font-family: FontAwesome;
-        font-style: normal;
-        font-weight: normal;
-        font-size: 32px;
-        line-height: 1;
-        -webkit-font-smoothing: antialiased;
-        }
+
         .list {
         padding-left: 0;
         list-style: none;
@@ -101,29 +57,29 @@
         opacity: 0.75;
         border-radius: 50px 50px;
         }
-        .xleft{justify-content: flex-end; left:18%;} /*flex-start*/
-        .xright{justify-content: flex-start; right:18%;} /*flex-end*/
+
         .top{top: 12%;}
         .bottom{bottom: 12%;}
-     
-        
+
         #wrapper {
         padding-left: 0;
         max-width: 1000px;
         margin: auto;
         }
-        #sidebar-wrapper.active {
-        position: absolute;
-        margin-left: 0px;
-        width: 250px;
-        top: 40px;
-        }
         
-        #menu-toggle {
-        display: inline;
-        vertical-align: top;
-        padding-top: 12px;
+        #open-nav {
+            font-size: 42px;
+
+            position: absolute;
+            left: 45px;
+            top: 20px;
         }
+        #logo a{
+            color: rgb(20, 29, 210);
+            text-decoration:none;
+        }
+
+
         @media only screen and (max-width: 480px) {
         .list{display:block;}
         .list li div{font-size: 11px;}
@@ -136,62 +92,120 @@
 <header role="banner">
 
 </header>
-<div id="logo"><a class="btn btn-default fa fa-bars" href="#" id="menu-toggle"><i class="icon-reorder"></i></a><center><a href="https://www.shamayoga.org.uk"><img src="https://lh3.googleusercontent.com/-uxk3bsCn-Uk/WxgCKv_X-jI/AAAAAAAAA8w/rGdoNqMRGsAXiO1DTk1kYJCjDwpICuEBgCJoC/s340/newShamalogo.png"/></a></center></div>
+<div id="logo"><a id="open-nav" href="#" onclick="openNav()">&#9776;</a><center><a href="https://www.shamayoga.org.uk"><img src="https://lh3.googleusercontent.com/-uxk3bsCn-Uk/WxgCKv_X-jI/AAAAAAAAA8w/rGdoNqMRGsAXiO1DTk1kYJCjDwpICuEBgCJoC/s340-e30/newShamalogo.png"/></a></center></div>
 
-    <div id='sidebar-wrapper'>
+    <style>
+        
+        .overlay {
+            height: 0%;
+            width: 100%;
+            position: fixed;
+            z-index: 1;
+            top: 0;
+            left: 0;
+            background-color: rgb(20, 29, 210);
+            background-color: rgba(20, 29, 210, 0.9);
+            overflow-y: hidden;
+            transition: 0.5s;
+        }
+        
+        .overlay-content {
+            position: relative;
+            top: 25%;
+            width: 100%;
+            text-align: center;
+            margin-top: 30px;
+            list-style:none;
+        }
+        
+        .overlay a {
+            padding: 8px;
+            text-decoration: none;
+            font-size: 36px;
+            color: #ffffff;
+            display: block;
+            transition: 0.3s;
+        }
+        
+        .overlay a:hover, .overlay a:focus {
+            color: #f1f1f1;
+        }
+        
+        .overlay .closebtn {
+            position: absolute;
+            top: 20px;
+            left: 45px;
+            font-size: 60px;
+        }
+        
+        @media screen and (max-height: 450px) {
+          .overlay {overflow-y: auto;}
+          .overlay a {font-size: 20px}
+          .overlay .closebtn {
+            font-size: 40px;
+            top: 15px;
+            right: 35px;
+          }
+        }
+        </style>
+<div id="myNav" class="overlay">
+    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
     <!--<img src='//lh3.googleusercontent.com/-m-ps-HTMaPA/VXvWJgrgwWI/AAAAAAAAAcw/ytjryWMzUGs/s254/AvianLogoBluesml.jpg'/><br/> -->
     <!-- sidebar -->
-    <ul class='sidebar-nav'>
+    <ul class='overlay-content'>
+     
     <li class='sidebar-brand'><a href='/'><img src='//lh3.googleusercontent.com/-VVq1Y-FFG9g/VX27FPwKmhI/AAAAAAAAAeE/N0Kv79ld2ZA/s160/shamskranjiblue.png'/></a>
     </li>
-    <li><a href="http://localhost:8000">home</a></li>
+    <li><a href="http://localhost:4000">home</a></li>
     
-       <li><a href="http://localhost:8000/steve-avian/">Steve Avian</a></li>
-       
-       
-    
-       <li><a href="http://localhost:8000/everything-yoga/">Everything Yoga</a></li>
+       <li><a href="http://localhost:4000/steve-avian/">Steve Avian</a></li>
        
        
     
-       <li><a href="http://localhost:8000/teacher-training/">Teacher Training</a></li>
+       <li><a href="http://localhost:4000/everything-yoga/">Everything Yoga</a></li>
        
        
     
-       <li><a href="http://localhost:8000/contact-shamayoga/">Contact Shamayoga</a></li>
+       <li><a href="http://localhost:4000/teacher-training/">Teacher Training</a></li>
        
        
     
-       <li><a href="http://localhost:8000/shamayoga-in-the-media/">In the Media</a></li>
+       <li><a href="http://localhost:4000/contact-shamayoga/">Contact Shamayoga</a></li>
        
        
     
-       <li><a href="http://localhost:8000/search"><i class="fa fa-search"></i></a></li>
+       <li><a href="http://localhost:4000/shamayoga-in-the-media/">In the Media</a></li>
        
        
     
-    <li><a href="https://www.facebook.com/Shamayoga9/"><img src="https://lh3.googleusercontent.com/-M7v0Yd8tD42GHMSCMmaq_1tYuigGv87QV2WRz5nEUt9DnfUa29CtjhsfFGpE6Y8CvFoLkIKp31eqSyILzen8_GyttxT1z3w=s120"></a></li>
+       <li><a href="http://localhost:4000/search"><i class="fa fa-search"></i></a></li>
+       
+       
+    
+    <li><a href="https://www.facebook.com/Shamayoga9/"><img src="https://lh3.googleusercontent.com/-M7v0Yd8tD42GHMSCMmaq_1tYuigGv87QV2WRz5nEUt9DnfUa29CtjhsfFGpE6Y8CvFoLkIKp31eqSyILzen8_GyttxT1z3w=s120-e30"></a></li>
     </ul>
     </div>
+
+
    
    
 <section id="wrapper">
  
     <ul class="list" id="list">
     
-    <li class="circle " style="background-image: url(https://lh3.googleusercontent.com/-B03gcaFaoh0/WxeoPO8wTFI/AAAAAAAAA7E/gZ2-m6l-PTYJpvfIAwiGhLGsd28oLq3GwCJoC/w530-h707-n/webphotos4.jpg);background-size: cover;">
+    <li class="circle " style="background-image: url(https://lh3.googleusercontent.com/-B03gcaFaoh0/WxeoPO8wTFI/AAAAAAAAA7E/gZ2-m6l-PTYJpvfIAwiGhLGsd28oLq3GwCJoC/w530-h707-n-e30/webphotos4.jpg);background-size: cover;">
     <div  class="bottom right">Teach Your Yoga</div>
     </li>
     
-    <li class="circle " style="background-image: url(https://lh3.googleusercontent.com/-vGstkkaPVMI/WxeoLMRAL4I/AAAAAAAAA60/uzeUG42g1W4RLd_NpFT5p5HG76vVZYuZwCJoC/s0/webphotos11.jpg);background-size: cover;">
+    <li class="circle " style="background-image: url(https://lh3.googleusercontent.com/-vGstkkaPVMI/WxeoLMRAL4I/AAAAAAAAA60/uzeUG42g1W4RLd_NpFT5p5HG76vVZYuZwCJoC/s0-e30/webphotos11.jpg);background-size: cover;">
     <div  class="bottom right">Be More, Do More With Yoga</div>
     </li>
     
-    <li class="circle " style="background-image: url(https://lh3.googleusercontent.com/-at4BRwtOZr0/WxWMDGoO7HI/AAAAAAAAA4Q/W232tLCfbmom6Tc8AjyQC6ozUL0nWvtUgCJoC/w530-h398-n/webphotos12.jpg);background-size: cover;">
+    <li class="circle " style="background-image: url(https://lh3.googleusercontent.com/-at4BRwtOZr0/WxWMDGoO7HI/AAAAAAAAA4Q/W232tLCfbmom6Tc8AjyQC6ozUL0nWvtUgCJoC/w530-h398-n-e30/webphotos12.jpg);background-size: cover;">
     <div  class="top right">Bring Out the Yoga in You</div>
     </li>
     
-    <li class="circle " style="background-image: url(https://lh3.googleusercontent.com/-59oUpWgH4Wg/WxenwcgKF5I/AAAAAAAAA6g/RjwVMtRFp3IaLvwFCvc6DT8dhXCw51BTACJoC/w530-h764-n/Sunpidgeon%2Bpose.jpg);background-size: cover;">
+    <li class="circle " style="background-image: url(https://lh3.googleusercontent.com/-59oUpWgH4Wg/WxenwcgKF5I/AAAAAAAAA6g/RjwVMtRFp3IaLvwFCvc6DT8dhXCw51BTACJoC/w530-h764-n-e30/Sunpidgeon%2Bpose.jpg);background-size: cover;">
     <div  class="top right">About Steve Avian</div>
     </li>
     
@@ -227,11 +241,19 @@ In the yoga tradition Shama refers to the conscious harmony of the Whole Self â€
 <!-- Custom JavaScript for the Menu Toggle -->
 <script>
     //<![CDATA[
-    $('#menu-toggle').click(function(e) {
-        e.preventDefault();
-        $('#sidebar-wrapper').toggleClass('active');
-        $('#menu-toggle').toggleClass('fa-bars fa-chevron-left');
-    });
+    //$('#menu-toggle').click(function(e) {
+        //e.preventDefault();
+        //$('#sidebar-wrapper').toggleClass('active');
+        //$('#menu-toggle').toggleClass('fa-bars fa-chevron-left');
+    //});
+
+    function openNav() {
+        document.getElementById("myNav").style.height = "100%";
+    }
+    
+    function closeNav() {
+        document.getElementById("myNav").style.height = "0%";
+    }
     //]]>
         </script>
     </html>

@@ -1,53 +1,9 @@
 {% include head.html %}
 <body class='http://www.shamayoga.org.uk/'>
     <style>
-            @font-face {
-                font-family: 'FontAwesome';
-                src: url('https://netdna.bootstrapcdn.com/font-awesome/4.0.3/fonts/fontawesome-webfont.eot?v=4.0.3');
-                src: url('https://netdna.bootstrapcdn.com/font-awesome/4.0.3/fonts/fontawesome-webfont.eot?#iefix&v=4.0.3') format('embedded-opentype'), url('https://netdna.bootstrapcdn.com/font-awesome/4.0.3/fonts/fontawesome-webfont.woff?v=4.0.3') format('woff'), url('https://netdna.bootstrapcdn.com/font-awesome/4.0.3/fonts/fontawesome-webfont.ttf?v=4.0.3') format('truetype'), url('https://netdna.bootstrapcdn.com/font-awesome/4.0.3/fonts/fontawesome-webfont.svg?v=4.0.3#fontawesomeregular') format('svg');
-                font-weight: normal;
-                font-style: normal;
-              }
-              .fa {
-                display: inline-block;
-                font-family: FontAwesome;
-                font-style: normal;
-                font-weight: normal;
-                line-height: 1;
-                -webkit-font-smoothing: antialiased;
-                -moz-osx-font-smoothing: grayscale;
-              }      
-              .fa-bars:before {content: "\f0c9";}
-              .fa-times:before {content: "\f00d";}
-              .fa-chevron-left:before {content: "\f053";}
-              .fa-chevron-right:before {content: "\f054";}
-              .fa-at:before {content: "@";font-weight: bold;}
-              .fa-phone:before {content: "\f095";}
-              .fa-envelope:before {content: "\f0e0";}
+
         a{text-decoration:none;}
-        .btn{
-        display: inline-block;
-        padding: 6px 12px;
-        margin-bottom: 0;
-        font-size: 14px;
-        font-weight: bold;
-        line-height: 1.428571429;
-        text-align: center;
-        white-space: nowrap;
-        vertical-align: middle;
-        cursor: pointer;
-        border: 1px solid transparent;
-        border-radius: 4px;
-        -webkit-user-select: none;
-        }
-        .fa{
-        font-family: FontAwesome;
-        font-style: normal;
-        font-weight: normal;
-        font-size: 32px;
-        line-height: 1;
-        -webkit-font-smoothing: antialiased;
-        }
+
         .list {
         padding-left: 0;
         list-style: none;
@@ -82,29 +38,29 @@
         opacity: 0.75;
         border-radius: 50px 50px;
         }
-        .xleft{justify-content: flex-end; left:18%;} /*flex-start*/
-        .xright{justify-content: flex-start; right:18%;} /*flex-end*/
+
         .top{top: 12%;}
         .bottom{bottom: 12%;}
-     
-        
+
         #wrapper {
         padding-left: 0;
         max-width: 1000px;
         margin: auto;
         }
-        #sidebar-wrapper.active {
-        position: absolute;
-        margin-left: 0px;
-        width: 250px;
-        top: 40px;
-        }
         
-        #menu-toggle {
-        display: inline;
-        vertical-align: top;
-        padding-top: 12px;
+        #open-nav {
+            font-size: 42px;
+
+            position: absolute;
+            left: 45px;
+            top: 20px;
         }
+        #logo a{
+            color: rgb(20, 29, 210);
+            text-decoration:none;
+        }
+
+
         @media only screen and (max-width: 480px) {
         .list{display:block;}
         .list li div{font-size: 11px;}
@@ -117,9 +73,9 @@
 <header role="banner">
 
 </header>
-<div id="logo"><a class="btn btn-default fa fa-bars" href="#" id="menu-toggle"><i class="icon-reorder"></i></a><center><a href="https://www.shamayoga.org.uk"><img src="https://lh3.googleusercontent.com/-uxk3bsCn-Uk/WxgCKv_X-jI/AAAAAAAAA8w/rGdoNqMRGsAXiO1DTk1kYJCjDwpICuEBgCJoC/s340-e30/newShamalogo.png"/></a></center></div>
+<div id="logo"><a id="open-nav" href="#" onclick="openNav()">&#9776;</a><center><a href="https://www.shamayoga.org.uk"><img src="https://lh3.googleusercontent.com/-uxk3bsCn-Uk/WxgCKv_X-jI/AAAAAAAAA8w/rGdoNqMRGsAXiO1DTk1kYJCjDwpICuEBgCJoC/s340-e30/newShamalogo.png"/></a></center></div>
 
-    {% include sidebar-nav.html %}
+    {% include overlay-nav.html %}
    
    
 <section id="wrapper">
@@ -143,11 +99,19 @@
 <!-- Custom JavaScript for the Menu Toggle -->
 <script>
     //<![CDATA[
-    $('#menu-toggle').click(function(e) {
-        e.preventDefault();
-        $('#sidebar-wrapper').toggleClass('active');
-        $('#menu-toggle').toggleClass('fa-bars fa-chevron-left');
-    });
+    //$('#menu-toggle').click(function(e) {
+        //e.preventDefault();
+        //$('#sidebar-wrapper').toggleClass('active');
+        //$('#menu-toggle').toggleClass('fa-bars fa-chevron-left');
+    //});
+
+    function openNav() {
+        document.getElementById("myNav").style.height = "100%";
+    }
+    
+    function closeNav() {
+        document.getElementById("myNav").style.height = "0%";
+    }
     //]]>
         </script>
     </html>

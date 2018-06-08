@@ -5092,14 +5092,14 @@ th.hidden-print, td.hidden-print {
     padding: 10px;
     border: 1px solid #ccc;
     margin-left: -250px;
-    width: 0px;
+    width: 250px;
     background: #150DD3;
     position: fixed;
     height: 100%;
     overflow-y: auto;
     z-index: 1000;
     transition: all 0.4s ease 0s;
-    top: 40px;
+    xtop: 40px;
 }
 
 #page-content-wrapper {

@@ -1,0 +1,88 @@
+<style>
+        
+        .overlay {
+            height: 0%;
+            width: 100%;
+            position: fixed;
+            z-index: 1;
+            top: 0;
+            left: 0;
+            background-color: rgb(20, 29, 210);
+            background-color: rgba(20, 29, 210, 0.9);
+            overflow-y: hidden;
+            transition: 0.5s;
+        }
+        
+        .overlay-content {
+            position: relative;
+            top: 25%;
+            width: 100%;
+            text-align: center;
+            margin-top: 30px;
+            list-style:none;
+        }
+        
+        .overlay a {
+            padding: 8px;
+            text-decoration: none;
+            font-size: 36px;
+            color: #ffffff;
+            display: block;
+            transition: 0.3s;
+        }
+        
+        .overlay a:hover, .overlay a:focus {
+            color: #f1f1f1;
+        }
+        
+        .overlay .closebtn {
+            position: absolute;
+            top: 20px;
+            left: 45px;
+            font-size: 60px;
+        }
+        
+        @media screen and (max-height: 450px) {
+          .overlay {overflow-y: auto;}
+          .overlay a {font-size: 20px}
+          .overlay .closebtn {
+            font-size: 40px;
+            top: 15px;
+            right: 35px;
+          }
+        }
+        </style>
+<div id="myNav" class="overlay">
+    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+    <!--<img src='//lh3.googleusercontent.com/-m-ps-HTMaPA/VXvWJgrgwWI/AAAAAAAAAcw/ytjryWMzUGs/s254/AvianLogoBluesml.jpg'/><br/> -->
+    <!-- sidebar -->
+    <ul class='overlay-content'>
+     
+    <li class='sidebar-brand'><a href='/'><img src='//lh3.googleusercontent.com/-VVq1Y-FFG9g/VX27FPwKmhI/AAAAAAAAAeE/N0Kv79ld2ZA/s160/shamskranjiblue.png'/></a>
+    </li>
+    <li><a href="{{ site.url }}">home</a></li>
+    {% for nav in site.data.main-nav %}
+       <li><a href="{{ site.url }}{{ nav.link }}">{{ nav.name }}</a></li>
+       {% if nav.link == '/everything-yoga/' and page.url contains '/everything-yoga/' %}
+        {% if nav.submenu != null %}
+        <ul class="sub-menu">
+            {% for item in nav.submenu %}
+            <li><a href="{{ site.url }}{{ item.sublink }}">{{ item.subname }}</a></li>
+            {% endfor %}
+        </ul>
+        {% endif %}
+       {% endif %}
+       {% if nav.link == '/teacher-training/' and page.url contains '/teacher-training/'%}
+       {% if nav.submenu != null %}
+       <ul class="sub-menu">
+           {% for item in nav.submenu %}
+           <li><a href="{{ site.url }}{{ item.sublink }}">{{ item.subname }}</a></li>
+           {% endfor %}
+       </ul>
+       {% endif %}
+      {% endif %}
+    {% endfor %}
+    <li><a href="https://www.facebook.com/Shamayoga9/"><img src="https://lh3.googleusercontent.com/-M7v0Yd8tD42GHMSCMmaq_1tYuigGv87QV2WRz5nEUt9DnfUa29CtjhsfFGpE6Y8CvFoLkIKp31eqSyILzen8_GyttxT1z3w=s120-e30"></a></li>
+    </ul>
+    </div>
+
