@@ -1,6 +1,10 @@
 
 {% include head.html %}
-<body class='http://www.shamayoga.org.uk/'>
+{% if page.url contains '/teacher-training/'%}
+<body class='green'></body>
+{% else %}
+<body class='blue'></body>
+{% endif %}
 <div id='wrapper'>
 <!-- Sidebar -->
 {% include sidebar-nav.html %}

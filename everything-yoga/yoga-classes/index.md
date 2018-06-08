@@ -5,6 +5,9 @@ layout: page
 hero_image:
 ---
 
+# Yoga Classes
+{: .shamafont}
+
 ### Ongoing Classes in Sheffield with Steve Avian &nbsp;
 
 Classic alignment based Hatha Yoga to invigourate the body, uplift the mind and bring out the Yoga in you.&nbsp;

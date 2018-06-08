@@ -6,7 +6,8 @@ hero_image:
 ---
 
 
-# Steve Avian A Life in Yoga
+# Steve Avian A Life in Yoga 
+{: .shamafont}
 
 Steve Avian is the founder of the Shamayoga school. He is an internationally qualified (FRYOG- ICM) yoga teacher with over 30 years experience of yoga and has been teaching yoga for over 18 years. He has studied yoga in the UK, India, Europe and the USA. He is also a member of the Yoga Alliance and the Independent Yoga Network.
 

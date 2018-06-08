@@ -6,6 +6,7 @@ hero-img:
 ---
 
 # Train to be  a Yoga Teacher With Shamayoga
+{: .shamafont}
 
 {: .post-header}
 
