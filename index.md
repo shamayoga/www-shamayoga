@@ -13,7 +13,8 @@ bubbles:
  - image: https://lh3.googleusercontent.com/-at4BRwtOZr0/WxWMDGoO7HI/AAAAAAAAA4Q/W232tLCfbmom6Tc8AjyQC6ozUL0nWvtUgCJoC/w530-h398-n-e30/webphotos12.jpg
    label-text: Bring Out the Yoga in You
    label-position: top
- - image: https://lh3.googleusercontent.com/-59oUpWgH4Wg/WxenwcgKF5I/AAAAAAAAA6g/RjwVMtRFp3IaLvwFCvc6DT8dhXCw51BTACJoC/w530-h764-n-e30/Sunpidgeon%2Bpose.jpg
+ - image: https://lh3.googleusercontent.com/--bZu9VLnBJY/WxqDkQM1X7I/AAAAAAAAA98/hFClglrJ28suPL2fEzSDaNe5iji7i9wcgCJoC/w530-h795-n-e30/wood-panels.jpg
+   old-image: https://lh3.googleusercontent.com/-59oUpWgH4Wg/WxenwcgKF5I/AAAAAAAAA6g/RjwVMtRFp3IaLvwFCvc6DT8dhXCw51BTACJoC/w530-h764-n-e30/Sunpidgeon%2Bpose.jpg
    label-text: About Steve Avian
    label-position: top
 ---
