@@ -1,6 +1,12 @@
 
 {% include head.html %}
-<body class='http://www.shamayoga.org.uk/'>
+{% if page.url contains '/teacher-training/'%}
+<body class='teacher-training'></body>
+{% elsif page.url contains '/everything-yoga/'%}
+<body class='everything-yoga'></body>
+{% else %}
+<body class='shama'></body>
+{% endif %}
 <div id='wrapper'>
 <!-- Sidebar -->
 {% include sidebar-nav.html %}
