@@ -79,8 +79,41 @@
             text-decoration:none;
             font-weight:bold;
         }
+        h1{margin-top:60px;text-align:center;}
+        #roots{
+            padding:24px;
+            -webkit-column-count: 2; /* Chrome, Safari, Opera */
+            -moz-column-count: 2; /* Firefox */
+            column-count: 2;
+            -webkit-column-gap: 40px; /* Chrome, Safari, Opera */
+            -moz-column-gap: 40px; /* Firefox */
+            column-gap: 40px;
+            font-size: 18px;
+        }
+        #shama-offer{
+            list-style: none;
+            display:grid;
+            grid-template-columns: 1fr 1fr ;
+            grid-gap: 24px;
+        }
 
+        #shama-offer li{
+            background-color: white;
+            border: 1px solid grey;
+            padding: 16px;
+        }
 
+        @media only screen and (max-width: 600px) {
+            #roots{
+                -webkit-column-count: 1; /* Chrome, Safari, Opera */
+                -moz-column-count: 1; /* Firefox */
+                column-count: 1;
+            }
+            #shama-offer{
+
+                grid-template-columns: 1fr 1fr;
+                grid-gap: 48px;
+            }
         @media only screen and (max-width: 480px) {
         .list{display:block;}
         .list li div{font-size: 11px;}
@@ -227,22 +260,20 @@
     </li>
     
     </ul>
-    <h1 id="the-roots-of-shamayoga">The Roots of Shamayoga</h1>
-
+    <h1>The Roots of Shamayoga</h1>
+<div id="roots">
 <p>Rooted in the ancient classical Hatha style, Shamayoga is an inspired and integrated eclectic approach to learning and teaching yoga in the 21st century.
 In the yoga tradition Shama refers to the conscious harmony of the Whole Self – awareness, body, mind and emotions. In the Vedas (India’s oldest sacred texts) the word Yoga is used alongside the word Shama, meaning harmonious integration. To me, this suggests the idea of inner harmony and the profound connection between our inner world and the Universe itself. Yoga is there to help us explore this mystical connection in a balanced and harmonious way.</p>
-
 <p>Shama sounds good on any tongue with the first vowel lengthened as in lama.</p>
+<p>There are several ways to connect to the Yoga teachings and it's my wish that all may serve to integrate with your own creative outlook and the possibilities of our time.</p>
 
-<p>There are several ways to connect to the Yoga teachings and it’s my wish that all may serve to integrate with your own creative outlook and the possibilities of our time.</p>
-
-<ul>
-  <li>For Yoga Practioners wanting to deepen and share their knowledge we offer a one year teacher training course</li>
-  <li>For beginners and advanced alike we offer workshops, yoga retreats, ongoing yoga classes, audio instructional and ambient albums and film</li>
-  <li>If you are a student or teacher of yoga in search of fresh insights and some missing keys to your art, these books are for you, as well as for those who, for whatever reason are irresistibly drawn to inner adventures.</li>
-  <li>You can subscribe to our free newsletter to receive inspirational articles, downloads and updates on shamayoga activities</li>
+</div>
+<ul id="shama-offer">
+<li>For Yoga Practioners wanting to deepen and share their knowledge we offer a one year teacher training course</li>
+<li>For beginners and advanced alike we offer workshops, yoga retreats, ongoing yoga classes, audio instructional and ambient albums and film</li>
+<li>If you are a student or teacher of yoga in search of fresh insights and some missing keys to your art, these books are for you, as well as for those who, for whatever reason are irresistibly drawn to inner adventures.</li>
+<li>You can subscribe to our free newsletter to receive inspirational articles, downloads and updates on shamayoga activities</li>
 </ul>
-
 
     </section>
 
