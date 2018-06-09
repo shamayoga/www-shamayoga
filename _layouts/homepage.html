@@ -1,5 +1,5 @@
 {% include head.html %}
-<body class='home-page' style="background-color:#ffc107;xbackground-image:url(https://lh3.googleusercontent.com/-VWKPXA9Z7Po/WxqVs41GsYI/AAAAAAAAA-w/6I_vuF0V4_MxiX0E-rXUiy-F3FgbrQJ_wCJoC/s0-e30/swirls.jpg);background-size:cover;">
+<body class='home-page' style="background-color:#ffc107;background-image:url(https://lh3.googleusercontent.com/-VWKPXA9Z7Po/WxqVs41GsYI/AAAAAAAAA-w/6I_vuF0V4_MxiX0E-rXUiy-F3FgbrQJ_wCJoC/s0-e30/swirls.jpg);background-size:cover;">
     <style>
 
         a{text-decoration:none;}
@@ -59,7 +59,10 @@
             text-decoration:none;
             font-weight:bold;
         }
-        h1{margin-top:60px;text-align:center;}
+        h1{margin-top:60px;text-align:center;
+            color:white;
+            text-shadow: -1px -1px white, 1px 1px #000;
+        }
         #roots{
             padding:24px;
             -webkit-column-count: 2; /* Chrome, Safari, Opera */
@@ -69,6 +72,8 @@
             -moz-column-gap: 40px; /* Firefox */
             column-gap: 40px;
             font-size: 18px;
+            color:white;
+            text-shadow: -1px -1px white, 1px 1px #000;
         }
         #shama-offer{
             list-style: none;
@@ -77,6 +82,7 @@
             grid-template-columns: 1fr 1fr ;
             grid-gap: 24px;
             padding: 20px;
+
         }
 
         #shama-offer li{
@@ -100,9 +106,10 @@
                 grid-gap: 48px;
             }
         @media only screen and (max-width: 480px) {
-        .list{display:block;}
+        .list{grid-template-columns: 1fr;}
         .list li div{font-size: 11px;}
-        .top{top:77%;}
+        .xtop{top:77%;}
+        #shama-offer{grid-template-columns: 1fr ;}
         }
         @media only screen and (max-width: 360px) {
         #open-nav{
