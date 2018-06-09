@@ -26,6 +26,7 @@ bubbles:
 ---
 
 # The Roots of Shamayoga
+{: #roots}
 
 Rooted in the ancient classical Hatha style, Shamayoga is an inspired and integrated eclectic approach to learning and teaching yoga in the 21st century.
 In the yoga tradition Shama refers to the conscious harmony of the Whole Self – awareness, body, mind and emotions. In the Vedas (India’s oldest sacred texts) the word Yoga is used alongside the word Shama, meaning harmonious integration. To me, this suggests the idea of inner harmony and the profound connection between our inner world and the Universe itself. Yoga is there to help us explore this mystical connection in a balanced and harmonious way.
