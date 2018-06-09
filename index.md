@@ -34,8 +34,8 @@ In the yoga tradition Shama refers to the conscious harmony of the Whole Self �
 
 </div>
 <ul id="shama-offer">
-<li>For Yoga Practioners wanting to deepen and share their knowledge we offer a one year teacher training course</li>
-<li>For beginners and advanced alike we offer workshops, yoga retreats, ongoing yoga classes, audio instructional and ambient albums and film</li>
-<li>If you are a student or teacher of yoga in search of fresh insights and some missing keys to your art, these books are for you, as well as for those who, for whatever reason are irresistibly drawn to inner adventures.</li>
-<li>You can subscribe to our free newsletter to receive inspirational articles, downloads and updates on shamayoga activities</li>
+<li><center style="font-size:60px;color:#e99516;">ॐ</center>For Yoga Practioners wanting to deepen and share their knowledge we offer a one year teacher training course</li>
+<li><center style="font-size:60px;color:#e99516;">ॐ</center>For beginners and advanced alike we offer workshops, yoga retreats, ongoing yoga classes, audio instructional and ambient albums and film</li>
+<li><center style="font-size:60px;color:#e99516;">ॐ</center>If you are a student or teacher of yoga in search of fresh insights and some missing keys to your art, these books are for you, as well as for those who, for whatever reason are irresistibly drawn to inner adventures.</li>
+<li><center style="font-size:60px;color:#e99516;">ॐ</center>You can subscribe to our free newsletter to receive inspirational articles, downloads and updates on shamayoga activities</li>
 </ul>
