@@ -13,15 +13,15 @@ bubbles:
  - image: https://lh3.googleusercontent.com/-at4BRwtOZr0/WxWMDGoO7HI/AAAAAAAAA4Q/W232tLCfbmom6Tc8AjyQC6ozUL0nWvtUgCJoC/w530-h398-n-e30/webphotos12.jpg
    label-text: Bring Out the Yoga in You
    label-position: top
- - image: https://lh3.googleusercontent.com/--bZu9VLnBJY/WxqDkQM1X7I/AAAAAAAAA98/hFClglrJ28suPL2fEzSDaNe5iji7i9wcgCJoC/w530-h795-n-e30/wood-panels.jpg
+ - image: https://dqzrr9k4bjpzk.cloudfront.net/images/4767287/468518136.jpg
+   label-text: Royalty Free Yoga Music
+   label-position: top
+ - image: https://lh3.googleusercontent.com/-oVGo9yp2su4/Wxz8mxnUpOI/AAAAAAAAA_w/iYHBa8ZcpCIxM16uhXvvqQLYf5rh-kWfwCJoC/w530-h530-n-e30/lotusSteve.png
    label-text: About Steve Avian
    label-position: top
- - image: https://lh3.googleusercontent.com/--bZu9VLnBJY/WxqDkQM1X7I/AAAAAAAAA98/hFClglrJ28suPL2fEzSDaNe5iji7i9wcgCJoC/w530-h795-n-e30/wood-panels.jpg
-   label-text: About Steve Avian
-   label-position: top
- - image: https://lh3.googleusercontent.com/--bZu9VLnBJY/WxqDkQM1X7I/AAAAAAAAA98/hFClglrJ28suPL2fEzSDaNe5iji7i9wcgCJoC/w530-h795-n-e30/wood-panels.jpg
+ - image: https://lh3.googleusercontent.com/-ceL-jr12WMg/Wx0MA8GBRoI/AAAAAAAABBI/Hi4Powlp47EVwzYh2s7s4JeWfMihsbDSQCJoC/w530-h675-n/yogaallianace.png
    old-image: https://lh3.googleusercontent.com/-59oUpWgH4Wg/WxenwcgKF5I/AAAAAAAAA6g/RjwVMtRFp3IaLvwFCvc6DT8dhXCw51BTACJoC/w530-h764-n-e30/Sunpidgeon%2Bpose.jpg
-   label-text: About Steve Avian
+   label-text: Member of Yoga Aliance
    label-position: top
 ---
 
@@ -35,8 +35,8 @@ In the yoga tradition Shama refers to the conscious harmony of the Whole Self �
 
 </div>
 <ul id="shama-offer">
-<li><center style="font-size:60px;color:#e99516;">ॐ</center>For Yoga Practioners wanting to deepen and share their knowledge we offer a one year teacher training course</li>
-<li><center style="font-size:60px;color:#e99516;">ॐ</center>For beginners and advanced alike we offer workshops, yoga retreats, ongoing yoga classes, audio instructional and ambient albums and film</li>
-<li><center style="font-size:60px;color:#e99516;">ॐ</center>If you are a student or teacher of yoga in search of fresh insights and some missing keys to your art, these books are for you, as well as for those who, for whatever reason are irresistibly drawn to inner adventures.</li>
-<li><center style="font-size:60px;color:#e99516;">ॐ</center>You can subscribe to our free newsletter to receive inspirational articles, downloads and updates on shamayoga activities</li>
+<li>For Yoga Practioners wanting to deepen and share their knowledge we offer a one year teacher training course</li>
+<li>For beginners and advanced alike we offer workshops, yoga retreats, ongoing yoga classes, audio instructional and ambient albums and film</li>
+<li>If you are a student or teacher of yoga in search of fresh insights and some missing keys to your art, these books are for you, as well as for those who, for whatever reason are irresistibly drawn to inner adventures.</li>
+<li>You can subscribe to our free newsletter to receive inspirational articles, downloads and updates on shamayoga activities</li>
 </ul>
