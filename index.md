@@ -4,26 +4,26 @@ description:
 layout: homepage
 hero_image:
 bubbles:
- - image: https://lh3.googleusercontent.com/-B03gcaFaoh0/WxeoPO8wTFI/AAAAAAAAA7E/gZ2-m6l-PTYJpvfIAwiGhLGsd28oLq3GwCJoC/w530-h707-n-e30/webphotos4.jpg
+ - image: https://lh3.googleusercontent.com/-mdh_ADYLZ08/Wx6LMz0WCiI/AAAAAAAABFw/RnXZcDOKNGkWypd5-OCncPUIrcOjdUVRwCJoC/w530-h516-n-e30/webphotos27.jpg
    label-text: Teach Your Yoga
    label-position: bottom
- - image: https://lh3.googleusercontent.com/-vGstkkaPVMI/WxeoLMRAL4I/AAAAAAAAA60/uzeUG42g1W4RLd_NpFT5p5HG76vVZYuZwCJoC/s0-e30/webphotos11.jpg
-   label-text: Be More, Do More With Yoga
-   label-position: bottom
- - image: https://lh3.googleusercontent.com/-f2RZ_T_4owY/Wx55VPZpyBI/AAAAAAAABC8/oN1FdnFX9FYYh_1FKnzGMALdkoFN-4FcgCJoC/w530-h384-n-e30/webphotos12.jpg
+ - image: https://lh3.googleusercontent.com/-4SRh08WPwMo/Wx6MRsjoTXI/AAAAAAAABGc/Ev1usdrNjc8HU-6AkqrNI7R8FOn_J48qQCJoC/w530-h492-n-e30/webphotos12.jpg
    label-text: Bring Out the Yoga in You
    label-position: top
- - image: https://dqzrr9k4bjpzk.cloudfront.net/images/4767287/468518136.jpg
-   label-text: Royalty Free Yoga Music
-   label-position: top
- - image: https://lh3.googleusercontent.com/-FI_EZKMwt1U/Wx54rqhEIcI/AAAAAAAABCk/OnyDAd9oD9MxVAlA2_aOLBLtHo8nVj64ACJoC/w530-h606-n-e30/Sunpidgeon%2Bpose.jpg
+ - image: https://lh3.googleusercontent.com/-9PAqMmYNreA/Wx6IQckMP4I/AAAAAAAABEo/lMptznnu91IIGNcWFL4TjVQzRRTDU93iACJoC/w530-h530-n-e30/colorlotus.png
    old-image: https://lh3.googleusercontent.com/-oVGo9yp2su4/Wxz8mxnUpOI/AAAAAAAAA_w/iYHBa8ZcpCIxM16uhXvvqQLYf5rh-kWfwCJoC/w530-h530-n-e30/lotusSteve.png
    label-text: About Steve Avian
    label-position: top
- - image: https://lh3.googleusercontent.com/-ceL-jr12WMg/Wx0MA8GBRoI/AAAAAAAABBI/Hi4Powlp47EVwzYh2s7s4JeWfMihsbDSQCJoC/w530-h675-n/yogaallianace.png
-   old-image: https://lh3.googleusercontent.com/-59oUpWgH4Wg/WxenwcgKF5I/AAAAAAAAA6g/RjwVMtRFp3IaLvwFCvc6DT8dhXCw51BTACJoC/w530-h764-n-e30/Sunpidgeon%2Bpose.jpg
-   label-text: Member of Yoga Aliance
+ - image: https://dqzrr9k4bjpzk.cloudfront.net/images/4767287/468518144.jpg
+   label-text: Royalty Free Yoga Music
    label-position: top
+ - image: https://lh3.googleusercontent.com/-59oUpWgH4Wg/WxenwcgKF5I/AAAAAAAAA6g/RjwVMtRFp3IaLvwFCvc6DT8dhXCw51BTACJoC/w530-h764-n-e30/Sunpidgeon%2Bpose.jpg
+   old-image: https://lh3.googleusercontent.com/-ceL-jr12WMg/Wx0MA8GBRoI/AAAAAAAABBI/Hi4Powlp47EVwzYh2s7s4JeWfMihsbDSQCJoC/w530-h675-n/yogaallianace.png
+   label-text: In the Media
+   label-position: top
+ - image: https://lh3.googleusercontent.com/-fayaVdykrnA/Wx6Kcv-Em7I/AAAAAAAABFU/98nc-4Rnq_8QrseI9gY0FT-Z_fo6QQ5eACJoC/w530-h707-n-e30/FlameHands.jpg
+   label-text: Subscribe
+   label-position: bottom
 ---
 
 
