@@ -10,7 +10,7 @@ bubbles:
  - image: https://lh3.googleusercontent.com/-vGstkkaPVMI/WxeoLMRAL4I/AAAAAAAAA60/uzeUG42g1W4RLd_NpFT5p5HG76vVZYuZwCJoC/s0-e30/webphotos11.jpg
    label-text: Be More, Do More With Yoga
    label-position: bottom
- - image: https://lh3.googleusercontent.com/-at4BRwtOZr0/WxWMDGoO7HI/AAAAAAAAA4Q/W232tLCfbmom6Tc8AjyQC6ozUL0nWvtUgCJoC/w530-h398-n-e30/webphotos12.jpg
+ - image: https://lh3.googleusercontent.com/-f2RZ_T_4owY/Wx55VPZpyBI/AAAAAAAABC8/oN1FdnFX9FYYh_1FKnzGMALdkoFN-4FcgCJoC/w530-h384-n-e30/webphotos12.jpg
    label-text: Bring Out the Yoga in You
    label-position: top
  - image: https://dqzrr9k4bjpzk.cloudfront.net/images/4767287/468518136.jpg
