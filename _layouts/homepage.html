@@ -1,7 +1,8 @@
 {% include head.html %}
-<body class='home-page' style="background-color:#ffc107;background-image:url(https://www.hdwallpaper.nu/wp-content/uploads/2015/10/lotus_wallpaper_008.jpg );xbackground-size:cover;">
-    <!-- https://lh3.googleusercontent.com/-VWKPXA9Z7Po/WxqVs41GsYI/AAAAAAAAA-w/6I_vuF0V4_MxiX0E-rXUiy-F3FgbrQJ_wCJoC/s0-e30/swirls.jpg -->
+<body class='home-page' ></body>
     <style>
+
+        .home-page{background-image:url(https://lh3.googleusercontent.com/-unZWJEV4FN4/Wx5VOFldD5I/AAAAAAAABB4/WIn-8Nt8FuYLPpSfRH2jIBPNgC-bKuZzgCJoC/w1000-e30/lotus_wallpaper.jpg );background-size:cover;}
 
         a{text-decoration:none;}
 
@@ -94,6 +95,7 @@
             font-size: 24px;
             font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
         }
+        svg{fill:red;}
         #shama-offer li::before{
             content:url(img/lotus.svg);/*"☸";/*"ॐ";*/
             font-size:60px;
@@ -102,8 +104,12 @@
             display: block;
         }
 
+        @media only screen and (max-width: 768px) {
+            .home-page{background-image:url(https://lh3.googleusercontent.com/-unZWJEV4FN4/Wx5VOFldD5I/AAAAAAAABB4/WIn-8Nt8FuYLPpSfRH2jIBPNgC-bKuZzgCJoC/w500-h1200-p-e30/lotus_wallpaper.jpg );background-size:cover;}
+        }
 
         @media only screen and (max-width: 600px) {
+     
             #roots{
                 -webkit-column-count: 1; /* Chrome, Safari, Opera */
                 -moz-column-count: 1; /* Firefox */

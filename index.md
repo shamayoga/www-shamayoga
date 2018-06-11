@@ -16,7 +16,8 @@ bubbles:
  - image: https://dqzrr9k4bjpzk.cloudfront.net/images/4767287/468518136.jpg
    label-text: Royalty Free Yoga Music
    label-position: top
- - image: https://lh3.googleusercontent.com/-oVGo9yp2su4/Wxz8mxnUpOI/AAAAAAAAA_w/iYHBa8ZcpCIxM16uhXvvqQLYf5rh-kWfwCJoC/w530-h530-n-e30/lotusSteve.png
+ - image: https://lh3.googleusercontent.com/-59oUpWgH4Wg/WxenwcgKF5I/AAAAAAAAA6g/RjwVMtRFp3IaLvwFCvc6DT8dhXCw51BTACJoC/w530-h764-n-e30/Sunpidgeon%2Bpose.jpg
+   old-image: https://lh3.googleusercontent.com/-oVGo9yp2su4/Wxz8mxnUpOI/AAAAAAAAA_w/iYHBa8ZcpCIxM16uhXvvqQLYf5rh-kWfwCJoC/w530-h530-n-e30/lotusSteve.png
    label-text: About Steve Avian
    label-position: top
  - image: https://lh3.googleusercontent.com/-ceL-jr12WMg/Wx0MA8GBRoI/AAAAAAAABBI/Hi4Powlp47EVwzYh2s7s4JeWfMihsbDSQCJoC/w530-h675-n/yogaallianace.png
