@@ -4,7 +4,7 @@ description:
 layout: homepage
 hero_image:
 bubbles:
- - image: https://lh3.googleusercontent.com/-EC4lHYMzhw4/Wx_1ZJhUiFI/AAAAAAAABK0/lxf_okflHzY_4jZoJqUkR3e6zGIRmXunwCJoC/w530-h530-n-e30/teaching.png
+ - image: https://lh3.googleusercontent.com/-6qu6rHkxauA/Wx_6U-LsoII/AAAAAAAABMU/A_EUrnLAnEUD8cObbus0cM6oXbsBRNfWACJoC/w530-h530-n-e30/teach2.png
    label-text: Teach Your Yoga
    label-position: bottom
  - image: https://lh3.googleusercontent.com/-4SRh08WPwMo/Wx6MRsjoTXI/AAAAAAAABGc/Ev1usdrNjc8HU-6AkqrNI7R8FOn_J48qQCJoC/w530-h492-n-e30/webphotos12.jpg
