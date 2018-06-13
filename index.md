@@ -29,10 +29,12 @@ bubbles:
 
 <div id="roots">
 <h1>The Roots of Shamayoga</h1>
+<div id="roots-text">
 <p>Rooted in the ancient classical Hatha style, Shamayoga is an inspired and integrated eclectic approach to learning and teaching yoga in the 21st century.
 In the yoga tradition Shama refers to the conscious harmony of the Whole Self – awareness, body, mind and emotions. In the Vedas (India’s oldest sacred texts) the word Yoga is used alongside the word Shama, meaning harmonious integration. To me, this suggests the idea of inner harmony and the profound connection between our inner world and the Universe itself. Yoga is there to help us explore this mystical connection in a balanced and harmonious way.</p>
 <p>Shama sounds good on any tongue with the first vowel lengthened as in lama.</p>
 <p>There are several ways to connect to the Yoga teachings and it's my wish that all may serve to integrate with your own creative outlook and the possibilities of our time.</p>
+</div>
 
 </div>
 <ul id="shama-offer">

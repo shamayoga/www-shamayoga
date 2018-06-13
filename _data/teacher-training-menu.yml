@@ -1,0 +1,16 @@
+    - name: Course Content
+      link: /teacher-training/course-content/
+    - name: Accredititation
+      link: /teacher-training/accredititation/
+    - name: The Tutors
+      link: /teacher-training/the-tutors/
+    - name: Prerequisites
+      link: /teacher-training/prerequisites/
+    - name: Testimonials
+      link: /teacher-training/testimonials/
+    - name: Venues
+      link: /teacher-training/venues/
+    - name: Fees &amp; Application
+      link: /teacher-training/course-fees-and-application/
+    - xname: Course Application
+      xlink: /teacher-training/course-application/
