@@ -14,14 +14,14 @@ bubbles:
    old-image: https://lh3.googleusercontent.com/-oVGo9yp2su4/Wxz8mxnUpOI/AAAAAAAAA_w/iYHBa8ZcpCIxM16uhXvvqQLYf5rh-kWfwCJoC/w530-h530-n-e30/lotusSteve.png
    label-text: About Steve Avian
    label-position: top
- - image: https://lh3.googleusercontent.com/-Q0z6sPh-sOs/Wx9zZHemd3I/AAAAAAAABKU/qSlOd9JtD5UdP-l4ksHNbdd3TCzxcNWTgCJoC/w530-h399-n-e30/Shavasana%2BYogic%2BRelaxation.jpg
+ - image: https://lh3.googleusercontent.com/-SganatVb3Uk/WyT98iqhfzI/AAAAAAAABUs/cextEKLtox4aRn1IjvZ_ctOBwkgcT9bSwCJoC/w530-h506-n/musicbowl.jpg
    label-text: Royalty Free Yoga Music
    label-position: top
  - image: https://lh3.googleusercontent.com/-fayaVdykrnA/Wx6Kcv-Em7I/AAAAAAAABFU/98nc-4Rnq_8QrseI9gY0FT-Z_fo6QQ5eACJoC/w530-h707-n-e30/FlameHands.jpg
    label-text: Subscribe
    label-position: bottom
- - image: https://lh3.googleusercontent.com/-6JRD06XZcCM/WyS_fmDOBBI/AAAAAAAABSY/mExR1bcBDYEW2cDenkJ2C-QRtGSmbBW4wCJoC/w530-h353-n/musicbowl.jpg 
-   old-image: https://lh3.googleusercontent.com/-V09m366Mv9k/WyS_m31NFyI/AAAAAAAABSY/fj5sBCRK-oklE9fIdX-5dJh2n-OpRryKACJoC/w530-h308-n/class.jpg
+ - image: https://lh3.googleusercontent.com/-V09m366Mv9k/WyS_m31NFyI/AAAAAAAABSY/fj5sBCRK-oklE9fIdX-5dJh2n-OpRryKACJoC/w530-h308-n/class.jpg
+   old-image: 
    label-text: In the Media
    label-position: top
 ---
