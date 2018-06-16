@@ -17,13 +17,13 @@ bubbles:
  - image: https://lh3.googleusercontent.com/-Q0z6sPh-sOs/Wx9zZHemd3I/AAAAAAAABKU/qSlOd9JtD5UdP-l4ksHNbdd3TCzxcNWTgCJoC/w530-h399-n-e30/Shavasana%2BYogic%2BRelaxation.jpg
    label-text: Royalty Free Yoga Music
    label-position: top
- - image: https://lh3.googleusercontent.com/-59oUpWgH4Wg/WxenwcgKF5I/AAAAAAAAA6g/RjwVMtRFp3IaLvwFCvc6DT8dhXCw51BTACJoC/w530-h764-n-e30/Sunpidgeon%2Bpose.jpg
-   old-image: https://lh3.googleusercontent.com/-ceL-jr12WMg/Wx0MA8GBRoI/AAAAAAAABBI/Hi4Powlp47EVwzYh2s7s4JeWfMihsbDSQCJoC/w530-h675-n/yogaallianace.png
-   label-text: In the Media
-   label-position: top
  - image: https://lh3.googleusercontent.com/-fayaVdykrnA/Wx6Kcv-Em7I/AAAAAAAABFU/98nc-4Rnq_8QrseI9gY0FT-Z_fo6QQ5eACJoC/w530-h707-n-e30/FlameHands.jpg
    label-text: Subscribe
    label-position: bottom
+ - image: https://lh3.googleusercontent.com/-6JRD06XZcCM/WyS_fmDOBBI/AAAAAAAABSY/mExR1bcBDYEW2cDenkJ2C-QRtGSmbBW4wCJoC/w530-h353-n/musicbowl.jpg 
+   old-image: https://lh3.googleusercontent.com/-V09m366Mv9k/WyS_m31NFyI/AAAAAAAABSY/fj5sBCRK-oklE9fIdX-5dJh2n-OpRryKACJoC/w530-h308-n/class.jpg
+   label-text: In the Media
+   label-position: top
 ---
 
 
