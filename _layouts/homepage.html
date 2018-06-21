@@ -25,7 +25,7 @@
             flex: 1;
             background: rgba(255,255,255,0.15);
             position:relative;
-            xborder-radius: 50%;
+            border-radius: 50%;
             /*margin: 5px;*/
             margin:5px 5px 40px 5px;
           }
@@ -36,15 +36,15 @@
           }
         
         .list li div{
-        color: 	rgb(253, 134, 19)/*#150DD3*/;
+        color: 	rgb(216, 22, 59)/*#150DD3*/;
         font-family: Arial, Helvetica, sans-serif;    
         font-size: 18px;
         text-align:center;
         font-weight: 800;
         position: absolute;
+        top: 103%;
         width: 100%;    
         margin-bottom: 40px;
-
         background: rgba(255,255,255,0.75);
         padding: 4px;
         xborder-radius: 50px 50px;
@@ -66,17 +66,18 @@
             top: 20px;
         }
         #logo a{
-            color: rgb(252, 220, 149);
+            color: rgb(216, 22, 59);
+            text-shadow: 1px 1px rgb(252, 220, 149);
             text-decoration:none;
             font-weight:bold;
         }
         h1{
         }
         #roots{
-            padding:30px 75px 75px 75px;
+            padding:95px 75px 75px 75px;
             margin: 100px 0px 40px 0px;;
             background-color: rgba(255,255,255,0.25);
-            border: 3px solid rgb(252, 220, 149);
+            border: 1px solid rgb(252, 220, 149);
         }
         #roots-text{
          
@@ -89,42 +90,52 @@
         font-size: 22px;
         color:white;
         font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        text-shadow: 1px 1px rgb(3, 3, 3);
         }
         #roots h1{
             font-weight: bold;
             font-size: 5em;
             letter-spacing:0.13em;
             /*margin-top:20px;*/
-            color:rgb(252, 220, 149);
-            text-shadow: 1px 1px #000;
+            color:rgb(216, 22, 59);
+            text-shadow: 1px 1px rgb(252, 220, 149);
         }
-        #shama-offer{
+        #accreditations{width:90%; margin: auto;xbackground-color: rgba(255,255,255,0.25);padding: 20px;margin-top:80px;display:flex;justify-content:space-around;}
+        #hp-testimonials{
             list-style: none;
-            display:grid;
-            grid-auto-columns: minmax(10px, auto);
-            grid-template-columns: 1fr 1fr ;
-            grid-gap: 32px;
+            xdisplay:grid;
+            xgrid-auto-columns: minmax(10px, auto);
+            xgrid-template-columns: 1fr 1fr ;
+            xgrid-gap: 32px;
             padding: 20px;
+            column-count: 2;
+            -webkit-column-count: 2;
+            column-gap: 40px;
+            -webkit-column-gap: 40px;
 
         }
 
-        #shama-offer li{
+        #hp-testimonials li{
             background-color: rgba(255,255,255,0.25);
-            border: 3px solid rgb(252, 220, 149);
+            border: 1px solid rgb(252, 220, 149);
             padding: 24px;
             font-size: 18px;
             color:white;
             font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            text-shadow: 1px 1px rgb(3, 3, 3);
             margin-bottom:20px;
+            break-inside: avoid;
+            -webkit-column-break-inside: avoid;
         }
         svg{fill:red;}
-        #shama-offer li::before{
-            content:url(https://lh3.googleusercontent.com/-fGsnzRDk58Y/Wx6OaJMS2iI/AAAAAAAABG8/7v1D41VdLRgfvNgzyCxMV8itD8sar8K7ACJoC/s60-c-e30/sun.png);/*"☸";/*"ॐ";*/
-            font-size:60px;
+        #hp-testimonials li::before{
+            content:url(https://lh3.googleusercontent.com/-fGsnzRDk58Y/Wx6OaJMS2iI/AAAAAAAABG8/7v1D41VdLRgfvNgzyCxMV8itD8sar8K7ACJoC/s40-c-e30/sun.png);/*"☸";/*"ॐ";*/
+            font-size:20px;
             text-align:center;
             color:#e99516;
             display: block;
         }
+        .testimonee{display:block;color:rgb(207, 207, 207);font-family:Arial, Helvetica, sans-serif;text-shadow: none;}
 
         @media only screen and (max-width: 768px) {
             #roots h1{
@@ -152,17 +163,19 @@
                 column-count: 1;
                 font-size: 18px;
             }
-            #shama-offer{
+            #hp-testimonials{
 
                 grid-template-columns: 1fr 1fr;
                 grid-gap: 48px;
+                column-count: 1;
+                -webkit-column-count:1;
             }
         @media only screen and (max-width: 480px) {
             img {max-width: 80%;height: auto;}
         .list{grid-template-columns: 1fr;}
         .list li div{font-size: 11px;}
         .xtop{top:77%;}
-        #shama-offer{grid-template-columns: 1fr ;}
+        #hp-testimonials{grid-template-columns: 1fr ;}
         }
         @media only screen and (max-width: 360px) {
         #open-nav{
@@ -180,7 +193,7 @@
 
 </header>
 <div id="logo"><a id="open-nav" href="#" onclick="openNav()">&#9776;</a><center><a href="https://www.shamayoga.org.uk">
-    <img src="https://lh3.googleusercontent.com/-QlSQ4-vrBxo/WyEQhkOHniI/AAAAAAAABPA/B777mv9I9HoUr1Ahq1vr-J9_UPauh15BQCJoC/s0-e30/bigshamalogoorange.png"/></a></center></div>
+    <img src="https://lh3.googleusercontent.com/-Y2T098nPvCA/WyWMgFKOoBI/AAAAAAAABVk/niqgl0M23IsDGRUzCsvnRlZxQrg93SC_wCJoC/s0-e30/yellowshadowlogo.png"/></a></center></div>
 
     {% include overlay-nav.html %}
    
@@ -194,7 +207,21 @@
     </li>
     {% endfor %}
     </ul>
+    <div id="accreditations">
+        {% for Accreditation in page.Accreditations %}
+        <img src="{{Accreditation.logo}}"/>
+        {% endfor %}
+    </div>
+
     {{ content }}
+    <ul id="hp-testimonials">
+        {% for testimonial in page.testimonials %}
+        <li>{{testimonial.testimony}}
+        <span class="testimonee">{{testimonial.name}}</span>
+        </li>
+        {% endfor %}
+    </ul>
+
     </section>
 
    

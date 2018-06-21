@@ -7,39 +7,55 @@ bubbles:
  - image: https://lh3.googleusercontent.com/-pqFA3R0QHZs/WyAqlxb1GjI/AAAAAAAABNE/_5Pm0IJUyPIPMowIepk90XY9Tzurttv4QCJoC/w530-h530-n-e30/teach2.png
    label-text: Teach Your Yoga
    label-position: bottom
- - image: https://lh3.googleusercontent.com/-4SRh08WPwMo/Wx6MRsjoTXI/AAAAAAAABGc/Ev1usdrNjc8HU-6AkqrNI7R8FOn_J48qQCJoC/w530-h492-n-e30/webphotos12.jpg
+ - image: https://lh3.googleusercontent.com/-fayaVdykrnA/Wx6Kcv-Em7I/AAAAAAAABFU/98nc-4Rnq_8QrseI9gY0FT-Z_fo6QQ5eACJoC/w530-h707-n-e30/FlameHands.jpg
+   label-text: Subscribe
+   label-position: bottom
+ - image: https://lh3.googleusercontent.com/-sh4OD_NGS44/WyWWVpQeqCI/AAAAAAAABZA/480AQz9pd4UWTbUWfgjblQhhDM5Pe6osgCJoC/w530-h530-n/bring-ls.png
    label-text: Bring Out the Yoga in You
+   label-position: top
+ - image: https://lh3.googleusercontent.com/-t5nAF6hlROg/WyWU3SdMYBI/AAAAAAAABYU/snKlS0QR6ts1OD9j31AV0YchPiDNKxRNACJoC/w530-h530-n/class-ls.png
+   old-image: 
+   label-text: In the Media
    label-position: top
  - image: https://lh3.googleusercontent.com/-9PAqMmYNreA/Wx6IQckMP4I/AAAAAAAABEo/lMptznnu91IIGNcWFL4TjVQzRRTDU93iACJoC/w530-h530-n-e30/colorlotus.png
    old-image: https://lh3.googleusercontent.com/-oVGo9yp2su4/Wxz8mxnUpOI/AAAAAAAAA_w/iYHBa8ZcpCIxM16uhXvvqQLYf5rh-kWfwCJoC/w530-h530-n-e30/lotusSteve.png
    label-text: About Steve Avian
    label-position: top
- - image: https://lh3.googleusercontent.com/-Q0z6sPh-sOs/Wx9zZHemd3I/AAAAAAAABKU/qSlOd9JtD5UdP-l4ksHNbdd3TCzxcNWTgCJoC/w530-h399-n-e30/Shavasana%2BYogic%2BRelaxation.jpg
+ - image: https://lh3.googleusercontent.com/-y-Zmc_k-tvQ/WyWTM51NuQI/AAAAAAAABXk/L8DH_qCyVIU98t0wtW7LI4Q9g6gwWdNlgCJoC/w530-h530-n-e30/bowl-ls.png
    label-text: Royalty Free Yoga Music
    label-position: top
- - image: https://lh3.googleusercontent.com/-59oUpWgH4Wg/WxenwcgKF5I/AAAAAAAAA6g/RjwVMtRFp3IaLvwFCvc6DT8dhXCw51BTACJoC/w530-h764-n-e30/Sunpidgeon%2Bpose.jpg
-   old-image: https://lh3.googleusercontent.com/-ceL-jr12WMg/Wx0MA8GBRoI/AAAAAAAABBI/Hi4Powlp47EVwzYh2s7s4JeWfMihsbDSQCJoC/w530-h675-n/yogaallianace.png
-   label-text: In the Media
-   label-position: top
- - image: https://lh3.googleusercontent.com/-fayaVdykrnA/Wx6Kcv-Em7I/AAAAAAAABFU/98nc-4Rnq_8QrseI9gY0FT-Z_fo6QQ5eACJoC/w530-h707-n-e30/FlameHands.jpg
-   label-text: Subscribe
-   label-position: bottom
+Accreditations:
+ - logo: https://lh3.googleusercontent.com/-SH2FpbQ_18E/WyoXHx2l1yI/AAAAAAAABeg/rH9QCUS5T84Aei-5rsPNvSm0QZmpm6S1gCJoC/h140-e30/eryt-rys.png
+ - logo: https://lh3.googleusercontent.com/-3USD_2MFXF0/WyoVadCKJOI/AAAAAAAABdI/kFru00WDTVQikfH0z2l2Yr75T_m0iG9eQCJoC/h140-e30/YACEP.png
+ - logo: https://lh3.googleusercontent.com/-P2TWLiXwcIQ/WyoWOLxZOsI/AAAAAAAABd4/ON7-pzDYaTAJsvV2J79v2hArw-EGSXL2gCJoC/h140-e30/YA.png
+ - logo: https://lh3.googleusercontent.com/-Jw5huKeTu30/WyoVd-ZIQLI/AAAAAAAABdI/I9jVwyRKBjYw7Ojdqm4_mvCpNW6QTynvQCJoC/h140-e30/FRYOG-logo_retina.gif
+testimonials:
+ - testimony: An intensive, well paced course, exploring all the aspects of yoga. This course gives a solid basis from which to teach while allowing students to be creative and develop their own individual style.  A chance to contemplate the nature of your own spiritual journey and watch it begin to unfold!
+   name: Sarah(Atkin)
+ - testimony: Very relaxed yet professional instruction.  Safe and inclusive environment.  Outstanding course. 
+   name: Andy (Chapman)
+ - testimony: I am so pleased I made the decision to do this course!<br/>Steve's deep passion for yoga is very inspiring. His knowledge and understanding of the principles of yoga are invaluable. With a friendly teaching style and respect for everybody's unique needs he understands how to bring out the best in his students.<br/>Opportunities to teach at bi-monthly workshops are a great way to explore and experience teaching. Steve encouraged me to find my inner yoga teacher and I now enjoy teaching yoga with a confidence I would never have imagined.<br/>The relaxed atmosphere brought our group together and every weekend was a joy with lots of laughter.<br/>This was a magical, life enriching course that also gave a solid grounding in teaching yoga.<br/>I can't thank you enough Steve.
+   name: Ruth (Robson)
+ - testimony: Thank you so much.  It’s the best thing I’ve ever done. 
+   name: Anne Meadows.
+ - testimony: A comprehensive and professional course that has managed to capture a real personal feel to it. I am enjoying every moment! I think the course is suitable for a real range of people- our group consists of experienced teachers through to people that just wish to expand their knowledge and enjoyment of Yoga.<br/>Every weekend is like going on a retreat to recharge!
+   name: Jo (Boltt)
+ - testimony: Thanks so much. Hugely appreciate all the teaching.  The pace, delivery, it feels spacious, nurturing, warming, very motivating.
+   name: Lucette Henderson
+ - testimony: I have thoroughly enjoyed Steve's Yoga Teacher Training. It covered all aspects of yoga, from the more physical asanas to meditation and relaxation techniques, as well as working with energy, and the broader aspects of the philosophy of yoga.<br/>Basically it gave me the opportunity to approach yoga as a lifestyle rather than just a body/mind exercise. It taught me how to integrate yoga into every aspect of my daily life. By the end of the course I felt confident that I could stand in front of a class and teach yoga.<br/>The poses were analysed in depth, in particular under the point of view of correct alignment. I also loved the specific classes about teaching yoga to children or pregnant women.<br/>Steve manages to give his students a good understanding of all aspects of yoga, and at the same time each aspect is studied in depth. I also enjoyed the atmosphere of his classes, where I met lovely people who I am now friends with.<br/>I would recommend Steve's Yoga Teacher Training to anyone who wants to become a yoga teacher  and also to anyone who wants to experience yoga from a deeper point of view than that of a normal yoga class.
+   name: Roberta
 ---
 
 
 <div id="roots">
-<h1>The Roots of Shamayoga</h1>
+<!--<h1>The Roots of Shamayoga</h1>-->
 <div id="roots-text">
-<p>Rooted in the ancient classical Hatha style, Shamayoga is an inspired and integrated eclectic approach to learning and teaching yoga in the 21st century.
-In the yoga tradition Shama refers to the conscious harmony of the Whole Self – awareness, body, mind and emotions. In the Vedas (India’s oldest sacred texts) the word Yoga is used alongside the word Shama, meaning harmonious integration. To me, this suggests the idea of inner harmony and the profound connection between our inner world and the Universe itself. Yoga is there to help us explore this mystical connection in a balanced and harmonious way.</p>
-<p>Shama sounds good on any tongue with the first vowel lengthened as in lama.</p>
-<p>There are several ways to connect to the Yoga teachings and it's my wish that all may serve to integrate with your own creative outlook and the possibilities of our time.</p>
+<p>Rooted in the ancient classical Hatha style, Shamayoga is an inspired and integrated eclectic approach to learning and teaching yoga in the 21st century.</p>
+<p>In the yoga tradition Shama refers to the conscious harmony of the Whole Self – awareness, body, mind and emotions. In the Vedas (India’s oldest sacred texts) the word Yoga is used alongside the word Shama, meaning harmonious union. To me, this suggests the idea of inner harmony and the profound connection between our inner world and the Universe itself. Yoga is there to help us explore this mystical connection in a balanced and harmonious way.</p>
+<p>For Yoga Practioners wanting to deepen and share their knowledge we offer a one year (200hrs) internationally recognised Yoga Alliance certificated teacher training course covering all aspects of yoga practice, theory and teaching.</p>
+<p>
+For beginners and advanced alike we offer ongoing yoga classes, workshops, yoga retreats and ambient albums and film.</p>
+<p>All styles and spiritual paths warmly welcomed.</p>
+</div>
 </div>
 
-</div>
-<ul id="shama-offer">
-<li>For Yoga Practioners wanting to deepen and share their knowledge we offer a one year teacher training course</li>
-<li>For beginners and advanced alike we offer workshops, yoga retreats, ongoing yoga classes, audio instructional and ambient albums and film</li>
-<li>If you are a student or teacher of yoga in search of fresh insights and some missing keys to your art, these books are for you, as well as for those who, for whatever reason are irresistibly drawn to inner adventures.</li>
-<li>You can subscribe to our free newsletter to receive inspirational articles, downloads and updates on shamayoga activities</li>
-</ul>

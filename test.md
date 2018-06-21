@@ -24,6 +24,11 @@ bubbles:
  - image: https://lh3.googleusercontent.com/-y-Zmc_k-tvQ/WyWTM51NuQI/AAAAAAAABXk/L8DH_qCyVIU98t0wtW7LI4Q9g6gwWdNlgCJoC/w530-h530-n-e30/bowl-ls.png
    label-text: Royalty Free Yoga Music
    label-position: top
+Accreditations:
+ - logo: https://lh3.googleusercontent.com/-SH2FpbQ_18E/WyoXHx2l1yI/AAAAAAAABeg/rH9QCUS5T84Aei-5rsPNvSm0QZmpm6S1gCJoC/h140-e30/eryt-rys.png
+ - logo: https://lh3.googleusercontent.com/-3USD_2MFXF0/WyoVadCKJOI/AAAAAAAABdI/kFru00WDTVQikfH0z2l2Yr75T_m0iG9eQCJoC/h140-e30/YACEP.png
+ - logo: https://lh3.googleusercontent.com/-P2TWLiXwcIQ/WyoWOLxZOsI/AAAAAAAABd4/ON7-pzDYaTAJsvV2J79v2hArw-EGSXL2gCJoC/h140-e30/YA.png
+ - logo: https://lh3.googleusercontent.com/-Jw5huKeTu30/WyoVd-ZIQLI/AAAAAAAABdI/I9jVwyRKBjYw7Ojdqm4_mvCpNW6QTynvQCJoC/h140-e30/FRYOG-logo_retina.gif
 ---
 
 
