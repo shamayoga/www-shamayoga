@@ -38,10 +38,10 @@ testimonials:
    name: Andy (Chapman)
  - testimony: Thank you so much.  It’s the best thing I’ve ever done. 
    name: Anne Meadows.
- - testimony: A comprehensive and professional course that has managed to capture a real personal feel to it. I am enjoying every moment! I think the course is suitable for a real range of people- our group consists of experienced teachers through to people that just wish to expand their knowledge and enjoyment of Yoga.<br/>Every weekend is like going on a retreat to recharge!
-   name: Jo (Boltt)
  - testimony: Thanks so much. Hugely appreciate all the teaching.  The pace, delivery, it feels spacious, nurturing, warming, very motivating.
    name: Lucette Henderson
+ - testimony: A comprehensive and professional course that has managed to capture a real personal feel to it. I am enjoying every moment! I think the course is suitable for a real range of people- our group consists of experienced teachers through to people that just wish to expand their knowledge and enjoyment of Yoga.<br/>Every weekend is like going on a retreat to recharge!
+   name: Jo (Boltt)
  - testimony: I have thoroughly enjoyed Steve's Yoga Teacher Training. It covered all aspects of yoga, from the more physical asanas to meditation and relaxation techniques, as well as working with energy, and the broader aspects of the philosophy of yoga.<br/>Basically it gave me the opportunity to approach yoga as a lifestyle rather than just a body/mind exercise. It taught me how to integrate yoga into every aspect of my daily life. By the end of the course I felt confident that I could stand in front of a class and teach yoga.<br/>The poses were analysed in depth, in particular under the point of view of correct alignment. I also loved the specific classes about teaching yoga to children or pregnant women.<br/>Steve manages to give his students a good understanding of all aspects of yoga, and at the same time each aspect is studied in depth. I also enjoyed the atmosphere of his classes, where I met lovely people who I am now friends with.<br/>I would recommend Steve's Yoga Teacher Training to anyone who wants to become a yoga teacher  and also to anyone who wants to experience yoga from a deeper point of view than that of a normal yoga class.
    name: Roberta
 ---
