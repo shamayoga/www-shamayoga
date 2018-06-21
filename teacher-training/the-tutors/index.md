@@ -15,7 +15,7 @@ Steve Avian</h3>
 <h3>
 Olivia Lester</h3>
 <div>
-<img alt="Olivia Lester" class="photo-tutor" src="//lh3.googleusercontent.com/-qy2WPG87At0/U2vbAfSbxJI/AAAAAAAAAHA/DOKtPqdmjs4/s155/olivia2.jpg" />Olivia Lester has been practicing Yoga for 15 years, and has been running classes and workshops in Sheffield for over 8 years, having trained at Morely College, London. She is also qualified to run active birth, pregnancy and post-natal Yoga classes.</div>
+<img alt="Olivia Lester" class="photo-tutor" src="https://lh3.googleusercontent.com/-k-cOmxfZyZQ/WyvE5vQmaGI/AAAAAAAABls/Xps1YVPvk9Ax--I6Doif88b9cMWbIzDEwCJoC/s130-e30/olivia.jpg />Olivia Lester has been practicing Yoga for 15 years, and has been running classes and workshops in Sheffield for over 8 years, having trained at Morely College, London. She is also qualified to run active birth, pregnancy and post-natal Yoga classes.</div>
 <div style="clear: both;">
 </div>
 <h3>
