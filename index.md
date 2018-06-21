@@ -32,10 +32,10 @@ Accreditations:
 testimonials:
  - testimony: An intensive, well paced course, exploring all the aspects of yoga. This course gives a solid basis from which to teach while allowing students to be creative and develop their own individual style.  A chance to contemplate the nature of your own spiritual journey and watch it begin to unfold!
    name: Sarah(Atkin)
- - testimony: Very relaxed yet professional instruction.  Safe and inclusive environment.  Outstanding course. 
-   name: Andy (Chapman)
  - testimony: I am so pleased I made the decision to do this course!<br/>Steve's deep passion for yoga is very inspiring. His knowledge and understanding of the principles of yoga are invaluable. With a friendly teaching style and respect for everybody's unique needs he understands how to bring out the best in his students.<br/>Opportunities to teach at bi-monthly workshops are a great way to explore and experience teaching. Steve encouraged me to find my inner yoga teacher and I now enjoy teaching yoga with a confidence I would never have imagined.<br/>The relaxed atmosphere brought our group together and every weekend was a joy with lots of laughter.<br/>This was a magical, life enriching course that also gave a solid grounding in teaching yoga.<br/>I can't thank you enough Steve.
    name: Ruth (Robson)
+ - testimony: Very relaxed yet professional instruction.  Safe and inclusive environment.  Outstanding course. 
+   name: Andy (Chapman)
  - testimony: Thank you so much.  It’s the best thing I’ve ever done. 
    name: Anne Meadows.
  - testimony: A comprehensive and professional course that has managed to capture a real personal feel to it. I am enjoying every moment! I think the course is suitable for a real range of people- our group consists of experienced teachers through to people that just wish to expand their knowledge and enjoyment of Yoga.<br/>Every weekend is like going on a retreat to recharge!
