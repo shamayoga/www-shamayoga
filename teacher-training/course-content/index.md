@@ -16,7 +16,9 @@ hero_image:
 
 ### Programme Details
 
-![](https://lh3.googleusercontent.com/-B03gcaFaoh0/WxeoPO8wTFI/AAAAAAAAA7M/BgyF1EKHxn86yzbxncylTVP6RJSFvr4oQCJoC/s400-e30/webphotos4.jpg){: .photo-right}<br>Our workshops will elevate you to new levels of personal practice and vastly deepen your understanding of Yoga. We offer a wide range of functional principles and practical skills . Included in the workshops will be the following and so much more:
+![](https://lh3.googleusercontent.com/-B03gcaFaoh0/WxeoPO8wTFI/AAAAAAAAA7M/BgyF1EKHxn86yzbxncylTVP6RJSFvr4oQCJoC/s400-e30/webphotos4.jpg){: .photo-left}
+
+Our workshops will elevate you to new levels of personal practice and vastly deepen your understanding of Yoga. We offer a wide range of functional principles and practical skills . Included in the workshops will be the following and so much more:
 
 &nbsp;
 
