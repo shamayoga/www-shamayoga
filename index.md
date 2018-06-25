@@ -25,10 +25,11 @@ bubbles:
    label-text: Royalty Free Yoga Music
    label-position: top
 Accreditations:
- - logo: https://lh3.googleusercontent.com/-SH2FpbQ_18E/WyoXHx2l1yI/AAAAAAAABeg/rH9QCUS5T84Aei-5rsPNvSm0QZmpm6S1gCJoC/h140-e30/eryt-rys.png
- - logo: https://lh3.googleusercontent.com/-3USD_2MFXF0/WyoVadCKJOI/AAAAAAAABdI/kFru00WDTVQikfH0z2l2Yr75T_m0iG9eQCJoC/h140-e30/YACEP.png
- - logo: https://lh3.googleusercontent.com/-P2TWLiXwcIQ/WyoWOLxZOsI/AAAAAAAABd4/ON7-pzDYaTAJsvV2J79v2hArw-EGSXL2gCJoC/h140-e30/YA.png
- - logo: https://lh3.googleusercontent.com/-Jw5huKeTu30/WyoVd-ZIQLI/AAAAAAAABdI/I9jVwyRKBjYw7Ojdqm4_mvCpNW6QTynvQCJoC/h140-e30/FRYOG-logo_retina.gif
+ - logo: https://lh3.googleusercontent.com/-P2TWLiXwcIQ/WyoWOLxZOsI/AAAAAAAABd4/ON7-pzDYaTAJsvV2J79v2hArw-EGSXL2gCJoC/h100-e30/YA.png
+ - logo: https://lh3.googleusercontent.com/-r3EPy_G_Sps/WzDm9tBjw6I/AAAAAAAABpc/OYEP31wLCWIV3xgDoXVXUw1fw66iq_vrQCJoC/h100-e30/way_rys200_gold_trans.png
+ - logo: https://lh3.googleusercontent.com/-gTdD_Bz5fLs/WzDmnXwBIYI/AAAAAAAABpQ/8vda-CkcOYMcFH5eHd5tt13RdFAXOmsSgCJoC/h100-e30/eryt-rys.png
+ - logo: https://lh3.googleusercontent.com/-3USD_2MFXF0/WyoVadCKJOI/AAAAAAAABdI/kFru00WDTVQikfH0z2l2Yr75T_m0iG9eQCJoC/h100-e30/YACEP.png
+
 testimonials:
  - name: Sarah(Atkin)
    testimony: An intensive, well paced course, exploring all the aspects of yoga. This course gives a solid basis from which to teach while allowing students to be creative and develop their own individual style.  A chance to contemplate the nature of your own spiritual journey and watch it begin to unfold!

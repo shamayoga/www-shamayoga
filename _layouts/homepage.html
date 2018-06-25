@@ -100,7 +100,7 @@
             color:rgb(216, 22, 59);
             text-shadow: 1px 1px rgb(252, 220, 149);
         }
-        #accreditations{width:90%; margin: auto;xbackground-color: rgba(255,255,255,0.25);padding: 20px;margin-top:80px;display:flex;justify-content:space-around;}
+        #accreditations{width:90%; margin: auto;xbackground-color: rgba(255,255,255,0.25);padding: 20px;margin-top:80px;display:flex;justify-content:space-around;flex-wrap: wrap;-webkit-flex-wrap: wrap;display: -webkit-flex;}
         #hp-testimonials{
             list-style: none;
             xdisplay:grid;
@@ -199,6 +199,9 @@
    
    
 <section id="wrapper">
+        
+
+        
  
     <ul class="list" id="list">
     {% for bubble in page.bubbles %}
@@ -209,7 +212,7 @@
     </ul>
     <div id="accreditations">
         {% for Accreditation in page.Accreditations %}
-        <img src="{{Accreditation.logo}}"/>
+            <img src="{{Accreditation.logo}}"/>
         {% endfor %}
     </div>
 
@@ -221,6 +224,7 @@
         </li>
         {% endfor %}
     </ul>
+
 
     </section>
 
