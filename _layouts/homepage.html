@@ -205,9 +205,11 @@
  
     <ul class="list" id="list">
     {% for bubble in page.bubbles %}
+    <a href="{{ bubble.url }}">
     <li class="circle " style="background-image: url({{bubble.image}});background-size: cover;">
     <div  class="{{ bubble.label-position }} right">{{ bubble.label-text }}</div>
     </li>
+    </a>
     {% endfor %}
     </ul>
     <div id="accreditations">
