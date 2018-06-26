@@ -33,7 +33,7 @@ hero_image:
 
 “Every year it’s fresh because the people who attend always bring something new.  The group creates the journey and I respond to that, so each time it’s unique.  That’s what I love about it.  It’s always a learning experience for me.  The explorations and interpretations of the teachings always reflect the people who are there and it delights me that it’s so different each year. As yoga expands in the mainstream the demand for yoga teachers is growing.  It’s very timely that there’s such a variety of styles and teachers for people to choose from.  There’s something for everyone.” 
 
-For details  [www.shamayoga.org.uk/teachertraining](https://www.shamayoga.org.uk/teachertraining)
+For details  [https://www.shamayoga.org.uk/teachertraining](../../teachertraining)
 
 #### Download Course Calendar
 
