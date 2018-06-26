@@ -29,6 +29,7 @@ The purpose of the course is to provide students with a solid grounding in tradi
 
 Our programme is open to all students who are sincere and passionate in their yoga practice and wish to become teachers of yoga: existing teachers of yoga, within varying styles and traditions, who wish to deepen their knowledge and skills; and students of yoga who, without necessarily wanting to become yoga teachers, wish for a greater experience and knowledge of yoga.
 
+
 ### Course Commitments
 ![Teaching practice](https://lh3.googleusercontent.com/--H-QJsV1k74/WyvH2hQcnZI/AAAAAAAABm0/A7TaIZV40cAs8Xu1gAuGHoHRMzXRISpTQCJoC/s250-e30/webphotos5.jpg "Teaching practice"){: .photo-right}
 
