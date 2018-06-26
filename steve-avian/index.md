@@ -6,7 +6,7 @@ hero_image:
 ---
 
 
-# Steve Avian A Life in Yoga 
+# Steve Avian My Song So Far 
 {: .shamafont}
 
 Steve Avian is the founder of the Shamayoga school. He is an internationally qualified (FRYOG- ICM) yoga teacher with over 30 years experience of yoga and has been teaching yoga for over 18 years. He has studied yoga in the UK, India, Europe and the USA. He is also a member of the Yoga Alliance and the Independent Yoga Network.
@@ -26,3 +26,5 @@ I am regarded as an Elder (a term I find somewhat embarrassing and one I cannot 
 I think of yoga as an exploration, an invitation to play and to gain an experiential understanding of our potentials. We can put our discoveries to good use in the world. Yoga is of priceless value. It can offer one of the greatest means to surviving and thriving through these tumultuous times. Yoga can play a crucial role in the birthing of a new world, the vision of paradise deep within our hearts. May our journey begin anew.
 
 Good luck. Play on.
+
+[Interview with Steve Avian](/steve-avian/interview/)
