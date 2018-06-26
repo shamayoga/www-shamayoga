@@ -49,9 +49,9 @@ testimonials:
 
 
 <div id="roots">
-<!--<h1>The Roots of Shamayoga</h1>-->
+<h1> शम </h1>
 <div id="roots-text">
-<p class="drop-cap">If I could sum up my Yoga practice in one word, it would be "Shama".  Shama is a Sanskrit word  शम meaning inner harmony. </p>
+<p class="drop-cap">If I could sum up my Yoga practice in one word, it would be "Shama".  Shama is a Sanskrit word meaning inner harmony. </p>
 
 <p>In the yoga tradition Shama refers to the conscious harmony of the Whole Self – body, mind and emotions. In the Vedas (India’s oldest sacred texts) the word Yoga is used alongside the word Shama, meaning harmonious union. </p>
 
