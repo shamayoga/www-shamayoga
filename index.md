@@ -49,7 +49,7 @@ testimonials:
 
 
 <div id="roots">
-<h1> शम </h1>
+<h1> शम भक्ति</h1>
 <div id="roots-text">
 <p class="drop-cap">If I could sum up my Yoga practice in one word, it would be "Shama".  Shama is a Sanskrit word meaning inner harmony. </p>
 
