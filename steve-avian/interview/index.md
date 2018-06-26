@@ -5,7 +5,7 @@ layout: page
 hero_image:
 ---
 # Teach Your Yoga
-## An Interview with Steve Avian Shamayoga Founder and Course Lead
+## An Interview with Shamayoga Founder and Course Lead, Steve Avian 
 
 ![Steve Avian](https://lh3.googleusercontent.com/-_7m_Cv_9aQg/WzJA4XeOnJI/AAAAAAAABqk/mArKnZDkfe0OzAgIULL-0ksasjSiokUAwCJoC/s0-e30/interview.jpg)
 
