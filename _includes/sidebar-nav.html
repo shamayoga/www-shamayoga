@@ -25,6 +25,15 @@
        </ul>
        {% endif %}
       {% endif %}
+      {% if nav.link == '/shamayoga-in-the-media/' and page.url contains '/shamayoga-in-the-media/' %}
+      {% if nav.submenu != null %}
+      <ul class="sub-menu">
+          {% for item in nav.submenu %}
+          <li><a href="{{ item.sublink }}">{{ item.subname }}</a></li>
+          {% endfor %}
+      </ul>
+      {% endif %}
+     {% endif %}
     {% endfor %}
     <li><a href="https://www.facebook.com/Shamayoga9/"><img src="https://lh3.googleusercontent.com/-M7v0Yd8tD42GHMSCMmaq_1tYuigGv87QV2WRz5nEUt9DnfUa29CtjhsfFGpE6Y8CvFoLkIKp31eqSyILzen8_GyttxT1z3w=s120-e30"></a></li>
     </ul>

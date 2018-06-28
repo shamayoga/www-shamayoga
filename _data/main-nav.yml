@@ -39,6 +39,15 @@
       
 - name: In the Media
   link: /shamayoga-in-the-media/
+  submenu:
+    - subname: Shamayoga YouTube
+      sublink: https://www.youtube.com/channel/UCSbv2H-T_m_ejmUCuMZadEA
+    - subname: Articles and Magazines
+      sublink: /print-media/
+    - subname: Events
+      sublink: /shamayoga-in-the-media/events/
+    - subname: Yogaseer (Blog)
+      sublink: https://www.yogaseer.com/
 - name: Contact Shamayoga
   link: /contact-shamayoga/
 - name: <i class="fa fa-search"></i>
