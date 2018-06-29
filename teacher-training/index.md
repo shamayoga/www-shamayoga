@@ -5,11 +5,11 @@ layout: page
 hero-img:
 ---
 
-# Teacher Training
+# Yoga TeacherTraining
 {: .shamafont}
 
-![Steve leading a group session with teacher trainees](https://lh3.googleusercontent.com/-heKh2IqZN4U/WyuZjLxiUmI/AAAAAAAABk0/59mPJgiKJ_4UAeA6lbqd__Oe6XPggOBxgCJoC/s0-e30/webphotos9.jpg "Steve leading a group session with teacher trainees"){: .photo-right}
-{: .post-header}
+# ![Steve leading a group session with teacher trainees](https://lh3.googleusercontent.com/-heKh2IqZN4U/WyuZjLxiUmI/AAAAAAAABk0/59mPJgiKJ_4UAeA6lbqd__Oe6XPggOBxgCJoC/s0-e30/webphotos9.jpg "Steve leading a group session with teacher trainees"){: .photo-right}
+{: .shamafont}
 
 ### 2019 : A comprehensive (yoga alliance 200 hrs ) transformational training programme covering all aspects of Yoga practice, theory and teaching.
 
