@@ -26,7 +26,8 @@ The purpose of the course is to provide students with a solid grounding in tradi
 
 ![Student teachers working in pairs](https://lh3.googleusercontent.com/-spskmmAVP3o/WyvHI_d1IDI/AAAAAAAABmQ/Edbupuv6VOEdGGt74wLuk8hOATbIQc6XACJoC/s250-e30/arrior.jpg "Student teachers working in pairs"){: .photo-left}
 
-Our programme is open to all students who are sincere and passionate in their yoga practice and wish to become teachers of yoga: existing teachers of yoga, within varying styles and traditions, who wish to deepen their knowledge and skills; and students of yoga who, without necessarily wanting to become yoga teachers, wish for a greater experience and knowledge of yoga.{: .clearfix}
+Our programme is open to all students who are sincere and passionate in their yoga practice and wish to become teachers of yoga: existing teachers of yoga, within varying styles and traditions, who wish to deepen their knowledge and skills; and students of yoga who, without necessarily wanting to become yoga teachers, wish for a greater experience and knowledge of yoga.
+{: .clearfix}
 
 ### Course Commitments
 
