@@ -26,7 +26,7 @@ The purpose of the course is to provide students with a solid grounding in tradi
 
 ![Student teachers working in pairs](https://lh3.googleusercontent.com/-spskmmAVP3o/WyvHI_d1IDI/AAAAAAAABmQ/Edbupuv6VOEdGGt74wLuk8hOATbIQc6XACJoC/s250-e30/arrior.jpg "Student teachers working in pairs"){: .photo-left}
 
-Our programme is open to all students who are sincere and passionate in their yoga practice and wish to become teachers of yoga: existing teachers of yoga, within varying styles and traditions, who wish to deepen their knowledge and skills; and students of yoga who, without necessarily wanting to become yoga teachers, wish for a greater experience and knowledge of yoga.
+Our programme is open to all students who are sincere and passionate in their yoga practice and wish to become teachers of yoga: existing teachers of yoga, within varying styles and traditions, who wish to deepen their knowledge and skills; and students of yoga who, without necessarily wanting to become yoga teachers, wish for a greater experience and knowledge of yoga.<br/>
 
 ### Course Commitments
 
@@ -36,6 +36,6 @@ Twelve months, one weekend a month (including some working lunches) plus 2 hours
 
 There will also be one major teaching assessment towards the end of the course, the actual date of which may be specified by the student.<br>Each weekend will open and close with a sharing circle to summarise the main topics of the weekend.
 
-Read an interview with Steve Avian the course lead [Interview](../steve-avian/interview/)
+Read the Interview (Teach Your Yoga) with Steve Avian, course leader. [Interview](../steve-avian/interview/)
 
 [Download Course Calendar](https://downloads.shamayoga.org.uk/yogateaching2019calendar.pdf "Download Course Calendar"){: .download target="_blank"}
