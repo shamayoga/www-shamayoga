@@ -12,7 +12,7 @@ bubbles:
    url: http://shamayoga.us8.list-manage1.com/subscribe?u=2c82f35949283b905c95159e0&id=7928c7fcd3
  - image: https://lh3.googleusercontent.com/-sh4OD_NGS44/WyWWVpQeqCI/AAAAAAAABZA/480AQz9pd4UWTbUWfgjblQhhDM5Pe6osgCJoC/w530-h530-n/bring-ls.png
    label-text: Bring Out the Yoga in You
-   url: /everything-yoga/
+   url: /everything-yoga/yoga-classes/
  - image: https://lh3.googleusercontent.com/-t5nAF6hlROg/WyWU3SdMYBI/AAAAAAAABYU/snKlS0QR6ts1OD9j31AV0YchPiDNKxRNACJoC/w530-h530-n/class-ls.png
    old-image: 
    label-text: In the Media
