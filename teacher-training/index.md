@@ -24,16 +24,15 @@ The purpose of the course is to provide students with a solid grounding in tradi
 5. philosophy
 6. anatomy and physiology
 
-![Student teachers working in pairs](https://lh3.googleusercontent.com/-spskmmAVP3o/WyvHI_d1IDI/AAAAAAAABmQ/Edbupuv6VOEdGGt74wLuk8hOATbIQc6XACJoC/s250-e30/arrior.jpg "Student teachers working in pairs"){: .photo-left .clearfix}
+![Student teachers working in pairs](https://lh3.googleusercontent.com/-spskmmAVP3o/WyvHI_d1IDI/AAAAAAAABmQ/Edbupuv6VOEdGGt74wLuk8hOATbIQc6XACJoC/s250-e30/arrior.jpg "Student teachers working in pairs"){: .photo-right} Our programme is open to all students who are sincere and passionate in their yoga practice and wish to become teachers of yoga: existing teachers of yoga, within varying styles and traditions, who wish to deepen their knowledge and skills; and students of yoga who, without necessarily wanting to become yoga teachers, wish for a greater experience and knowledge of yoga. 
 
-Our programme is open to all students who are sincere and passionate in their yoga practice and wish to become teachers of yoga: existing teachers of yoga, within varying styles and traditions, who wish to deepen their knowledge and skills; and students of yoga who, without necessarily wanting to become yoga teachers, wish for a greater experience and knowledge of yoga.
-
+<div style="clear: both;"></div>
 
 ### Course Commitments
 
-![Teaching practice](https://lh3.googleusercontent.com/--H-QJsV1k74/WyvH2hQcnZI/AAAAAAAABm0/A7TaIZV40cAs8Xu1gAuGHoHRMzXRISpTQCJoC/s250-e30/webphotos5.jpg "Teaching practice"){: .photo-right}
 
-Twelve months, one weekend a month (including some working lunches) plus 2 hours a month (on average) guided home study (reading and written assignments).<br>There will be 6 ongoing assessed teaching practice sessions taking place, where trainees will be offering assistance during bi-monthly yoga days, which are open to the general public.
+
+Twelve months, one weekend a month (including some working lunches) plus 2 hours a month (on average) guided home study (reading and written assignments).<br>![Teaching practice](https://lh3.googleusercontent.com/--H-QJsV1k74/WyvH2hQcnZI/AAAAAAAABm0/A7TaIZV40cAs8Xu1gAuGHoHRMzXRISpTQCJoC/s250-e30/webphotos5.jpg "Teaching practice"){: .photo-right}There will be 6 ongoing assessed teaching practice sessions taking place, where trainees will be offering assistance during bi-monthly yoga days, which are open to the general public.
 
 There will also be one major teaching assessment towards the end of the course, the actual date of which may be specified by the student.<br>Each weekend will open and close with a sharing circle to summarise the main topics of the weekend.
 
