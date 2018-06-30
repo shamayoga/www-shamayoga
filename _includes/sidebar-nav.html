@@ -7,7 +7,7 @@
     <li><a href="{{ site.url }}">home</a></li>
     {% for nav in site.data.main-nav %}
        <li><a href="{{ site.url }}{{ nav.link }}">{{ nav.name }}</a></li>
-       {% if nav.link == '/everything-yoga/' and page.url contains '/everything-yoga/' %}
+       {% if nav.link == '/everything-yoga/yoga-classes/' and page.url contains '/everything-yoga/' %}
         {% if nav.submenu != null %}
         <ul class="sub-menu">
             {% for item in nav.submenu %}

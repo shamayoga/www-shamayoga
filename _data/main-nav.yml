@@ -35,14 +35,17 @@
     - subname: Philosophy
       sublink: /everything-yoga/philosophy-of-yoga/
     - subname: Useful Resources
-      sublink: /everything-yoga/yoga-resources/
-      
+      sublink: /everything-yoga/yoga-resources/     
 - name: In the Media
   link: /shamayoga-in-the-media/
   submenu:
     - subname: Shamayoga YouTube
       sublink: https://www.youtube.com/channel/UCSbv2H-T_m_ejmUCuMZadEA
-    - subname: Articles and Magazines
+    - subname: Shamayoga Facebook
+      sublink: https://www.facebook.com/Shamayoga9/
+    - subname: Shamayoga Instagram
+      sublink: https://www.instagram.com/Shamayoga9/
+    - subname: Articles &amp; Magazines
       sublink: /print-media/
     - subname: Events
       sublink: /shamayoga-in-the-media/events/
