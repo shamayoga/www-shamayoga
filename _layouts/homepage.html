@@ -49,6 +49,24 @@
         padding: 4px;
         xborder-radius: 50px 50px;
         }
+        .bubble-popup-menu{display:none;visibility:hidden;padding: 10% 0 0 0;}
+        .circle:hover .bubble-popup-menu {
+            display: inline-block;
+            position: absolute;
+            top: 0px;
+            left: 0px;
+            color: white;
+            visibility: visible;
+            background: rgba(3, 155, 223, 0.8);
+            width: 100%;
+            text-align: center;
+            xmargin: auto;
+            list-style: none;
+            height: 100%;
+            
+            border-radius: 50%;
+        }
+        .bubble-popup-menu li a{color:white;font-size: 20px;line-height: 2em;}
 
         .xtop{top: 12%;}
         .xbottom{bottom: 12%;}
@@ -213,11 +231,25 @@
  
     <ul class="list" id="list">
     {% for bubble in page.bubbles %}
-    <a href="{{ bubble.url }}">
+    
+            
     <li class="circle " style="background-image: url({{bubble.image}});background-size: cover;">
+    <a href="{{ bubble.url }}">
     <div  class="{{ bubble.label-position }} right">{{ bubble.label-text }}</div>
-    </li>
     </a>
+    {% if bubble.popup-menu %}
+
+    <ul class="bubble-popup-menu">
+        {% for item in bubble.popup-menu %}
+            <li class="bubble-popup-item"><a href="{{ item.link }}">{{ item.text }}</a></li>
+        {% endfor%}
+    </ul>
+
+{% endif %}
+
+    </li>
+
+
     {% endfor %}
     </ul>
     <div id="accreditations">

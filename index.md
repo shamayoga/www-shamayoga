@@ -7,16 +7,55 @@ bubbles:
  - image: https://lh3.googleusercontent.com/-pqFA3R0QHZs/WyAqlxb1GjI/AAAAAAAABNE/_5Pm0IJUyPIPMowIepk90XY9Tzurttv4QCJoC/w530-h530-n-e30/teach2.png
    label-text: Teach Your Yoga
    url: /teacher-training/
+   popup-menu:
+    - text: Course Content
+      link: /teacher-training/course-content/
+    - text: Accredititation
+      link: /teacher-training/accredititation/
+    - text: The Tutors
+      link: /teacher-training/the-tutors/
+    - text: Prerequisites
+      link: /teacher-training/prerequisites/
+    - text: Testimonials
+      link: /teacher-training/testimonials/
+    - text: Venues
+      link: /teacher-training/venues/
+    - text: Fees &amp; Application
+      link: /teacher-training/course-fees-and-application/
  - image: https://lh3.googleusercontent.com/-fayaVdykrnA/Wx6Kcv-Em7I/AAAAAAAABFU/98nc-4Rnq_8QrseI9gY0FT-Z_fo6QQ5eACJoC/w530-h707-n-e30/FlameHands.jpg
    label-text: Subscribe
    url: http://shamayoga.us8.list-manage1.com/subscribe?u=2c82f35949283b905c95159e0&id=7928c7fcd3
  - image: https://lh3.googleusercontent.com/-sh4OD_NGS44/WyWWVpQeqCI/AAAAAAAABZA/480AQz9pd4UWTbUWfgjblQhhDM5Pe6osgCJoC/w530-h530-n/bring-ls.png
    label-text: Bring Out the Yoga in You
    url: /everything-yoga/yoga-classes/
+   popup-menu:
+    - text: Classes
+      link: /everything-yoga/yoga-classes/
+    - text: Gallery
+      link: /everything-yoga/yoga-gallery/  
+    - text: Workshops
+      link: /everything-yoga/yoga-workshops/
+    - text: Retreats
+      link: /everything-yoga/yoga-retreats/
+    - text: Shop
+      link: /everything-yoga/yoga-shop/
+    - text: Philosophy
+      link: /everything-yoga/philosophy-of-yoga/
+    - text: Useful Resources
+      link: /everything-yoga/yoga-resources/
  - image: https://lh3.googleusercontent.com/-t5nAF6hlROg/WyWU3SdMYBI/AAAAAAAABYU/snKlS0QR6ts1OD9j31AV0YchPiDNKxRNACJoC/w530-h530-n/class-ls.png
    old-image: 
    label-text: In the Media
    url: /shamayoga-in-the-media/
+   popup-menu:
+    - text: Shamayoga YouTube
+      link: https://www.youtube.com/channel/UCSbv2H-T_m_ejmUCuMZadEA
+    - text: Articles and Magazines
+      link: /print-media/
+    - text: Events
+      link: /shamayoga-in-the-media/events/
+    - text: Yogaseer (Blog)
+      link: https://www.yogaseer.com/
  - image: https://lh3.googleusercontent.com/-9PAqMmYNreA/Wx6IQckMP4I/AAAAAAAABEo/lMptznnu91IIGNcWFL4TjVQzRRTDU93iACJoC/w530-h530-n-e30/colorlotus.png
    old-image: https://lh3.googleusercontent.com/-oVGo9yp2su4/Wxz8mxnUpOI/AAAAAAAAA_w/iYHBa8ZcpCIxM16uhXvvqQLYf5rh-kWfwCJoC/w530-h530-n-e30/lotusSteve.png
    label-text: About Steve Avian
