@@ -98,6 +98,8 @@ Our workshops will elevate you to new levels of personal practice and vastly dee
 
 #### Setting Up as a Yoga Teacher
 
+&nbsp;
+
 ### The following books are highly recommended
 
 <dl><dt>"Light on Yoga" -&nbsp;<em>Thorsons</em></dt><dd><em>B K S Iyengar</em><br />An asana-bible presented by a master Hatha Yogi.<br />Great for comparative reflections in relation to your particular choice of teacher or style.</dd><dt>"The Ten Principal Upanishads" -&nbsp;<em>Faber &amp; Faber</em></dt><dd><em>W B Yeats with co-author Sri Purohit Swami</em><br />Enjoyable and accessible translations of the Upanishads which provide a bright philosophical back-drop to the yogic teachings.</dd><dt>"The Bhagavad Gita" -&nbsp;<em>Penguin</em></dt><dd><em>Eknath Easwaran</em><br />A clear and lyrical translation of the grand poem regarded as sacred for thousands of years with an introduction placing the Gita within its historical and cultural context.</dd><dt>"Yoga Sutras of Patanjali" -&nbsp;<em>Inner Traditions</em></dt><dd><em>Georg Feuerstein</em><br />A good, scholarly read around the sutras! Another clear translation can be found in the book "The Heart of Yoga" by T K V Desikachar.</dd><dt>"Yoga Anatomy" -&nbsp;<em>Human Kinetics</em></dt><dd><em>Lesley Kaminoff and Amy Mathews</em><br />Wonderfully illustrated exploration of the anatomical aspects of the Hatha poses.</dd></dl>
