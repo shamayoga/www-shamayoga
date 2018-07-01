@@ -1,5 +1,5 @@
 ## www-shamayoga
 
-![](/uploads/vlcsnap-error395-1.png)
+![](/web-photos/webphotos11.jpg)
 
 # &nbsp;
