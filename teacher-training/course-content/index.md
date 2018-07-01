@@ -21,8 +21,6 @@ hero_image:
 
 Our workshops will elevate you to new levels of personal practice and vastly deepen your understanding of Yoga. We offer a wide range of functional principles and practical skills . Included in the workshops will be the following and so much more:
 
-&nbsp;
-
 #### Asana
 
 * Extensive practice and analysis of the asanas
@@ -35,10 +33,6 @@ Our workshops will elevate you to new levels of personal practice and vastly dee
 * Partner Yoga
 * Personal practice; choreographing your own routines
 
-&nbsp;
-
-&nbsp;
-
 #### Pranayama
 
 ![Teaching Ujjya breathing](//lh3.googleusercontent.com/-qBiuAOXva18/VBX33RO9jSI/AAAAAAAAAQI/MpCwcgOZyCE/s235/lie_2.jpg){: .photo-right}
@@ -50,10 +44,6 @@ Our workshops will elevate you to new levels of personal practice and vastly dee
 * Kapalabhati (kriya: skull shining breath)
 * Kumbhaka (rhythmic breathing)
 * The Bandhas (energy seals)
-
-&nbsp;
-
-&nbsp;
 
 #### Meditation
 
@@ -78,8 +68,6 @@ Our workshops will elevate you to new levels of personal practice and vastly dee
 * Speciality Yoga; an overview (prenatal, therapeutic, kids, seniors)
 * Composing your own home practice&nbsp;
 
-&nbsp;
-
 #### Philosophy
 
 * Study of the ancient texts including&nbsp;
@@ -94,7 +82,7 @@ Our workshops will elevate you to new levels of personal practice and vastly dee
 * Preventing and overcoming injuries
 * Physiological effects of the asanas
 
-<br>Included with the training are online downloadable course notes and two instructional audio albums .<br>The course also often offers the opportunity to share resources, network and participate in our ongoing projects (festivals, books, recordings etc).
+Included with the training are online downloadable course notes and two instructional audio albums .<br>The course also often offers the opportunity to share resources, network and participate in our ongoing projects (festivals, books, recordings etc).
 
 #### Setting Up as a Yoga Teacher
 
