@@ -1,0 +1,59 @@
+
+{% include head.html %}
+{% if page.url contains '/teacher-training/'%}
+<body class='teacher-training'></body>
+{% elsif page.url contains '/everything-yoga/'%}
+<body class='everything-yoga'></body>
+{% else %}
+<body class='shama'></body>
+{% endif %}
+<div id='wrapper'>
+<!-- Sidebar -->
+{% include sidebar-nav.html %}
+<!-- END Sidebar -->
+<!-- Page content -->
+<div id="page-content-wrapper">
+    <div class="content-header">
+    <h1>
+    <a class="btn btn-default fa fa-bars" href="#" id="menu-toggle"><i class="icon-reorder"></i></a>
+    <img class="photo-right" src="https://lh3.googleusercontent.com/-Y2T098nPvCA/WyWMgFKOoBI/AAAAAAAABVk/niqgl0M23IsDGRUzCsvnRlZxQrg93SC_wCJoC/s400-e30/yellowshadowlogo.png">
+    </h1>
+    </div>
+
+    <div class="container" id="container">
+    <div class="row">
+    <div class="col-12 col-sm-12 col-lg-12 clearfix">
+
+    {% for workshop in page.workshops %}
+
+        <h5>{{ workshop.Date }}</h5>
+        <h3>{{ workshop.Title }}</h3>
+        <div>Workshop Venue: {{ workshop.Venue }}</div>
+        <div>{{ workshop.Description }}</div>
+        <div>Presented by: {{ workshop.Presenter }}</div>
+        <div>Cost of workshop: {{ workshop.Price }}</div>
+        
+     {% endfor %}
+ 
+    </div>
+    <!-- END Content -->
+ 
+    </div>
+    </div>
+    <!-- END Container -->
+
+    </div>
+
+{% include footer.html %}
+<!-- END Footer -->
+<!-- Custom JavaScript for the Menu Toggle -->
+<script>
+//<![CDATA[
+    $('#menu-toggle').click(function(e) {
+        e.preventDefault();
+        $('#wrapper').toggleClass('active');
+        $('#menu-toggle').toggleClass('fa-bars fa-chevron-left');
+    });
+//]]>
+    </script>
+</html>
