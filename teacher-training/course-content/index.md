@@ -6,13 +6,13 @@ hero_image:
 ---
 ### The course consists of seven main themes of study:
 
-1. [asana](https://www.shamayoga.org.uk/p/course-content.html#asana)
-2. [pranayama](https://www.shamayoga.org.uk/p/course-content.html#pranayama)
-3. [meditation](https://www.shamayoga.org.uk/p/course-content.html#meditation)
-4. [teaching](https://www.shamayoga.org.uk/p/course-content.html#teaching)
-5. [philosophy](https://www.shamayoga.org.uk/p/course-content.html#philosophy)
-6. [anatomy and physiology](https://www.shamayoga.org.uk/p/course-content.html#anatomy)
-7. [setting up as a yoga teacher](#settingup)
+1. [asana](#asana)
+2. [pranayama](#pranayama)
+3. [meditation](#meditation)
+4. [teaching](#teaching)
+5. [philosophy](#philosophy)
+6. [anatomy and physiology](#anatomy)
+7. [setting up as a yoga teacher](#setting-up-as-a-yoga-teacher)
 
 ### Programme Details
 
@@ -21,7 +21,7 @@ hero_image:
 Our workshops will elevate you to new levels of personal practice and vastly deepen your understanding of Yoga. We offer a wide range of functional principles and practical skills . Included in the workshops will be the following and so much more:
 
 #### Asana
-
+{: #asana}
 * Extensive practice and analysis of the asanas
 * Adjustments; optimal physical alignment within the poses
 * Internal awareness; the inner content of the asanas
@@ -33,7 +33,7 @@ Our workshops will elevate you to new levels of personal practice and vastly dee
 * Personal practice; choreographing your own routines
 
 #### Pranayama
-
+{: #pranayama}
 ![Teaching Ujjya breathing](//lh3.googleusercontent.com/-qBiuAOXva18/VBX33RO9jSI/AAAAAAAAAQI/MpCwcgOZyCE/s235/lie_2.jpg){: .photo-right}
 
 * Feeling the flow; abdominal breathing
@@ -45,7 +45,7 @@ Our workshops will elevate you to new levels of personal practice and vastly dee
 * The Bandhas (energy seals)
 
 #### Meditation
-
+{: #meditation}
 ![Steve leading a singing bowl meditation](//lh3.googleusercontent.com/--vMcXk-X_Yc/VBX33UTV4qI/AAAAAAAAAQU/XU6J7ppZFcg/s235/group_meditation.jpg){: .photo-right}
 
 * Vipasana (breath awareness)
@@ -60,7 +60,7 @@ Our workshops will elevate you to new levels of personal practice and vastly dee
 * Microcosmic orbit
 
 #### Teaching
-
+{: #teaching}
 * Designing and sequencing your own class and workshop presentations
 * Varying styles and methods of teaching
 * Teaching Yoga safely
@@ -68,14 +68,14 @@ Our workshops will elevate you to new levels of personal practice and vastly dee
 * Composing your own home practice 
 
 #### Philosophy
-
+{: #philosophy}
 * Study of the ancient texts including 
 * The Upanishads 
 * the Yoga Sutras 
 * The Bhagavad Gita  
 
 #### Anatomy and Physiology
-
+{: #anatomy}
 * Practical anatomy relating to your Yoga practice 
 * Anatomy video presentations followed by group discussion 
 * Preventing and overcoming injuries
