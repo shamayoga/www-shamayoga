@@ -12,7 +12,7 @@
 {% include sidebar-nav.html %}
 <!-- END Sidebar -->
 <!-- Page content -->
-<div id="page-content-wrapper">
+<div id="page-content-wrapper" class="inset">
     <div class="content-header">
     <h1>
     <a class="btn btn-default fa fa-bars" href="#" id="menu-toggle"><i class="icon-reorder"></i></a>
@@ -20,10 +20,11 @@
     </h1>
     </div>
 
-    <div class="container" id="container">
+    <div class="container inset" id="container">
     <div class="row">
     <div class="col-12 col-sm-12 col-lg-12 clearfix">
-
+    <h2>{{ page.title }}</h2>
+    <br/>
     {% for workshop in page.workshops %}
 
         <h4>{{ workshop.Date }}</h4>
