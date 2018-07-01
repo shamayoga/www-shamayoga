@@ -31,7 +31,6 @@ Our workshops will elevate you to new levels of personal practice and vastly dee
 * Tuning up; safe asana practice
 * Flowing forms; movement sequences
 * Partner Yoga
-* Composing your own home practice&nbsp;
 * Personal practice; choreographing your own routines
 
 #### Pranayama
