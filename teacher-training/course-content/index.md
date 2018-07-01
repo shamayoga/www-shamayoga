@@ -1,5 +1,5 @@
 ---
-title: Shamayoga Teacher Training - Course Content
+title: Yoga Teacher training
 description:
 layout: page
 hero_image:
@@ -20,7 +20,7 @@ hero_image:
 
 Our workshops will elevate you to new levels of personal practice and vastly deepen your understanding of Yoga. We offer a wide range of functional principles and practical skills . Included in the workshops will be the following and so much more:
 
-&nbsp;
+ 
 
 #### Asana
 
@@ -34,9 +34,9 @@ Our workshops will elevate you to new levels of personal practice and vastly dee
 * Partner Yoga
 * Personal practice; choreographing your own routines
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
 #### Pranayama
 
@@ -50,9 +50,9 @@ Our workshops will elevate you to new levels of personal practice and vastly dee
 * Kumbhaka (rhythmic breathing)
 * The Bandhas (energy seals)
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
 #### Meditation
 
@@ -69,17 +69,16 @@ Our workshops will elevate you to new levels of personal practice and vastly dee
 * The hara; our physical and spiritual centre
 * Microcosmic orbit
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
 #### Philosophy
 
-* Study of the ancient texts including&nbsp;
-* The Upanishads&nbsp;
-* the Yoga Sutras&nbsp;
-* The Bhagavad Gita &nbsp;
-
+* Study of the ancient texts including 
+* The Upanishads 
+* the Yoga Sutras 
+* The Bhagavad Gita  
 
 ### The following books are highly recommended
 
@@ -87,7 +86,7 @@ Our workshops will elevate you to new levels of personal practice and vastly dee
 
 ![Teaching the tree](//lh3.googleusercontent.com/-5Ki9nK_rEdE/VBX33xEYumI/AAAAAAAAAQY/CUlGsAOP5ow/s310/tree_teach_1.jpg){: .photo-right}<br>Teaching yoga is an immensely rewarding way of being of service to others. The course will enable you to develop skills and sensitivity essential to teach Yoga effectively and with confidence. Practical teaching experience will be gained within a wide variety of settings and will include the following topics:
 
-&nbsp;
+ 
 
 #### Teaching
 
@@ -95,16 +94,16 @@ Our workshops will elevate you to new levels of personal practice and vastly dee
 * Varying styles and methods of teaching
 * Teaching Yoga safely
 * Speciality Yoga; an overview (prenatal, therapeutic, kids, seniors)
-* Composing your own home practice&nbsp;
+* Composing your own home practice 
 
-&nbsp;
+ 
 
-&nbsp;
+ 
 
 #### Anatomy and Physiology
 
-* Practical anatomy relating to your Yoga practice&nbsp;
-* &nbsp;Anatomy video presentations followed by group discussion&nbsp;
+* Practical anatomy relating to your Yoga practice 
+* Anatomy video presentations followed by group discussion 
 * Preventing and overcoming injuries
 * Physiological effects of the asanas
 
