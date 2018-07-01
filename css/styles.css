@@ -5249,4 +5249,5 @@ padding-left:14px;
 #sidebar-wrapper::-webkit-scrollbar-thumb:vertical {height: 20px;background-color: #fff;-webkit-border-radius: 6px;border: 1px solid #bbb;}
 #sidebar-wrapper::-webkit-scrollbar-thumb:horizontal {width: 50px;background-color: #666;-webkit-border-radius: 3px;}
 #sidebar-wrapper{overflow-y:auto !important;overflow-x:hidden !important;}
+.socmedico{height:48px;}
 /* START SHAMA STYLEY */
