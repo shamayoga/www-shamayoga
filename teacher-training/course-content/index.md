@@ -1,5 +1,5 @@
 ---
-title: Yoga Teacher training
+title: Yoga Teacher Training
 description:
 layout: page
 hero_image:
