@@ -35,5 +35,6 @@ hero_image:
 
 <div><img alt="Jude Fox" class="photo-tutor" src="https://lh3.googleusercontent.com/-jPahyjnnZUw/WypuVc7FV-I/AAAAAAAABjw/6sRS6tXLfugKm58toZIxB9gJ_-LEBbWGQCL0BGAs/w302-c-e30/JudeFox.jpg" /> Jude has been practising yoga for over 30 years.<br />She completed the British Wheel Foundation Course in 2006, and then went on to the Yoga Teacher Training with Shamayoga and Steve in 2007.<br />Since then Jude also qualified to teach Yoga for Pregnancy and Baby Yoga and Massage with YogaCampus. She trained with YogaBugs to teach Yoga for Children too. She has been teaching the "Teaching Yoga to Children" module for the Shamayoga teacher training course since then.<br />Jude has taught the above in and around Hull for the past 10 years, as well as at local community camps and festivals.<br />She currenty teaches classes in adult Hatha yoga, Ragamuffin Yoga for Parents and Toddlers.</div>
 
+<div style="clear: both;">&nbsp;</div>
 
 <div class="well well-lg">Occasional Guest teachers and speakers feature throughout the year in relation to particular topics. Assistance from other qualified tutors will also be available when necessary.&nbsp;</div>
