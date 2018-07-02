@@ -8,8 +8,6 @@ hero_image:
 # &nbsp;My Song So Far
 {: .shamafont}
 
-Steve Avian is the founder of the Shamayoga school. He is an internationally qualified (FRYOG- ICM) yoga teacher with over 30 years experience of yoga and has been teaching yoga for over 18 years. He has studied yoga in the UK, India, Europe and the USA. He is also a member of the Yoga Alliance and the Independent Yoga Network.
-
 I fell in love with yoga over thirty years ago and she has been a constant throughout my life-changes and life-styles. She is a challenging mistress – yielding and withholding her secrets, melting and remaking me along the way.
 
 Yoga found me in my early teens through an aunt who taught me some of the poses. My body assumed the shapes of many movements and postures quite naturally, as if yoga was something I was relearning, as opposed to encountering for the first time. Many people have this feeling when they take up yoga. I loved it. Yoga made me feel alive like great music.
@@ -27,3 +25,5 @@ I think of yoga as an exploration, an invitation to play and to gain an experien
 Good luck. Play on.
 
 [Interview with Steve Avian](/steve-avian/interview/)
+
+Steve Avian is the founder of the Shamayoga school. He is an internationally qualified (FRYOG- ICM) yoga teacher with over 30 years experience of yoga and has been teaching yoga for over 18 years. He has studied yoga in the UK, India, Europe and the USA. He is also a member of the Yoga Alliance and the Independent Yoga Network.
