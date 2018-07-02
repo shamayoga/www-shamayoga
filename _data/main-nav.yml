@@ -24,33 +24,31 @@
   submenu:
     - subname: Classes
       sublink: /everything-yoga/yoga-classes/
-    - subname: Gallery
-      sublink: /everything-yoga/yoga-gallery/  
     - subname: Workshops
       sublink: /everything-yoga/yoga-workshops/
     - subname: Retreats
       sublink: /everything-yoga/yoga-retreats/
-    - subname: Shop
-      sublink: /everything-yoga/yoga-shop/
     - subname: Philosophy
       sublink: /everything-yoga/philosophy-of-yoga/
     - subname: Useful Resources
-      sublink: /everything-yoga/yoga-resources/     
+      sublink: /everything-yoga/yoga-resources/
+    - subname: Gallery
+      sublink: /everything-yoga/yoga-gallery/
 - name: In the Media
   link: /shamayoga-in-the-media/
   submenu:
     - subname: Shamayoga YouTube
-      sublink: https://www.youtube.com/channel/UCSbv2H-T_m_ejmUCuMZadEA
+      sublink: 'https://www.youtube.com/channel/UCSbv2H-T_m_ejmUCuMZadEA'
     - subname: Shamayoga Facebook
-      sublink: https://www.facebook.com/Shamayoga9/
+      sublink: 'https://www.facebook.com/Shamayoga9/'
     - subname: Shamayoga Instagram
-      sublink: https://www.instagram.com/Shamayoga9/
+      sublink: 'https://www.instagram.com/Shamayoga9/'
     - subname: Articles &amp; Magazines
       sublink: /print-media/
     - subname: Events
       sublink: /shamayoga-in-the-media/events/
     - subname: Yogaseer (Blog)
-      sublink: https://www.yogaseer.com/
+      sublink: 'https://www.yogaseer.com/'
 - name: Contact Shamayoga
   link: /contact-shamayoga/
 - name: <i class="fa fa-search"></i>
