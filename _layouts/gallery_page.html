@@ -1,5 +1,11 @@
 
 {% include head.html %}
+<style>
+/* slideshow buttons */
+.display-left{position:absolute;top:50%;left:0%;transform:translate(0%,-50%);-ms-transform:translate(-0%,-50%)}
+.display-right{position:absolute;top:50%;right:0%;transform:translate(0%,-50%);-ms-transform:translate(0%,-50%)}
+
+</style>
 {% if page.url contains '/teacher-training/'%}
 <body class='teacher-training'></body>
 {% elsif page.url contains '/everything-yoga/'%}
@@ -29,10 +35,14 @@
     <!--<h1 class='post-title entry-title'>Shamayoga School</h1> <div class='post-header'> </div>-->
     <div class="top section" id="top"><div class="widget HTML" data-version="1" id="HTML1">
     <div class="widget-content">
-    <div id="gallery">
-        {% for gimage in page.gallery_images %}
-           <a href="{{ gimage.image}}" target="_blank"/><img class="gallery-image" src="{{ gimage.image | replace: '=s0-', '=w400-h250-p-' }}"/></a>
-        {% endfor %}
+    <div id="notgallery">
+            <button class="display-left" onclick="plusDivs(-1)">&#10094;</button>
+            <button class="display-right" onclick="plusDivs(1)">&#10095;</button>
+                {% for gimage in page.gallery_images %}
+                   <img class="mySlides" src="{{ gimage.image }}" style="width:100%" /></a>
+                {% endfor %}
+
+
     </div>
     </div>
     </div></div>
@@ -63,10 +73,30 @@
     </div>
     </div>
 
-{% include footer.html %}<!-- END Footer -->
+<script src='https://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js' type='text/javascript'></script><!--?ver=2.1.0 -->
 <!-- Custom JavaScript for the Menu Toggle -->
+
 <script>
 //<![CDATA[
+
+        var slideIndex = 1;
+        showDivs(slideIndex);
+        
+        function plusDivs(n) {
+          showDivs(slideIndex += n);
+        }
+        
+        function showDivs(n) {
+          var i;
+          var x = document.getElementsByClassName("mySlides");
+          if (n > x.length) {slideIndex = 1}    
+          if (n < 1) {slideIndex = x.length}
+          for (i = 0; i < x.length; i++) {
+             x[i].style.display = "none";  
+          }
+          x[slideIndex-1].style.display = "block";  
+        }
+
     $('#menu-toggle').click(function(e) {
         e.preventDefault();
         $('#wrapper').toggleClass('active');
