@@ -100,14 +100,14 @@ Accreditations:
   - logo: >-
       https://lh3.googleusercontent.com/-3USD_2MFXF0/WyoVadCKJOI/AAAAAAAABdI/kFru00WDTVQikfH0z2l2Yr75T_m0iG9eQCJoC/h100-e30/YACEP.png
 testimonials:
-  - name: Sarah(Atkin)
+  - name: Sarah Atkin
     testimony: >-
       An intensive, well paced course, exploring all the aspects of yoga. This
       course gives a solid basis from which to teach while allowing students to
       be creative and develop their own individual style.  A chance to
       contemplate the nature of your own spiritual journey and watch it begin to
       unfold!
-  - name: Ruth (Robson)
+  - name: Ruth Robson
     testimony: >-
       I am so pleased I made the decision to do this course!<br/>Steve's deep
       passion for yoga is very inspiring. His knowledge and understanding of the
@@ -120,7 +120,7 @@ testimonials:
       together and every weekend was a joy with lots of laughter.<br/>This was a
       magical, life enriching course that also gave a solid grounding in
       teaching yoga.<br/>I can't thank you enough Steve.
-  - name: Andy (Chapman)
+  - name: Andy Chapman
     testimony: >-
       Very relaxed yet professional instruction.  Safe and inclusive
       environment.  Outstanding course.
@@ -138,7 +138,7 @@ testimonials:
       teachers through to people that just wish to expand their knowledge and
       enjoyment of Yoga.<br/>Every weekend is like going on a retreat to
       recharge!
-  - name: Roberta
+  - name: Roberta Sutherland
     testimony: >-
       I have thoroughly enjoyed Steve's Yoga Teacher Training. It covered all
       aspects of yoga, from the more physical asanas to meditation and
