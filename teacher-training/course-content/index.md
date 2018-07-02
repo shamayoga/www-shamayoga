@@ -4,6 +4,7 @@ description:
 layout: page
 hero_image: 
 ---
+
 ### The course consists of seven main themes of study:
 
 1. [asana](#asana)
@@ -21,7 +22,7 @@ hero_image:
 Our workshops will elevate you to new levels of personal practice and vastly deepen your understanding of Yoga. We offer a wide range of functional principles and practical skills . Included in the workshops will be the following and so much more:
 
 #### Asana
-{: #asana}
+
 * Extensive practice and analysis of the asanas
 * Adjustments; optimal physical alignment within the poses
 * Internal awareness; the inner content of the asanas
@@ -33,7 +34,7 @@ Our workshops will elevate you to new levels of personal practice and vastly dee
 * Personal practice; choreographing your own routines
 
 #### Pranayama
-{: #pranayama}
+
 ![Teaching Ujjya breathing](//lh3.googleusercontent.com/-qBiuAOXva18/VBX33RO9jSI/AAAAAAAAAQI/MpCwcgOZyCE/s235/lie_2.jpg){: .photo-right}
 
 * Feeling the flow; abdominal breathing
@@ -45,7 +46,7 @@ Our workshops will elevate you to new levels of personal practice and vastly dee
 * The Bandhas (energy seals)
 
 #### Meditation
-{: #meditation}
+
 ![Steve leading a singing bowl meditation](//lh3.googleusercontent.com/--vMcXk-X_Yc/VBX33UTV4qI/AAAAAAAAAQU/XU6J7ppZFcg/s235/group_meditation.jpg){: .photo-right}
 
 * Vipasana (breath awareness)
@@ -60,39 +61,50 @@ Our workshops will elevate you to new levels of personal practice and vastly dee
 * Microcosmic orbit
 
 #### Teaching
-{: #teaching}
+
+Teaching yoga is an immensely rewarding way of being of service to others. The course will enable you to develop skills and sensitivity essential to teach Yoga effectively and with confidence. Practical teaching experience will be gained within a wide variety of settings and will include the following topics:
+
 * Designing and sequencing your own class and workshop presentations
 * Varying styles and methods of teaching
-* Teaching Yoga safely
+* Teaching Yoga safely ( adjustments, contraindications , adaptations for all )&nbsp;
 * Speciality Yoga; an overview (prenatal, therapeutic, kids, seniors)
-* Composing your own home practice 
 
 #### Philosophy
-{: #philosophy}
-* Study of the ancient texts including 
-* The Upanishads 
-* the Yoga Sutras 
-* The Bhagavad Gita  
+
+* Study of the ancient texts including&nbsp;
+* The Upanishads&nbsp;
+* the Yoga Sutras&nbsp;
+* The Bhagavad Gita &nbsp;
 
 #### Anatomy and Physiology
-{: #anatomy}
-* Practical anatomy relating to your Yoga practice 
-* Anatomy video presentations followed by group discussion 
+
+* Practical anatomy relating to your Yoga practice&nbsp;
+* Anatomy video presentations followed by group discussion&nbsp;
 * Preventing and overcoming injuries
 * Physiological effects of the asanas
 
-Included with the training are online downloadable course notes and two instructional audio albums .<br>The course also often offers the opportunity to share resources, network and participate in our ongoing projects (festivals, books, recordings etc).
+&nbsp;
 
 #### Setting Up as a Yoga Teacher
 
- 
+&nbsp;
+
+Identifying your vision, &nbsp;style and approach&nbsp;
+
+Practical considerations of running a yoga buisness&nbsp;
+
+Publicity and Promotion&nbsp;
+
+Social media&nbsp;
+
+&nbsp;
 
 ### The following books are highly recommended
 
-<dl><dt>"Light on Yoga" - <em>Thorsons</em></dt><dd><em>B K S Iyengar</em><br />An asana-bible presented by a master Hatha Yogi.<br />Great for comparative reflections in relation to your particular choice of teacher or style.</dd><dt>"The Ten Principal Upanishads" - <em>Faber & Faber</em></dt><dd><em>W B Yeats with co-author Sri Purohit Swami</em><br />Enjoyable and accessible translations of the Upanishads which provide a bright philosophical back-drop to the yogic teachings.</dd><dt>"The Bhagavad Gita" - <em>Penguin</em></dt><dd><em>Eknath Easwaran</em><br />A clear and lyrical translation of the grand poem regarded as sacred for thousands of years with an introduction placing the Gita within its historical and cultural context.</dd><dt>"Yoga Sutras of Patanjali" - <em>Inner Traditions</em></dt><dd><em>Georg Feuerstein</em><br />A good, scholarly read around the sutras! Another clear translation can be found in the book "The Heart of Yoga" by T K V Desikachar.</dd><dt>"Yoga Anatomy" - <em>Human Kinetics</em></dt><dd><em>Lesley Kaminoff and Amy Mathews</em><br />Wonderfully illustrated exploration of the anatomical aspects of the Hatha poses.</dd></dl>
+<dl><dt>"Light on Yoga" -&nbsp;<em>Thorsons</em></dt><dd><em>B K S Iyengar</em><br />An asana-bible presented by a master Hatha Yogi.<br />Great for comparative reflections in relation to your particular choice of teacher or style.</dd><dt>"The Ten Principal Upanishads" -&nbsp;<em>Faber &amp; Faber</em></dt><dd><em>W B Yeats with co-author Sri Purohit Swami</em><br />Enjoyable and accessible translations of the Upanishads which provide a bright philosophical back-drop to the yogic teachings.</dd><dt>"The Bhagavad Gita" -&nbsp;<em>Penguin</em></dt><dd><em>Eknath Easwaran</em><br />A clear and lyrical translation of the grand poem regarded as sacred for thousands of years with an introduction placing the Gita within its historical and cultural context.</dd><dt>"Yoga Sutras of Patanjali" -&nbsp;<em>Inner Traditions</em></dt><dd><em>Georg Feuerstein</em><br />A good, scholarly read around the sutras! Another clear translation can be found in the book "The Heart of Yoga" by T K V Desikachar.</dd><dt>"Yoga Anatomy" -&nbsp;<em>Human Kinetics</em></dt><dd><em>Lesley Kaminoff and Amy Mathews</em><br />Wonderfully illustrated exploration of the anatomical aspects of the Hatha poses.</dd><dd>Included with the training are online downloadable course notes and two instructional audio albums .<br />The course also often offers the opportunity to share resources, network and participate in our ongoing projects (festivals, books, recordings etc).</dd><dd>&nbsp;</dd></dl>
 
-![Teaching the tree](//lh3.googleusercontent.com/-5Ki9nK_rEdE/VBX33xEYumI/AAAAAAAAAQY/CUlGsAOP5ow/s310/tree_teach_1.jpg){: .photo-right}<br>Teaching yoga is an immensely rewarding way of being of service to others. The course will enable you to develop skills and sensitivity essential to teach Yoga effectively and with confidence. Practical teaching experience will be gained within a wide variety of settings and will include the following topics:
+![Teaching the tree](//lh3.googleusercontent.com/-5Ki9nK_rEdE/VBX33xEYumI/AAAAAAAAAQY/CUlGsAOP5ow/s310/tree_teach_1.jpg){: .photo-right}
 
- 
+&nbsp;
 
-####
+### #
