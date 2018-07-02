@@ -24,6 +24,12 @@ I think of yoga as an exploration, an invitation to play and to gain an experien
 
 Good luck. Play on.
 
-[Interview with Steve Avian](/steve-avian/interview/)
+### Interviews with Steve Avian
+
+[for YogaVision 2018](/steve-avian/interview/)
+
+[for Yoga Magazine 2005](/shamayoga-in-the-media/print-media/)
+
+[for Sheffield Star 1998](/shamayoga-in-the-media/print-media/)
 
 Steve Avian is the founder of the Shamayoga school. He is an internationally qualified (FRYOG- ICM) yoga teacher with over 30 years experience of yoga and has been teaching yoga for over 18 years. He has studied yoga in the UK, India, Europe and the USA. He is also a member of the Yoga Alliance and the Independent Yoga Network.
