@@ -7,19 +7,19 @@ hero_image:
 
 ### Steve Avian
 
-<div><img alt="Steve Avian" class="photo-tutor" width="303" height="306" src="/uploads/vlcsnap-error371-1-1-1-1.png" />Steve has over thirty years experience of Yoga and has been teaching Yoga as a process of self-discovery in his classes and workshops for over sixteen years. He has studied yoga in the UK, India, Europe and the USA and regularly enjoys travelling and exploring ancient traditions.</div>
+<div><img alt="Steve Avian" class="photo-tutor" width="303" height="306" src="https://lh3.googleusercontent.com/-wpvmBtvl8fA/WznJuOZfO6I/AAAAAAAABvU/8ENGZJq8anMYpNPNYLk476xn74ZYl-zaQCJoC/w302-c-e30/steve-tutor.png" />Steve has over thirty years experience of Yoga and has been teaching Yoga as a process of self-discovery in his classes and workshops for over sixteen years. He has studied yoga in the UK, India, Europe and the USA and regularly enjoys travelling and exploring ancient traditions.</div>
 
 <div style="clear: both;">&nbsp;</div>
 
 ### Olivia Lester
 
-<div><img alt="Olivia Lester" class="photo-tutor" src="https://lh3.googleusercontent.com/-k-cOmxfZyZQ/WyvE5vQmaGI/AAAAAAAABls/Xps1YVPvk9Ax--I6Doif88b9cMWbIzDEwCJoC/s302-e30/olivia.jpg" />Olivia Lester has been practicing Yoga for 15 years, and has been running classes and workshops in Sheffield for over 8 years, having trained at Morely College, London. She is also qualified to run active birth, pregnancy and post-natal Yoga classes.</div>
+<div><img alt="Olivia Lester" class="photo-tutor" src="https://lh3.googleusercontent.com/-k-cOmxfZyZQ/WyvE5vQmaGI/AAAAAAAABls/Xps1YVPvk9Ax--I6Doif88b9cMWbIzDEwCJoC/w302-e30/olivia.jpg" />Olivia Lester has been practicing Yoga for 15 years, and has been running classes and workshops in Sheffield for over 8 years, having trained at Morely College, London. She is also qualified to run active birth, pregnancy and post-natal Yoga classes.</div>
 
 <div style="clear: both;">&nbsp;</div>
 
 ### Jude Richie
 
-<div><img alt="Jude Richie" class="photo-tutor" src="https://lh3.googleusercontent.com/-6xR7Xz9WfUg/WznFxfy1jmI/AAAAAAAABuo/aedvHMqUMmEtHUtvhOodNEBoVvwysVK3wCJoC/s302-c-e30/jude-new.jpg" />Jude Richie is a qualified doctor and registered yoga teacher (RYT-YA). She has taught anatomy to medical students at Sheffield Teaching Hospital. Jude is also the author of&nbsp;<a style="color: #09407c; margin: 0px; padding: 0px;" href="https://www.amazon.co.uk/Crash-Course-Muscles-Bones-Course-UK/dp/0723434344/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1286828441&amp;sr=1-1">Muscles, Bones and Skin (link to Amazon.co.uk)</a></div>
+<div><img alt="Jude Richie" class="photo-tutor" src="https://lh3.googleusercontent.com/-6xR7Xz9WfUg/WznFxfy1jmI/AAAAAAAABuo/aedvHMqUMmEtHUtvhOodNEBoVvwysVK3wCJoC/w302-c-e30/jude-new.jpg" />Jude Richie is a qualified doctor and registered yoga teacher (RYT-YA). She has taught anatomy to medical students at Sheffield Teaching Hospital. Jude is also the author of&nbsp;<a style="color: #09407c; margin: 0px; padding: 0px;" href="https://www.amazon.co.uk/Crash-Course-Muscles-Bones-Course-UK/dp/0723434344/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1286828441&amp;sr=1-1">Muscles, Bones and Skin (link to Amazon.co.uk)</a></div>
 
 <div>Jude will be presenting seminars on anatomy and health issues.</div>
 
