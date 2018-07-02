@@ -24,7 +24,7 @@ I think of yoga as an exploration, an invitation to play and to gain an experien
 
 Good luck. Play on.
 
-### Interviews with Steve Avian
+##### Interviews with Steve Avian
 
 [for YogaVision 2018](/steve-avian/interview/)
 
