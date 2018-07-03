@@ -10,7 +10,7 @@ events:
     Venue: Everywhere
     Presenter: Depends on your point of view
     Description: >-
-      The event will start with mass whaling, chanting , gnashing of teath etc. followed by a huge flash and finally transcendence or zip.
+      The event will start with mass whaling, chanting , gnashing of teeth etc. followed by a huge flash and finally transcendence or zip.
     Price: Priceless
 ---
 
