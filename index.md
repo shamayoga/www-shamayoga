@@ -2,6 +2,7 @@
 title: Shamayoga - Learn yoga or Learn To Teach Yoga
 description:
 layout: homepage
+_hide_content: true
 bubbles:
   - image: >-
       https://lh3.googleusercontent.com/-pqFA3R0QHZs/WyAqlxb1GjI/AAAAAAAABNE/_5Pm0IJUyPIPMowIepk90XY9Tzurttv4QCJoC/w530-h530-n-e30/teach2.png
