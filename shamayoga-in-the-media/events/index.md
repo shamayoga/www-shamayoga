@@ -5,12 +5,13 @@ layout: events
 hero-img:
 events:
   - eventDate: Saturday 6th August
-    eventTime:
+    eventTime: END
     Title: End of The World
     Venue: Everywhere
     Presenter: Depends on your point of view
     Description: >-
-      The event will start with mass whaling, chanting , gnashing of teeth etc. followed by a huge flash and finally transcendence or zip.
+      The event will start with mass whaling, chanting , gnashing of teeth etc.
+      followed by a huge flash and finally transcendence or zip.
     Price: Priceless
 ---
 
