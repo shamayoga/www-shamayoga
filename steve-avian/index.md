@@ -5,7 +5,7 @@ layout: page
 hero_image:
 ---
 
-# &nbsp;My Song So Far
+# &nbsp;My Song So Far![](/uploads/fb-img-1474050375260.jpg)
 {: .shamafont}
 
 I fell in love with yoga over thirty years ago and she has been a constant throughout my life-changes and life-styles. She is a challenging mistress – yielding and withholding her secrets, melting and remaking me along the way.
