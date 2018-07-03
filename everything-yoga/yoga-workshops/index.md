@@ -5,6 +5,7 @@ layout: workshops
 hero_image:
 workshops:
   - workshopDate: Saturday 6th August
+    workshopTime:
     Title: Kriyas and Asanas
     Venue: Broomhill Methodist Church
     Presenter: Steve Avian
@@ -14,6 +15,7 @@ workshops:
       deep relaxations techniques.
     Price: £15.00
   - workshopDate: Saturday 1st October
+    workshopTime:
     Title: Flowing Forms and Yoga Dances
     Venue: Broomhill Methodist Church
     Presenter: Steve Avian
@@ -23,6 +25,7 @@ workshops:
       Illustrated handouts provided.
     Price: £15.00
   - workshopDate: Saturday 3rd December
+    workshopTime:
     Title: Advanced Asanas for All and Bandhas
     Venue: Broomhill Methodist Church
     Presenter: Steve Avian
@@ -33,6 +36,7 @@ workshops:
       and meditation.
     Price: £15.00
   - workshopDate: Saturday 6th February
+    workshopTime:
     Title: Exploring the Three Bases of Hatha Yoga.
     Venue: Broomhill Methodist Church
     Presenter: Steve Avian
@@ -44,6 +48,7 @@ workshops:
       deeper awareness of the body’s centre of gravity.
     Price: £15.00
   - workshopDate: Saturday 2nd April
+    workshopTime:
     Title: Gayatri Mantra and Partner Yoga
     Venue: Broomhill Methodist Church
     Presenter: Steve Avian
@@ -54,6 +59,7 @@ workshops:
       flexibility within the classic Hatha poses.
     Price: £15.00
   - workshopDate: Saturday 4th June
+    workshopTime:
     Title: Mudras and Yoga Massage
     Venue: Broomhill Methodist Church
     Presenter: Steve Avian
