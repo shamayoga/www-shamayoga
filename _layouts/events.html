@@ -1,0 +1,64 @@
+
+{% include head.html %}
+{% if page.url contains '/teacher-training/'%}
+<body class='teacher-training'></body>
+{% elsif page.url contains '/everything-yoga/'%}
+<body class='everything-yoga'></body>
+{% else %}
+<body class='shama'></body>
+{% endif %}
+<div id='wrapper'>
+<!-- Sidebar -->
+{% include sidebar-nav.html %}
+<!-- END Sidebar -->
+<!-- Page content -->
+<div id="page-content-wrapper" class="inset">
+    <div class="content-header">
+    <h1>
+    <a class="btn btn-default fa fa-bars" href="#" id="menu-toggle"><i class="icon-reorder"></i></a>
+    <img class="photo-right" src="https://lh3.googleusercontent.com/-Y2T098nPvCA/WyWMgFKOoBI/AAAAAAAABVk/niqgl0M23IsDGRUzCsvnRlZxQrg93SC_wCJoC/s400-e30/yellowshadowlogo.png">
+    </h1>
+    </div>
+
+    <div class="container inset" id="container">
+    <div class="row">
+    <div class="col-12 col-sm-12 col-lg-12 clearfix">
+    <h2 class="shamafont">{{ page.title }}</h2>
+    <br/>
+    <div id="events">
+    {% for event in page.events %}
+        <div class="event">
+        <h3>{{ event.Title }}</h3>
+        <h4>{{ event.eventDate }} {{ event.eventTime}}</h4>   
+        <div>{{ event.Description }}</div>
+        <div>Venue: {{ event.Venue }}</div>
+        <div>Presented by: {{ event.Presenter }}</div>
+        <div>Cost of event: {{ event.Price }}</div>
+    </div>
+        
+     {% endfor %}
+    </div>
+ 
+    </div>
+    <!-- END Content -->
+ 
+    </div>
+    </div>
+    <!-- END Container -->
+
+    </div>
+
+
+<!-- END Footer -->
+<!-- Custom JavaScript for the Menu Toggle -->
+<script src='https://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js' type='text/javascript'></script><!--?ver=2.1.0 -->
+<script>
+//<![CDATA[
+    $('#menu-toggle').click(function(e) {
+        e.preventDefault();
+        $('#wrapper').toggleClass('active');
+        $('#menu-toggle').toggleClass('fa-bars fa-chevron-left');
+    });
+//]]>
+    </script>
+</html>
