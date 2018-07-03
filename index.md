@@ -8,6 +8,8 @@ bubbles:
     label-text: Teach Your Yoga
     url: /teacher-training/
     popup-menu:
+      - text: Yoga Teacher Training
+        link: /teacher-training/
       - text: Course Content
         link: /teacher-training/course-content/
       - text: Accredititation
@@ -39,18 +41,18 @@ bubbles:
     label-text: Bring Out the Yoga in You
     url: /everything-yoga/yoga-classes/
     popup-menu:
-    - text: Classes
-      link: /everything-yoga/yoga-classes/
-    - text: Workshops
-      link: /everything-yoga/yoga-workshops/
-    - text: Retreats
-      link: /everything-yoga/yoga-retreats/
-    - text: Philosophy
-      link: /everything-yoga/philosophy-of-yoga/
-    - text: Useful Resources
-      link: /everything-yoga/yoga-resources/
-    - text: Gallery
-      link: /everything-yoga/yoga-gallery/
+      - text: Classes
+        link: /everything-yoga/yoga-classes/
+      - text: Workshops
+        link: /everything-yoga/yoga-workshops/
+      - text: Retreats
+        link: /everything-yoga/yoga-retreats/
+      - text: Philosophy
+        link: /everything-yoga/philosophy-of-yoga/
+      - text: Useful Resources
+        link: /everything-yoga/yoga-resources/
+      - text: Gallery
+        link: /everything-yoga/yoga-gallery/
   - image: >-
       https://lh3.googleusercontent.com/-t5nAF6hlROg/WyWU3SdMYBI/AAAAAAAABYU/snKlS0QR6ts1OD9j31AV0YchPiDNKxRNACJoC/w530-h530-n/class-ls.png
     label-text: In the Media
