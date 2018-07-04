@@ -59,7 +59,7 @@ workshops:
       flexibility within the classic Hatha poses.
     Price: £15.00
   - workshopDate: Saturday 4th June
-    workshopTime:
+    workshopTime: 2 to 4.30pm
     Title: Mudras and Yoga Massage
     Venue: Broomhill Methodist Church
     Presenter: Steve Avian
