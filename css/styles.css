@@ -5225,8 +5225,10 @@ padding-left:14px;
 
 }
 /* START SHAMA STYLEY */
-    .photo-right{float:right; padding: 20px;}
-    .photo-left{float:left; padding: 20px;}
+    /*.photo-right{float:right; padding: 20px;}
+    .photo-left{float:left; padding: 20px;}*/
+    img.photo-right{float:right; padding: 20px;}
+    img.photo-left{float:left; padding: 20px;}
     .photo-tutor{float:left;padding:0px 10px 10px 0px;}
     .sidebar-nav{margin-top:40px;}
     .sub-menu{list-style: none;}
