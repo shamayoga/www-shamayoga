@@ -30,13 +30,13 @@ workshops:
     Venue: 'Power of yoga studio,  Greenhill'
     Presenter: Steve Avian
     Description_html: >-
-      <ul><li>Get a feel for the 1 year, world recognised 200-hour Yoga
-      Alliance-certificated course, now in its&rsquo; 12th year</li><li>Sample a
-      free yoga class</li><li>Meet prospective students and those already
-      booked</li><li>Get an overview of course topics and
-      workshops</li><li>Engage in a question and answer session</li><li>Pick up
-      a calendar and registration form</li><li>Take the opportunity to register
-      for the course on the day</li></ul>
+      <p>Get a feel for the 1 year, world recognised 200-hour Yoga
+      Alliance-certificated course, now in its&rsquo; 12th
+      year.</p><ul><li>Sample a free yoga class</li><li>Meet prospective
+      students and those already booked</li><li>Get an overview of course topics
+      and workshops</li><li>Engage in a question and answer session</li><li>Pick
+      up a calendar and registration form</li><li>Take the opportunity to
+      register for the course on the day</li></ul>
     Price: Free
   - workshopDate: Saturday 1st October
     workshopTime: 2 to 4.30pm
