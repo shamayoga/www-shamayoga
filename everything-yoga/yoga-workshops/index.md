@@ -14,6 +14,22 @@ workshops:
       soothe the mind.  A detailed approach to a number of classical asanas and
       deep relaxations techniques.
     Price: £15.00
+  - workshopDate: Saturday 25th August
+    workshopTime: 1 to 3pm
+    Title: Primordial T'ai Chi
+    Venue: 'Power of yoga studio,  Greenhill'
+    Presenter: Steve Avian
+    Description: >-
+      Tai Chi for meditation, healing and energy cultivation . An exquisite and
+      easy to learn 800 year old short form .
+    Price: £15
+  - workshopDate: Sunday 16th September
+    workshopTime: 1  to 2.15pm
+    Title: Free Yoga Teacher Training Taster Session
+    Venue: 'Power of yoga studio,  Greenhill'
+    Presenter: Steve Avian
+    Description: "• Get a feel for the 1 year, world recognised 200-hour Yoga Alliance-certificated course, now in its’ 12th year\n\n• Sample a free yoga class\n\n• Meet prospective students and those already booked\n\n• Get an overview of course topics and workshops\n\n\_• Engage in a question and answer session\n\n• Pick up a calendar and registration form\n\n• Take the opportunity to register for the course on the day"
+    Price: Free
   - workshopDate: Saturday 1st October
     workshopTime: 2 to 4.30pm
     Title: Flowing Forms and Yoga Dances
@@ -69,24 +85,5 @@ workshops:
       self healing, concentration and relaxation.  Plus yoga and massage
       combined for deep release of tensions. Learning materials provided.
     Price: £15.00
-  - workshopDate:
-    workshopTime:
-    Title: Primordial T'ai Chi
-    Venue: 'Power of yoga studio,  Greenhill'
-    Presenter: Steve Avian
-    Description: >-
-      Primordial Tai Chi
-
-
-      Tai Chi for meditation, healing and energy cultivation . An exquisite and
-      easy to learn 800 year old short form .
-    Price: £15
-  - workshopDate:
-    workshopTime:
-    Title: Free Yoga Teacher Training Taster Session
-    Venue:
-    Presenter:
-    Description:
-    Price:
 ---
 
