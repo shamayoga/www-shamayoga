@@ -60,6 +60,18 @@ _options:
     center: center-this-text
     right: align-right
     justify: full-width-text
+  _text:
+    bold: true	 
+    italic: true 	 
+    removeformat: true 	 
+    link: true 	 
+    undo: true 	 
+    redo: true 	 
+    format: p h3 h4 h5 h6 pre address div
+    blockquote: true 	 
+    numberedlist: true 	 
+    bulletedlist: true	 
+    image: true 
 _editable_regions:
   image:
     url_src: true  
