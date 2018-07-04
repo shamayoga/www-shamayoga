@@ -129,7 +129,7 @@ testimonials:
     testimony: >-
       Thanks so much. Hugely appreciate all the teaching.  The pace, delivery,
       it feels spacious, nurturing, warming, very motivating.
-  - name: Jo (Boltt)
+  - name: Jo Boltt
     testimony: >-
       A comprehensive and professional course that has managed to capture a real
       personal feel to it. I am enjoying every moment! I think the course is
