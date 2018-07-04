@@ -2,7 +2,7 @@
 title: Shamayoga Events
 description:
 layout: events
-hero-img:
+hero_image:
 _hide_content: true
 events:
   - eventDate: Saturday 6th August
