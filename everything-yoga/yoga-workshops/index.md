@@ -3,6 +3,7 @@ title: Yoga Workshops with Shamayoga
 description:
 layout: workshops
 hero_image:
+_hide_content: true
 workshops:
   - workshopDate: Saturday 6th August
     workshopTime: 2 to 4.30 pm
