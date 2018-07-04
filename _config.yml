@@ -54,7 +54,6 @@ _options:
     embed: true	 
     table: true
     styles: /css/editor.css
-  _block:
     left: align-left
     center: center-this-text
     right: align-right
