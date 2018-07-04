@@ -53,7 +53,7 @@ _options:
     image: true 	 
     embed: true	 
     table: true
-    styles: /css/editor.css
+    styles: https://brave-poitras-ad569a.netlify.com/css/editor.css
     left: align-left
     center: center-this-text
     right: align-right
