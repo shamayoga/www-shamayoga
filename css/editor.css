@@ -1,2 +1,2 @@
-    .photo-right{float:right; padding: 20px;}
-    .photo-left{float:left; padding: 20px;}
+    img.photo-right{float:right; padding: 20px;}
+    img.photo-left{float:left; padding: 20px;}
