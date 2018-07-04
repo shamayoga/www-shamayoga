@@ -33,6 +33,26 @@ plugins:
 # -----------
 _options:
   content:
+    bold: true	 
+    italic: true 	 
+    removeformat: true 	 
+    link: true 	 
+    undo: true 	 
+    redo: true 	 
+    underline: true	 
+    strike: false 	 
+    subscript: false 	 
+    superscript: false 	 
+    code: false	 
+    format: p h1 h2 h3 h4 h5 h6 pre address div
+    blockquote: true 	 
+    numberedlist: true 	 
+    bulletedlist: true	 
+    outdent: true	 
+    indent: true	 
+    image: true 	 
+    embed: true	 
+    table: true
     styles: /css/editor.css
   _block:
     left: align-left
