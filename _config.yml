@@ -31,6 +31,14 @@ plugins:
 # -----------
 # CloudCannon
 # -----------
+_options:
+  content:
+    styles: /css/editor.css
+  _block:
+    left: align-left
+    center: center-this-text
+    right: align-right
+    justify: full-width-text
 _editable_regions:
   image:
     url_src: true  
