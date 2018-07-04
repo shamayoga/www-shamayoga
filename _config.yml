@@ -60,7 +60,7 @@ _options:
     center: center-this-text
     right: align-right
     justify: full-width-text
-  _text:
+  _html:
     bold: true	 
     italic: true 	 
     removeformat: true 	 
