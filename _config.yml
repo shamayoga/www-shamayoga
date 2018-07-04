@@ -34,6 +34,7 @@ plugins:
 _options:
   content:
     styles: /css/editor.css
+_options:
   _block:
     left: align-left
     center: center-this-text
