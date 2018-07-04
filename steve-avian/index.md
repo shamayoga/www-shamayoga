@@ -11,7 +11,7 @@ hero_image:
 ![Pigeon Pose](https://lh3.googleusercontent.com/-WT6uEG5AniU/Wxendo0lCSI/AAAAAAAABfI/3Bc0OuYcVO8BgATQRfcdnOOq6lv97IHAACE0YBhgL/s480-e30/Sunpidgeon%2Bpose.jpg "Pigeon Pose"){: .photo-left}
 
 I fell in love with yoga over thirty years ago and she has been a constant throughout my life-changes and life-styles. She is a challenging mistress - yielding and withholding her secrets, melting and remaking me along the way.
-{: .full-width-text}
+{: .drop-cap::first-letter}
 
 Yoga found me in my early teens through an aunt who taught me some of the poses. My body assumed the shapes of many movements and postures quite naturally, as if yoga was something I was relearning, as opposed to encountering for the first time. Many people have this feeling when they take up yoga. I loved it. Yoga made me feel alive like great music.
 {: .full-width-text}
@@ -20,7 +20,6 @@ Soon after, I chanced upon a yoga Master, the renowned B.K.S. Iyengar, during on
 {: .full-width-text}
 
 ![Headstand pose](https://lh3.googleusercontent.com/-TYKiP1ruakg/U2uJ3vsseGI/AAAAAAAAAE8/eoIOcC8_SNEGfojn0LSWjNhjcwZA_to9ACE0YBhgL/w360-e30/P1000143.JPG "Fine tuning a headstand"){: .photo-right}
-
 
 I qualified to teach Yoga with one of the oldest Yoga organisations based in the UK – the Friends of Yoga Society – as my main mentor at the time, Enid Culf, was a member. In 1997 I started offering classes and workshops around the Sheffield area and also performed demonstrations of yoga with my students at all the major mind-body spirit festivals in the North.
 {: .full-width-text}
