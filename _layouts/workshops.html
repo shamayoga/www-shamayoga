@@ -34,9 +34,11 @@
         <h3>{{ workshop.workshopDate }} {{ workshop.workshopTime }} </h3>
         <h4>{{ workshop.Title }}</h4>   
         <div>{{ workshop.Description_html }}</div>
+        <div class="event-footer">
         <div><b>Venue</b>: {{ workshop.Venue }}</div>
         <div><b>Presented by</b>: {{ workshop.Presenter }}</div>
         <div><b>Cost of workshop</b>: {{ workshop.Price }}</div>
+        </div>
     </div>
         
      {% endfor %}
