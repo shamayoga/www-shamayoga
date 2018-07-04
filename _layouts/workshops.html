@@ -29,7 +29,7 @@
     {% for workshop in page.workshops %}
         <div class="workshop">
         <h3>{{ workshop.Title }}</h3>
-        <h4>{{ workshop.workshopDate }}</h4>   
+        <h4>{{ workshop.workshopDate }} {{ workshop.workshopTime }}</h4>   
         <div>{{ workshop.Description }}</div>
         <div>Venue: {{ workshop.Venue }}</div>
         <div>Presented by: {{ workshop.Presenter }}</div>
