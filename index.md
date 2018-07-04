@@ -59,20 +59,18 @@ bubbles:
     label-text: In the Media
     url: /shamayoga-in-the-media/
     popup-menu:
-      - text: Shamayoga YouTube
-        link: 'https://www.youtube.com/channel/UCSbv2H-T_m_ejmUCuMZadEA'
-      - text: Shamayoga Facebook
-        link: 'https://www.facebook.com/Shamayoga9/'
-      - text: Shamayoga Instagram
-        link: 'https://www.instagram.com/Shamayoga9/'
       - text: Events
         link: /shamayoga-in-the-media/events/
       - text: Articles and Magazines
         link: /print-media/
-      - text: Events
-        link: /shamayoga-in-the-media/events/
       - text: Yogaseer (Blog)
         link: 'https://www.yogaseer.com/'
+      - text: On YouTube
+        link: 'https://www.youtube.com/channel/UCSbv2H-T_m_ejmUCuMZadEA'
+      - text: On Facebook
+        link: 'https://www.facebook.com/Shamayoga9/'
+      - text: On Instagram
+        link: 'https://www.instagram.com/Shamayoga9/'
   - image: >-
       https://lh3.googleusercontent.com/-9PAqMmYNreA/Wx6IQckMP4I/AAAAAAAABEo/lMptznnu91IIGNcWFL4TjVQzRRTDU93iACJoC/w530-h530-n-e30/colorlotus.png
     label-text: About Steve Avian
