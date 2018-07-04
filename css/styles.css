@@ -5259,7 +5259,12 @@ padding-left:14px;
     margin: -20px -20px 0px -20px;
     font-size: 16px;
 }
-/* slideshow buttons */
+/* cloudcannon alignment*/
+    .align-left{text-align:left;}
+    .center-this-text{text-align:center;}
+    .align-right{text-align:right;}
+    .full-width-text{text-align:justify;text-justify:inter-word;}
+    /*slidedeshow buttons */
 .display-left{position:absolute;top:50%;left:0%;transform:translate(0%,-50%);-ms-transform:translate(-0%,-50%)}
 .display-right{position:absolute;top:50%;right:0%;transform:translate(0%,-50%);-ms-transform:translate(0%,-50%)}
 .workshop img, .event img{padding: 12px;margin:12px 0px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);}
