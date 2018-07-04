@@ -10,7 +10,7 @@ workshops:
     Title: Kriyas and Asanas
     Venue: Broomhill Methodist Church
     Presenter: Steve Avian
-    Description: >-
+    Description_html: >-
       Learn purifying yogic practices that detox and energise the body and
       soothe the mind.  A detailed approach to a number of classical asanas and
       deep relaxations techniques.
@@ -20,7 +20,7 @@ workshops:
     Title: Primordial T'ai Chi
     Venue: 'Power of yoga studio,  Greenhill'
     Presenter: Steve Avian
-    Description: >-
+    Description_html: >-
       Tai Chi for meditation, healing and energy cultivation . An exquisite and
       easy to learn 800 year old short form .
     Price: £15
@@ -29,14 +29,14 @@ workshops:
     Title: Free Yoga Teacher Training Taster Session
     Venue: 'Power of yoga studio,  Greenhill'
     Presenter: Steve Avian
-    Description: "• Get a feel for the 1 year, world recognised 200-hour Yoga Alliance-certificated course, now in its’ 12th year\n\n• Sample a free yoga class\n\n• Meet prospective students and those already booked\n\n• Get an overview of course topics and workshops\n\n\_• Engage in a question and answer session\n\n• Pick up a calendar and registration form\n\n• Take the opportunity to register for the course on the day"
+    Description_html: "• Get a feel for the 1 year, world recognised 200-hour Yoga Alliance-certificated course, now in its’ 12th year\n\n• Sample a free yoga class\n\n• Meet prospective students and those already booked\n\n• Get an overview of course topics and workshops\n\n\_• Engage in a question and answer session\n\n• Pick up a calendar and registration form\n\n• Take the opportunity to register for the course on the day"
     Price: Free
   - workshopDate: Saturday 1st October
     workshopTime: 2 to 4.30pm
     Title: Flowing Forms and Yoga Dances
     Venue: Broomhill Methodist Church
     Presenter: Steve Avian
-    Description: >-
+    Description_html: >-
       Experience sequenced yoga postures in rhythmic flow to develop
       flexibility, poise, endurance and strength, and for sheer joy. 
       Illustrated handouts provided.
@@ -46,7 +46,7 @@ workshops:
     Title: Advanced Asanas for All and Bandhas
     Venue: Broomhill Methodist Church
     Presenter: Steve Avian
-    Description: >-
+    Description_html: >-
       Explore advanced asanas safely (with adaptations when necessary) and fine
       tune your awareness within the classical poses.  Explore the three
       bandhas, subtle muscular locks stimulating and harmonising energy in asana
@@ -57,7 +57,7 @@ workshops:
     Title: Exploring the Three Bases of Hatha Yoga.
     Venue: Broomhill Methodist Church
     Presenter: Steve Avian
-    Description: >-
+    Description_html: >-
       Posture, breathing and relaxation are the foundation of Hatha Yoga that we
       will explore in this workshop.  Once mastered, these skills can be
       transposed to enhance all aspects of life.  Included in this workshop will
@@ -69,7 +69,7 @@ workshops:
     Title: Gayatri Mantra and Partner Yoga
     Venue: Broomhill Methodist Church
     Presenter: Steve Avian
-    Description: >-
+    Description_html: >-
       Learn the sanskrit Gayatri mantra, which is a healing mantra said to
       bestow radiant health, and other simple mantra to focus the mind for
       meditation. New partner exercises will also be explored to develop greater
@@ -80,7 +80,7 @@ workshops:
     Title: Mudras and Yoga Massage
     Venue: Broomhill Methodist Church
     Presenter: Steve Avian
-    Description: >-
+    Description_html: >-
       The yoga of the hands - using the power points of the hands and fingers -
       these ancient gestures and easy exercises can replenish energy, promote
       self healing, concentration and relaxation.  Plus yoga and massage
