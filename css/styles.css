@@ -5255,7 +5255,7 @@ padding-left:14px;
 #sidebar-wrapper{overflow-y:auto !important;overflow-x:hidden !important;}
 .socmedico{height:48px;}
 #workshops, #events{display: grid;grid-template-columns: 1fr 1fr 1fr;grid-column-gap: 24px;grid-row-gap: 42px;}
-.workshop, .event{border: 1px solid grey;padding: 20px;position:relative;}
+.workshop, .event{border: 1px solid grey;padding: 20px;position:relative;table-layout: fixed;}
 .workshop h3, .event h3{
     background-color: #e95416;
     padding: 20px;
