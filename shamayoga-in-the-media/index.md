@@ -3,6 +3,7 @@ title: Shamayoga in the Media
 description:
 layout: page
 hero_image:
+_hide_content: true
 ---
 
 # Shamayoga in the Media
