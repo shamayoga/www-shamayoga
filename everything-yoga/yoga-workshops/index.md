@@ -71,14 +71,14 @@ workshops:
     Price: £15.00
   - workshopDate:
     workshopTime:
-    Title:
+    Title: Tai Chi
     Venue:
     Presenter:
     Description:
     Price:
   - workshopDate:
     workshopTime:
-    Title:
+    Title: Free Yoga Teacher Training Taster Session
     Venue:
     Presenter:
     Description:
