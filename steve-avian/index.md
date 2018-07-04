@@ -17,14 +17,19 @@ Yoga found me in my early teens through an aunt who taught me some of the poses.
 {: .full-width-text}
 
 Soon after, I chanced upon a yoga Master, the renowned B.K.S. Iyengar, during one of his rare European tours; an auspicious and inspiring start for any student of yoga. Throughout the years, I studied many styles of Yoga. I have always had a fascination for the strange, obscure and impossible areas of life. I found the answers to many of my own riddles of the deep beyond the parameters of the mainstream. Acquainted with various ‘exotic’ phenomena, I was naturally drawn to the esoteric dimensions of the Yogic and other mystical traditions. I learned a lot from my teachers and, at the same time, I learned a lot by myself. The greatest Guru is the One Spirit within us all.
+{: .full-width-text}
 
 I qualified to teach Yoga with one of the oldest Yoga organisations based in the UK – the Friends of Yoga Society – as my main mentor at the time, Enid Culf, was a member. In 1997 I started offering classes and workshops around the Sheffield area and also performed demonstrations of yoga with my students at all the major mind-body spirit festivals in the North.
+{: .full-width-text}
 
 In 2005 I set up a Yoga Teacher Training School accredited to the Yoga Alliance that I have enjoyed immensely. So many amazing people have crossed my path and still do. My students teach me so much through the process of discovering what works for them. Essentially we are seeking the source together.
+{: .full-width-text}
 
 I am regarded as an Elder (a term I find somewhat embarrassing and one I cannot possibly live up to!) within the Independent Yoga Network, an inspiring organization created to ensure the independence of yoga teachers worldwide.
+{: .full-width-text}
 
 I think of yoga as an exploration, an invitation to play and to gain an experiential understanding of our potentials. We can put our discoveries to good use in the world. Yoga is of priceless value. It can offer one of the greatest means to surviving and thriving through these tumultuous times. Yoga can play a crucial role in the birthing of a new world, the vision of paradise deep within our hearts. May our journey begin anew.
+{: .full-width-text}
 
 Good luck. Play on.
 
