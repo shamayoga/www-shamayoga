@@ -8,7 +8,7 @@ hero_image:
 # &nbsp;My Song So Far
 {: .shamafont}
 
-![Pigeon Pose](https://lh3.googleusercontent.com/-WT6uEG5AniU/Wxendo0lCSI/AAAAAAAABfI/3Bc0OuYcVO8BgATQRfcdnOOq6lv97IHAACE0YBhgL/s480-e30/Sunpidgeon%2Bpose.jpg "Pigeon Pose"){: .photo-right}
+![Pigeon Pose](https://lh3.googleusercontent.com/-WT6uEG5AniU/Wxendo0lCSI/AAAAAAAABfI/3Bc0OuYcVO8BgATQRfcdnOOq6lv97IHAACE0YBhgL/s480-e30/Sunpidgeon%2Bpose.jpg "Pigeon Pose"){: .photo-left}
 
 I fell in love with yoga over thirty years ago and she has been a constant throughout my life-changes and life-styles. She is a challenging mistress - yielding and withholding her secrets, melting and remaking me along the way.
 
