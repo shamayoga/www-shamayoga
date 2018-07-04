@@ -69,5 +69,19 @@ workshops:
       self healing, concentration and relaxation.  Plus yoga and massage
       combined for deep release of tensions. Learning materials provided.
     Price: £15.00
+  - workshopDate:
+    workshopTime:
+    Title:
+    Venue:
+    Presenter:
+    Description:
+    Price:
+  - workshopDate:
+    workshopTime:
+    Title:
+    Venue:
+    Presenter:
+    Description:
+    Price:
 ---
 
