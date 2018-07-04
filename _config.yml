@@ -32,6 +32,8 @@ plugins:
 # CloudCannon
 # -----------
 _options:
+  layout:
+    hidden: true
   content:
     bold: true	 
     italic: true 	 
