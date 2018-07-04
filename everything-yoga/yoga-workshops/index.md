@@ -3,7 +3,6 @@ title: Yoga Workshops with Shamayoga
 description:
 layout: workshops
 hero_image:
-_hide_content: true
 workshops:
   - workshopDate: Saturday 6th August
     workshopTime: 2 to 4.30 pm
@@ -72,11 +71,16 @@ workshops:
     Price: £15.00
   - workshopDate:
     workshopTime:
-    Title: Tai Chi
-    Venue:
-    Presenter:
-    Description:
-    Price:
+    Title: Primordial T'ai Chi
+    Venue: 'Power of yoga studio,  Greenhill'
+    Presenter: Steve Avian
+    Description: >-
+      Primordial Tai Chi
+
+
+      Tai Chi for meditation, healing and energy cultivation . An exquisite and
+      easy to learn 800 year old short form .
+    Price: £15
   - workshopDate:
     workshopTime:
     Title: Free Yoga Teacher Training Taster Session
