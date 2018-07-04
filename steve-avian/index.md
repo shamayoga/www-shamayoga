@@ -12,7 +12,6 @@ hero_image:
 {: .photo-right}
 
 I fell in love with yoga over thirty years ago and she has been a constant throughout my life-changes and life-styles. She is a challenging mistress – yielding and withholding her secrets, melting and remaking me along the way.
-{: .full-width-text}
 
 Yoga found me in my early teens through an aunt who taught me some of the poses. My body assumed the shapes of many movements and postures quite naturally, as if yoga was something I was relearning, as opposed to encountering for the first time. Many people have this feeling when they take up yoga. I loved it. Yoga made me feel alive like great music.
 
