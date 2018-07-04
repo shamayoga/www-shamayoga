@@ -34,9 +34,11 @@
         <h3>{{ event.eventDate }} {{ event.eventTime}}</h3>
         <h4>{{ event.Title }}</h4>   
         <div>{{ event.Description }}</div>
+        <div class="event-footer">
         <div><b>Venue</b>: {{ event.Venue }}</div>
         <div><b>Presented by</b>: {{ event.Presenter }}</div>
         <div><b>Cost of event</b>: {{ event.Price }}</div>
+        </div>
     </div>
         
      {% endfor %}
