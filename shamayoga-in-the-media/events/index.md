@@ -6,7 +6,7 @@ hero_image:
 _hide_content: true
 events:
   - eventDate: Saturday 6th August
-    eventTime: END
+    eventTime: until Late or Early
     Title: End of The World
     Venue: Everywhere
     Presenter: Depends on your point of view but without question it is the human race

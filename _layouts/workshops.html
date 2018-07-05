@@ -25,18 +25,20 @@
     <div class="col-12 col-sm-12 col-lg-12 clearfix">
     <h2 class="shamafont">{{ page.title }}</h2>
     {% if page.hero_image %}
-    <img src="{{page.hero_image}}"/>
+    <img src="{{page.hero_image}}"/></br>
     {% endif %}
     <br/>
     <div id="workshops">
     {% for workshop in page.workshops %}
         <div class="workshop">
-        <h3>{{ workshop.Title }}</h3>
-        <h4>{{ workshop.workshopDate }} {{ workshop.workshopTime }}</h4>   
-        <div>{{ workshop.Description }}</div>
-        <div>Venue: {{ workshop.Venue }}</div>
-        <div>Presented by: {{ workshop.Presenter }}</div>
-        <div>Cost of workshop: {{ workshop.Price }}</div>
+        <h3>{{ workshop.workshopDate }} {{ workshop.workshopTime }} </h3>
+        <h4>{{ workshop.Title }}</h4>   
+        <div>{{ workshop.Description_html }}</div>
+        <div class="event-footer">
+        <div><b>Venue</b>: {{ workshop.Venue }}</div>
+        <div><b>Presented by</b>: {{ workshop.Presenter }}</div>
+        <div><b>Cost of workshop</b>: {{ workshop.Price }}</div>
+        </div>
     </div>
         
      {% endfor %}
