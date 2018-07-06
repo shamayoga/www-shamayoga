@@ -2,26 +2,28 @@
 title: The Wonderful Bobo
 permalink: "/massive/bobo/"
 layout: page
-hero-image: https://lh3.googleusercontent.com/Azh8xMjs8xgFp-5cLWaQbubNWnjzPSghNcFkd1jccGHmsE3Z8kqrCobr4iEUpIPPFr5Plowv11U1WYzFM5LfHTSrekilD4P9TPkIC7cwtgs=w1200-h400-rj-e30?.jpg
+hero-image: https://lh3.googleusercontent.com/LNCJeMb7K0cjwYbQAeCpZcC4ZktWq1aEm6EmT_36AsZvAkSgHiMTRMqAPFnsU1DYayI3srpwpOQFR0dlWOY=w1200-h400-n-rj-e30?.jpg
 sheep-dip:
 - ram
 - spam
 - ham
 - Frank:
-   wife: Sharon
-   dog: Baron
+    wife: Sharon
+    dog: Baron
 - Fred:
     wife: Larah
     dog: Tip
 ---
 
-# Bobo I love you
+# Bobo got the gogo
 
-![Dapper](https://lh3.googleusercontent.com/--Ica3Qa6TIk/WzuEpCWKcLI/AAAAAAAAWoc/-PWHu_n2KAwCSTr1sLaJJiluGUzpTzNiwCE0YBhgL/s240-e30/chinface.jpg){: .photo-left}This is the beginning of a beautiful day. The sun is already high in the sky and the temperature is rising. The children are on their way to school for the very last time before the long Summer break. The parents and grand parents are enjoying their last lazy morning of calm and relative freedom before the vacation madness. This is the beginning of a beautiful day. The sun is already high in the sky and the temperature is rising. The children are on their way to school for the very last time before the holidays. The parents and grand parents are enjoying their last lazy morning of freedom before the vacation madness. This is the beginning of a beautiful day. The sun is already high in the sky and the temperature is rising. The children are on their way to school for the very last time before the holidays. The parents and grand parents are enjoying their last lazy morning of freedom before the vacation madness. This is the beginning of a beautiful day. The sun is already high in the sky and the temperature is rising. The children are on their way to school for the very last time before the holidays. The parents and grand parents are enjoying their last lazy morning of freedom before the vacation madness.This is the beginning of a beautiful day. The sun is already high in the sky and the temperature is rising. The children are on their way to school for the very last time before the holidays. The parents and grand pparents are enjoying their last lazy morning of freedom before the vacation madness.
+![Dapper](https://lh3.googleusercontent.com/HhXRTAmCxYugUh_I8uLu1sfkdcsulwN4GD5t2_iVViuMgMVfvLWJZtUdBPU-DI_-QTqfL6tLsPLxX1UrseM=w140-e30-rj){: .photo-left}While the humans were jumping up and down on the bouncy castle of destruction and anhialation something stirred on the escarpment of Ethiopia. The same rythms that triggered the first human migrations out of Africa have stirred the souls of another great species. Can these guys do a better job. This tune suggests they might.
 {: .drop-cap}
 
-> There is sincerity in this whole work
+> apes with bite
 
-<div class="embed-container"><iframe src="https://www.youtube.com/embed/T4S8-4PO1f0" allowfullscreen="1" frameborder="0"></iframe></div>
+<div style="clear: both;"/>
+<div class='embed-container'><iframe src='https://player.vimeo.com/video/110392034' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>https://vimeo.com/partlyfiction/scars
+
 
 &nbsp;
