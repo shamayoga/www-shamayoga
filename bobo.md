@@ -7,9 +7,12 @@ sheep-dip:
 - ram
 - spam
 - ham
-- Life:
-   - wife: Sharon
-   - dog: Baron
+- Frank:
+   wife: Sharon
+   dog: Baron
+- Fred:
+    wife: Larah
+    dog: Tip
 ---
 
 # Bobo I love you
