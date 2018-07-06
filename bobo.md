@@ -8,8 +8,8 @@ sheep-dip:
 - spam
 - ham
 - Life:
-  wife: Sharon
-  dog: Baron
+   - wife: Sharon
+   - dog: Baron
 ---
 
 # Bobo I love you
