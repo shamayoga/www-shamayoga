@@ -35,6 +35,6 @@ Twelve months, one weekend a month (including some working lunches) plus 2 hours
 
 There will also be one major teaching assessment towards the end of the course, the actual date of which may be specified by the student.<br>Each weekend will open and close with a sharing circle to summarise the main topics of the weekend.
 
-Read the Interview (Teach Your Yoga) with Steve Avian, course leader. [Interview](../steve-avian/interview/)
+Read the Interview (Teach Your Yoga) with Steve Avian, course director. [Interview](../steve-avian/interview/)
 
 [Download Course Calendar](https://downloads.shamayoga.org.uk/yogateaching2019calendar.pdf "Download Course Calendar"){: .download target="_blank"}
