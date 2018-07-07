@@ -7,7 +7,7 @@ hero_image:
 
 # Teach Your Yoga
 
-## An Interview with Shamayoga Founder of Steve Avian
+## An Interview with Steve Avian of Shamayoga&nbsp;
 
 ![Steve Avian](https://lh3.googleusercontent.com/-_7m_Cv_9aQg/WzJA4XeOnJI/AAAAAAAABqk/mArKnZDkfe0OzAgIULL-0ksasjSiokUAwCJoC/s0-e30/interview.jpg)
 
