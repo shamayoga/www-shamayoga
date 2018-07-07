@@ -5,15 +5,20 @@ layout: events
 hero_image:
 _hide_content: true
 events:
-  - eventDate: Saturday 6th August
-    eventTime: until Late or Early
-    Title: End of The World
-    Venue: Everywhere
-    Presenter: Depends on your point of view but without question it is the human race
-    Description: >-
-      The event will start with mass wailing, chanting , gnashing of teeth etc.
-      followed by a huge flash and finally transcendence or zip.
-    Price: Priceless
+  - eventDate: Sunday 16th September
+    eventTime: 1 to 2.12pm
+    Title: Free Yoga Teacher Training Taster Session
+    Venue: 'Power of Yoga Studio,  Greenhill'
+    Presenter: Steve Avian
+    Description: "Get a feel for the 1 year, world recognised 200-hour Yoga Alliance-certificated course, now in its’ 12th year\n\n• Sample a free yoga class\n\n• Meet prospective students and those already booked\n\n• Get an overview of course topics and workshops\n\n\_• Engage in a question and answer session\n\n• Pick up a calendar and registration form\n\n• Take the opportunity to register for the course on the day"
+    Price: Free
+  - eventDate:
+    eventTime:
+    Title:
+    Venue:
+    Presenter:
+    Description:
+    Price:
 ---
 
 # Shamayoga Events
