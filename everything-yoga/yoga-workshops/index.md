@@ -3,7 +3,7 @@ title: Yoga Workshops with Shamayoga
 description:
 layout: workshops
 hero_image: >-
-  https://lh3.googleusercontent.com/7qGDZvwsYq-NMbnO4xBpM6QVuqg7kJ7B4jSfA3CcqI47KgQtKEkhnH2_3J0IImYM3QITi_Np4Zf-I95zFw=w1200-h380-n?.jpg
+  https://res.cloudinary.com/shamayoga/image/upload/v1531057919/shamayoga.org.uk/everything-yoga/yoga-workshops/7qGDZvwsYq-NMbnO4xBpM6QVuqg7kJ7B4jSfA3CcqI47KgQtKEkhnH2_3J0IImYM3QITi_Np4Zf-I95zFw_w1200-h380-n.jpg
 _hide_content: true
 workshops:
   - workshopDate: Saturday 6th August
