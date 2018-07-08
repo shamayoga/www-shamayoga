@@ -8,7 +8,7 @@ hero-img:
 # Yoga Teacher Training
 {: .shamafont}
 
-# ![Steve leading a group session with teacher trainees](https://lh3.googleusercontent.com/-heKh2IqZN4U/WyuZjLxiUmI/AAAAAAAABk0/59mPJgiKJ_4UAeA6lbqd__Oe6XPggOBxgCJoC/s0-e30/webphotos9.jpg "Steve leading a group session with teacher trainees"){: .photo-right}
+# ![Steve leading a group session with teacher trainees](https://res.cloudinary.com/shamayoga/image/upload/v1531050692/shamayoga.org.uk/teacher-training/webphotos9.jpg "Steve leading a group session with teacher trainees"){: .photo-right}
 {: .shamafont}
 
 ### 2019 : A comprehensive (yoga alliance 200 hrs ) transformational training programme covering all aspects of Yoga practice, theory and teaching.
@@ -25,16 +25,16 @@ The purpose of the course is to provide students with a solid grounding in tradi
 6. anatomy and physiology
 7. setting up as a yoga teacher
 
-![Student teachers working in pairs](https://lh3.googleusercontent.com/-spskmmAVP3o/WyvHI_d1IDI/AAAAAAAABmQ/Edbupuv6VOEdGGt74wLuk8hOATbIQc6XACJoC/s250-e30/arrior.jpg "Student teachers working in pairs"){: .photo-right} Our programme is open to all students who are sincere and passionate in their yoga practice and wish to become teachers of yoga: existing teachers of yoga, within varying styles and traditions, who wish to deepen their knowledge and skills; and students of yoga who, without necessarily wanting to become yoga teachers, wish for a greater experience and knowledge of yoga.
+![Student teachers working in pairs](https://res.cloudinary.com/shamayoga/image/upload/v1531050727/shamayoga.org.uk/teacher-training/arrior.jpg "Student teachers working in pairs"){: .photo-right} Our programme is open to all students who are sincere and passionate in their yoga practice and wish to become teachers of yoga: existing teachers of yoga, within varying styles and traditions, who wish to deepen their knowledge and skills; and students of yoga who, without necessarily wanting to become yoga teachers, wish for a greater experience and knowledge of yoga.
 
 <div style="clear: both;">&nbsp;</div>
 
 ### Course Commitments
 
-Twelve months, one weekend a month (including some working lunches) plus 2 hours a month (on average) guided home study (reading and written assignments).<br>![Teaching practice](https://lh3.googleusercontent.com/--H-QJsV1k74/WyvH2hQcnZI/AAAAAAAABm0/A7TaIZV40cAs8Xu1gAuGHoHRMzXRISpTQCJoC/s250-e30/webphotos5.jpg "Teaching practice"){: .photo-right}There will be 6 ongoing assessed teaching practice sessions taking place, where trainees will be offering assistance during bi-monthly yoga days, which are open to the general public.
+Twelve months, one weekend a month (including some working lunches) plus 2 hours a month (on average) guided home study (reading and written assignments).<br>![Teaching practice](https://res.cloudinary.com/shamayoga/image/upload/v1531050753/shamayoga.org.uk/teacher-training/webphotos5.jpg "Teaching practice"){: .photo-right}There will be 6 ongoing assessed teaching practice sessions taking place, where trainees will be offering assistance during bi-monthly yoga days, which are open to the general public.
 
 There will also be one major teaching assessment towards the end of the course, the actual date of which may be specified by the student.<br>Each weekend will open and close with a sharing circle to summarise the main topics of the weekend.
 
-Read the Interview (Teach Your Yoga) with Steve Avian, course leader. [Interview](../steve-avian/interview/)
+Read the Interview (Teach Your Yoga) with Steve Avian, course director. [Interview](../steve-avian/interview/)
 
 [Download Course Calendar](https://downloads.shamayoga.org.uk/yogateaching2019calendar.pdf "Download Course Calendar"){: .download target="_blank"}

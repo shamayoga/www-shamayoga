@@ -5,7 +5,7 @@ layout: homepage
 _hide_content: false
 bubbles:
   - image: >-
-      https://lh3.googleusercontent.com/-pqFA3R0QHZs/WyAqlxb1GjI/AAAAAAAABNE/_5Pm0IJUyPIPMowIepk90XY9Tzurttv4QCJoC/w530-h530-n-e30/teach2.png
+      https://res.cloudinary.com/shamayoga/image/upload/v1531049153/shamayoga.org.uk/bubbles/teach2.png
     label-text: Teach Your Yoga
     url: /teacher-training/
     popup-menu:
@@ -26,7 +26,7 @@ bubbles:
       - text: Fees &amp; Application
         link: /teacher-training/course-fees-and-application/
   - image: >-
-      https://lh3.googleusercontent.com/-fayaVdykrnA/Wx6Kcv-Em7I/AAAAAAAABFU/98nc-4Rnq_8QrseI9gY0FT-Z_fo6QQ5eACJoC/w530-h707-n-e30/FlameHands.jpg
+      https://res.cloudinary.com/shamayoga/image/upload/v1531049174/shamayoga.org.uk/bubbles/FlameHands.jpg
     label-text: Subscribe
     popup-menu:
       - text: >-
@@ -38,7 +38,7 @@ bubbles:
     url: >-
       http://shamayoga.us8.list-manage1.com/subscribe?u=2c82f35949283b905c95159e0&id=7928c7fcd3
   - image: >-
-      https://lh3.googleusercontent.com/-sh4OD_NGS44/WyWWVpQeqCI/AAAAAAAABZA/480AQz9pd4UWTbUWfgjblQhhDM5Pe6osgCJoC/w530-h530-n/bring-ls.png
+      https://res.cloudinary.com/shamayoga/image/upload/v1531049197/shamayoga.org.uk/bubbles/bring-ls.png
     label-text: Bring Out the Yoga in You
     url: /everything-yoga/yoga-classes/
     popup-menu:
@@ -72,7 +72,7 @@ bubbles:
       - text: On Instagram
         link: 'https://www.instagram.com/Shamayoga9/'
   - image: >-
-      https://lh3.googleusercontent.com/-9PAqMmYNreA/Wx6IQckMP4I/AAAAAAAABEo/lMptznnu91IIGNcWFL4TjVQzRRTDU93iACJoC/w530-h530-n-e30/colorlotus.png
+      https://res.cloudinary.com/shamayoga/image/upload/v1531049255/shamayoga.org.uk/bubbles/colorlotus.png
     label-text: About Steve Avian
     url: /steve-avian/
     popup-menu:
@@ -81,21 +81,21 @@ bubbles:
       - text: Gallery
         link: /yoga-gallery/
   - image: >-
-      https://lh3.googleusercontent.com/-y-Zmc_k-tvQ/WyWTM51NuQI/AAAAAAAABXk/L8DH_qCyVIU98t0wtW7LI4Q9g6gwWdNlgCJoC/w530-h530-n-e30/bowl-ls.png
+      https://res.cloudinary.com/shamayoga/image/upload/v1531049299/shamayoga.org.uk/bubbles/bowl-ls.png
     label-text: Royalty Free Yoga Music
     url: /everything-yoga/yoga-shop/
     popup-menu:
       - text: <br/><br/><br/>Download Yoga Music
         link: /everything-yoga/yoga-shop/
 Accreditations:
-  - logo: >-
-      https://lh3.googleusercontent.com/-P2TWLiXwcIQ/WyoWOLxZOsI/AAAAAAAABd4/ON7-pzDYaTAJsvV2J79v2hArw-EGSXL2gCJoC/h100-e30/YA.png
-  - logo: >-
-      https://lh3.googleusercontent.com/-r3EPy_G_Sps/WzDm9tBjw6I/AAAAAAAABpc/OYEP31wLCWIV3xgDoXVXUw1fw66iq_vrQCJoC/h100-e30/way_rys200_gold_trans.png
-  - logo: >-
-      https://lh3.googleusercontent.com/-gTdD_Bz5fLs/WzDmnXwBIYI/AAAAAAAABpQ/8vda-CkcOYMcFH5eHd5tt13RdFAXOmsSgCJoC/h100-e30/eryt-rys.png
-  - logo: >-
-      https://lh3.googleusercontent.com/-3USD_2MFXF0/WyoVadCKJOI/AAAAAAAABdI/kFru00WDTVQikfH0z2l2Yr75T_m0iG9eQCJoC/h100-e30/YACEP.png
+  - logo_image: >-
+      https://res.cloudinary.com/shamayoga/image/upload/v1531050226/shamayoga.org.uk/Accreditation%20Logos/YA.png
+  - logo_image: >-
+      https://res.cloudinary.com/shamayoga/image/upload/v1531050250/shamayoga.org.uk/Accreditation%20Logos/way_rys200_gold_trans.png
+  - logo_image: >-
+      https://res.cloudinary.com/shamayoga/image/upload/v1531050274/shamayoga.org.uk/Accreditation%20Logos/eryt-rys.png
+  - logo_image: >-
+      https://res.cloudinary.com/shamayoga/image/upload/v1531050306/shamayoga.org.uk/Accreditation%20Logos/YACEP.png
 testimonials:
   - name: Sarah Atkin
     testimony: >-
@@ -156,4 +156,4 @@ testimonials:
       class.
 ---
 
-<div id="roots"><h1>शम भक्ति</h1><div id="roots-text"><p class="drop-cap"><em>If I could sum up my Yoga practice in one word, it would be "Shama". Shama is a Sanskrit word meaning inner harmony.</em></p><p><em>In the yoga tradition Shama refers to the conscious harmony of the Whole Self &ndash; body, mind and emotions. In the Vedas (India&rsquo;s oldest sacred texts) the word Yoga is used alongside the word Shama, meaning harmonious union.</em></p><p><em>To me, this suggests the idea of inner harmony and the profound connection between our inner world and the Universe itself. Yoga is there to help us explore this mystical connection in a balanced way. </em><em><br />- Steve Avian</em></p><p>Rooted in the ancient traditions and classic Hatha style, Shamayoga is an inspired and integrated eclectic approach to learning and teaching yoga in the 21st century.</p><p>For Yoga Practioners wanting to deepen and share their knowledge we offer a one year (200hrs) internationally recognised Yoga Alliance certificated teacher training course covering all aspects of yoga practice, theory and teaching.</p><p>For beginners and advanced alike we offer ongoing yoga classes, workshops, yoga retreats and music for Yoga and relaxation. All styles and spiritual paths warmly welcomed.</p></div></div>
+<div id="roots"><h1>शम योग</h1><div id="roots-text"><p class="drop-cap"><em>If I could sum up my Yoga practice in one word, it would be "Shama". Shama is a Sanskrit word meaning inner harmony.</em></p><p><em>In the yoga tradition Shama refers to the conscious harmony of the Whole Self &ndash; body, mind and emotions. In the Vedas (India&rsquo;s oldest sacred texts) the word Yoga is used alongside the word Shama, meaning harmonious union.</em></p><p><em>To me, this suggests the idea of inner harmony and the profound connection between our inner world and the Universe itself. Yoga is there to help us explore this mystical connection in a balanced way. </em><em><br />- Steve Avian</em></p><p>Rooted in the ancient traditions and classic Hatha style, Shamayoga is an inspired and integrated eclectic approach to learning and teaching yoga in the 21st century.</p><p>For Yoga Practioners wanting to deepen and share their knowledge we offer a one year (200hrs) internationally recognised Yoga Alliance certificated teacher training course covering all aspects of yoga practice, theory and teaching.</p><p>For beginners and advanced alike we offer ongoing yoga classes, workshops, yoga retreats and music for Yoga and relaxation. All styles and spiritual paths warmly welcomed.</p></div></div>

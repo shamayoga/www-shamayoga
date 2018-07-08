@@ -8,7 +8,7 @@ hero_image:
 # Yoga Classes
 {: .shamafont}
 
-![](https://lh3.googleusercontent.com/-I2sXVAGTCM4/Wyzmhq_Cq_I/AAAAAAAABn0/3Kf64mNhkygT5-diHSYqzo-pWNTpIf5-wCJoC/s800-e30/classes2ndthought.jpg)
+![](https://res.cloudinary.com/shamayoga/image/upload/v1531057661/shamayoga.org.uk/everything-yoga/classes2ndthought.jpg)
 
 ### Ongoing Classes in Sheffield with Steve Avian &nbsp;
 
@@ -38,4 +38,4 @@ Steve is also available for individual tuition. [Contact Steve](mailto:info@sham
 
 Classes are ongoing at various locations, days and times.<br>Please contact Olivia at [info@yogabirthsheffield.co.uk](mailto:info@yogabirthsheffield.co.uk?subject=Active%20Birth%2C%20Pregnancy%20%26%20Postnatal%20Classes%20-%20shamayoga.org.uk) or call 0114 2250254 and leave your name and address.
 
-![](https://lh3.googleusercontent.com/-pQR524fcabY/WyzmlnDcS4I/AAAAAAAABoE/wIUdnHuMIWM23sacGL_IEPX5oSn_1_fLwCJoC/s800-e30/webphotos7.jpg)
+![](https://res.cloudinary.com/shamayoga/image/upload/v1531057784/shamayoga.org.uk/everything-yoga/webphotos7.jpg)

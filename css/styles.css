@@ -5229,6 +5229,9 @@ padding-left:14px;
     .photo-left{float:left; padding: 20px;}*/
     img.photo-right{float:right; padding: 20px;}
     img.photo-left{float:left; padding: 20px;}
+    img.polaroid-right{float:right; padding: 12px;margin:12px 12px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);}
+    img.polaroid-left{float:left; padding: 12px;margin:12px 12px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);}
+    .clear-both{clear:both;}
     p.drop-cap{color:inherit;}
     p.drop-cap::first-letter{font-size: 4.1em;float: left;margin-top: .13em;padding: 0.1em;font-style: normal;}
     .photo-tutor{float:left;padding:0px 10px 10px 0px;}
@@ -5272,16 +5275,16 @@ padding-left:14px;
     /*slidedeshow buttons */
 .display-left{position:absolute;top:50%;left:0%;transform:translate(0%,-50%);-ms-transform:translate(-0%,-50%)}
 .display-right{position:absolute;top:50%;right:0%;transform:translate(0%,-50%);-ms-transform:translate(0%,-50%)}
-.workshop img, .event img{padding: 12px;margin:12px 0px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);}
 
+.workshop img, .event img, .polaroid{padding: 12px;margin:12px 0px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);}
 /*YOUTUBE EMBEDS*/
 .embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } 
 .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
 
 @media only screen and (max-width: 1100px) {
-    #workshops, #events{grid-template-columns: 1fr 1fr;
+    #workshops, #events{grid-template-columns: 1fr 1fr;}
 }
 @media only screen and (max-width: 800px) {
-    #workshops, #events{grid-template-columns: 1fr ;
+    #workshops, #events{grid-template-columns: 1fr ;}
 }
-/* START SHAMA STYLEY */
+/* End SHAMA STYLEY */
