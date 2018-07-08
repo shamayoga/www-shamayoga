@@ -10,7 +10,8 @@ hero_image:
 
 ![Pigeon Pose](https://lh3.googleusercontent.com/-WT6uEG5AniU/Wxendo0lCSI/AAAAAAAABfI/3Bc0OuYcVO8BgATQRfcdnOOq6lv97IHAACE0YBhgL/s480-e30/Sunpidgeon%2Bpose.jpg "Pigeon Pose"){: .polaroid-left}
 
-I fell in love with yoga over thirty years ago and she has been a constant throughout my life-changes and life-styles. She is a challenging mistress - yielding and withholding her secrets, melting and remaking me along the way.{: .drop-cap}
+I fell in love with yoga over thirty years ago and she has been a constant throughout my life-changes and life-styles. She is a challenging mistress - yielding and withholding her secrets, melting and remaking me along the way.
+{: .drop-cap}
 
 Yoga found me in my early teens through an aunt who taught me some of the poses. My body assumed the shapes of many movements and postures quite naturally, as if yoga was something I was relearning, as opposed to encountering for the first time. Many people have this feeling when they take up yoga. I loved it. Yoga made me feel alive like great music.
 {: .full-width-text}
