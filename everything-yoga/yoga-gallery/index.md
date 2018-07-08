@@ -30,5 +30,7 @@ gallery_images:
       https://res.cloudinary.com/shamayoga/image/upload/v1531060312/shamayoga.org.uk/everything-yoga/gallery/20150607-162744.jpg
   - image: >-
       https://res.cloudinary.com/shamayoga/image/upload/v1531060415/shamayoga.org.uk/everything-yoga/gallery/s0-rj-l80-e30.jpg
+  - image: >-
+      https://res.cloudinary.com/shamayoga/image/upload/v1531081279/test/italianvillage.jpg
 ---
 
