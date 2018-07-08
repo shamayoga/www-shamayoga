@@ -109,6 +109,3 @@ Social media&nbsp;
 
 ![Teaching the tree](/uploads/20180107-151155.jpg){: .photo-right}
 
-&nbsp;
-
-### #
