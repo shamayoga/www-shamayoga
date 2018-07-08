@@ -3,7 +3,7 @@ title: Shamayoga Teacher Training - Past Student Testimonials
 description:
 layout: testimonial
 hero_image:
-Testimonials:
+testimonials:
   - student: Ali
     testimony: >-
       "Dear Steve, what an amazing year! Thank you sooooo much for your energy
