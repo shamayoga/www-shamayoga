@@ -88,13 +88,13 @@ bubbles:
       - text: <br/><br/><br/>Download Yoga Music
         link: /everything-yoga/yoga-shop/
 Accreditations:
-  - logo: >-
+  - logo_image: >-
       https://lh3.googleusercontent.com/-P2TWLiXwcIQ/WyoWOLxZOsI/AAAAAAAABd4/ON7-pzDYaTAJsvV2J79v2hArw-EGSXL2gCJoC/h100-e30/YA.png
-  - logo: >-
+  - logo_image: >-
       https://lh3.googleusercontent.com/-r3EPy_G_Sps/WzDm9tBjw6I/AAAAAAAABpc/OYEP31wLCWIV3xgDoXVXUw1fw66iq_vrQCJoC/h100-e30/way_rys200_gold_trans.png
-  - logo: >-
+  - logo_image: >-
       https://lh3.googleusercontent.com/-gTdD_Bz5fLs/WzDmnXwBIYI/AAAAAAAABpQ/8vda-CkcOYMcFH5eHd5tt13RdFAXOmsSgCJoC/h100-e30/eryt-rys.png
-  - logo: >-
+  - logo_image: >-
       https://lh3.googleusercontent.com/-3USD_2MFXF0/WyoVadCKJOI/AAAAAAAABdI/kFru00WDTVQikfH0z2l2Yr75T_m0iG9eQCJoC/h100-e30/YACEP.png
 testimonials:
   - name: Sarah Atkin
