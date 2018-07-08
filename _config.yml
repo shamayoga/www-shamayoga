@@ -28,6 +28,9 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   
+include:
+  _headers
+  
 # -----------
 # CloudCannon
 # -----------
