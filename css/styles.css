@@ -5229,7 +5229,7 @@ padding-left:14px;
     .photo-left{float:left; padding: 20px;}*/
     img.photo-right{float:right; padding: 20px;}
     img.photo-left{float:left; padding: 20px;}
-    img.polaroid-right{float:right; padding: 12px;margin:12px 0px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);}
+    img.polaroid-right{float:right; padding: 12px;margin:12px 12px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);}
     img.polaroid-left{float:left; padding: 12px;margin:12px 12px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);}
     .clear-both{clear:both;}
     p.drop-cap{color:inherit;}
