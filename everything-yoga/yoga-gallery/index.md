@@ -18,5 +18,7 @@ gallery_images:
   - image: /uploads/10.png
   - image: /uploads/29.png
   - image: /uploads/20150607-162744.jpg
+  - image: >-
+      https://lh3.googleusercontent.com/-TYKiP1ruakg/U2uJ3vsseGI/AAAAAAAAAE8/eoIOcC8_SNEGfojn0LSWjNhjcwZA_to9ACE0YBhgL/s0-rj-l80-e30#.jpg
 ---
 
