@@ -8,7 +8,7 @@ hero_image:
 # &nbsp;My Song So Far
 {: .shamafont}
 
-![Pigeon Pose](https://lh3.googleusercontent.com/-WT6uEG5AniU/Wxendo0lCSI/AAAAAAAABfI/3Bc0OuYcVO8BgATQRfcdnOOq6lv97IHAACE0YBhgL/s480-e30/Sunpidgeon%2Bpose.jpg "Pigeon Pose"){: .photo-left}
+![Pigeon Pose](https://lh3.googleusercontent.com/-WT6uEG5AniU/Wxendo0lCSI/AAAAAAAABfI/3Bc0OuYcVO8BgATQRfcdnOOq6lv97IHAACE0YBhgL/s480-e30/Sunpidgeon%2Bpose.jpg "Pigeon Pose"){: .photo-left, .polaroid}
 
 I fell in love with yoga over thirty years ago and she has been a constant throughout my life-changes and life-styles. She is a challenging mistress - yielding and withholding her secrets, melting and remaking me along the way.
 
@@ -18,7 +18,6 @@ Yoga found me in my early teens through an aunt who taught me some of the poses.
 Soon after, I chanced upon a yoga Master, the renowned B.K.S. Iyengar, during one of his rare European tours; an auspicious and inspiring start for any student of yoga. Throughout the years, I studied many styles of Yoga. I have always had a fascination for the strange, obscure and impossible areas of life. I found the answers to many of my own riddles of the deep beyond the parameters of the mainstream. Acquainted with various ‘exotic’ phenomena, I was naturally drawn to the esoteric dimensions of the Yogic and other mystical traditions. I learned a lot from my teachers and, at the same time, I learned a lot by myself. The greatest Guru is the One Spirit within us all.
 {: .full-width-text}
 
-![Headstand pose](https://lh3.googleusercontent.com/-TYKiP1ruakg/U2uJ3vsseGI/AAAAAAAAAE8/eoIOcC8_SNEGfojn0LSWjNhjcwZA_to9ACE0YBhgL/w360-e30/P1000143.JPG "Fine tuning a headstand"){: .photo-right}
 
 I qualified to teach Yoga with one of the oldest Yoga organisations based in the UK – the Friends of Yoga Society – as my main mentor at the time, Enid Culf, was a member. In 1997 I started offering classes and workshops around the Sheffield area and also performed demonstrations of yoga with my students at all the major mind-body spirit festivals in the North.
 {: .full-width-text}
