@@ -5225,8 +5225,12 @@ padding-left:14px;
 
 }
 /* START SHAMA STYLEY */
-    .photo-right{float:right; padding: 20px;}
-    .photo-left{float:left; padding: 20px;}
+    /*.photo-right{float:right; padding: 20px;}
+    .photo-left{float:left; padding: 20px;}*/
+    img.photo-right{float:right; padding: 20px;}
+    img.photo-left{float:left; padding: 20px;}
+    p.drop-cap{color:inherit;}
+    p.drop-cap::first-letter{font-size: 4.1em;float: left;margin-top: .13em;padding: 0.1em;font-style: normal;}
     .photo-tutor{float:left;padding:0px 10px 10px 0px;}
     .sidebar-nav{margin-top:40px;}
     .sub-menu{list-style: none;}
@@ -5251,7 +5255,7 @@ padding-left:14px;
 #sidebar-wrapper{overflow-y:auto !important;overflow-x:hidden !important;}
 .socmedico{height:48px;}
 #workshops, #events{display: grid;grid-template-columns: 1fr 1fr 1fr;grid-column-gap: 24px;grid-row-gap: 42px;}
-.workshop, .event{border: 1px solid grey;padding: 20px;}
+.workshop, .event{border: 1px solid grey;padding: 20px;position:relative;table-layout: fixed;}
 .workshop h3, .event h3{
     background-color: #e95416;
     padding: 20px;
@@ -5259,10 +5263,21 @@ padding-left:14px;
     margin: -20px -20px 0px -20px;
     font-size: 16px;
 }
-/* slideshow buttons */
+/*.event-footer{position:absolute; bottom: 2%;} */
+/* cloudcannon alignment*/
+    .align-left{text-align:left;}
+    .center-this-text{text-align:center;}
+    .align-right{text-align:right;}
+    .full-width-text{text-align:justify;text-justify:inter-word;}
+    /*slidedeshow buttons */
 .display-left{position:absolute;top:50%;left:0%;transform:translate(0%,-50%);-ms-transform:translate(-0%,-50%)}
 .display-right{position:absolute;top:50%;right:0%;transform:translate(0%,-50%);-ms-transform:translate(0%,-50%)}
 .workshop img, .event img{padding: 12px;margin:12px 0px;box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);}
+
+/*YOUTUBE EMBEDS*/
+.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } 
+.embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+
 @media only screen and (max-width: 1100px) {
     #workshops, #events{grid-template-columns: 1fr 1fr;
 }
