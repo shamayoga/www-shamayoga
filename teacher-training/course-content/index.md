@@ -17,11 +17,12 @@ hero_image:
 
 ### Programme Details
 
-![](https://lh3.googleusercontent.com/-B03gcaFaoh0/WxeoPO8wTFI/AAAAAAAAA7M/BgyF1EKHxn86yzbxncylTVP6RJSFvr4oQCJoC/s400-e30/webphotos4.jpg){: .photo-left}
 
 Our workshops will elevate you to new levels of personal practice and vastly deepen your understanding of Yoga. We offer a wide range of functional principles and practical skills . Included in the workshops will be the following and so much more:
 
 #### Asana
+
+![](https://lh3.googleusercontent.com/-B03gcaFaoh0/WxeoPO8wTFI/AAAAAAAAA7M/BgyF1EKHxn86yzbxncylTVP6RJSFvr4oQCJoC/s400-e30/webphotos4.jpg){: .photo-left}
 
 * Extensive practice and analysis of the asanas
 * Adjustments; optimal physical alignment within the poses
@@ -35,7 +36,7 @@ Our workshops will elevate you to new levels of personal practice and vastly dee
 
 #### Pranayama
 
-![Teaching Ujjya breathing](/uploads/fb-img-1528995509474.jpg){: .photo-right}
+![Teaching Ujjya breathing](https://lh3.googleusercontent.com/6wZQx1UlGe3KtwmUojtFzsbC3L6YpaztJQP5509VFRwv9pPd6VRNc2GrfWKq3oIqTGf1Rodt9BSAXJ5hLw=w240-e30?.jpg){: .photo-right}
 
 * Feeling the flow; abdominal breathing
 * Full flow; the complete Yoga breath
@@ -47,7 +48,7 @@ Our workshops will elevate you to new levels of personal practice and vastly dee
 
 #### Meditation
 
-![Steve leading a singing bowl meditation](/uploads/fb-img-1502968305173.jpg){: .photo-right}
+
 
 * Vipasana (breath awareness)
 * Tratak (kriya: gazing)
@@ -61,6 +62,8 @@ Our workshops will elevate you to new levels of personal practice and vastly dee
 * Microcosmic orbit
 
 #### Teaching
+
+![Steve leading a singing bowl meditation](https://lh3.googleusercontent.com/wo7xcyc_8KkikTX2uAr8hixd6yJHGwgjtR4FV3rC1q5r2qd6WD1iTw4VBrcpxkpCUvnhDYn34GyMS5kknA=w400-e30?.jpg){: .photo-right}
 
 Teaching yoga is an immensely rewarding way of being of service to others. The course will enable you to develop skills and sensitivity essential to teach Yoga effectively and with confidence. Practical teaching experience will be gained within a wide variety of settings and will include the following topics:
 
