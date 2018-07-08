@@ -55,7 +55,7 @@ bubbles:
       - text: Gallery
         link: /everything-yoga/yoga-gallery/
   - image: >-
-      https://lh3.googleusercontent.com/-t5nAF6hlROg/WyWU3SdMYBI/AAAAAAAABYU/snKlS0QR6ts1OD9j31AV0YchPiDNKxRNACJoC/w530-h530-n/class-ls.png
+      https://res.cloudinary.com/shamayoga/image/upload/v1531049221/shamayoga.org.uk/bubbles/class-ls.png
     label-text: In the Media
     url: /shamayoga-in-the-media/
     popup-menu:
