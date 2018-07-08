@@ -29,7 +29,7 @@ plugins:
   - jekyll-feed
   
 include:
-  _headers
+ - _headers
   
 # -----------
 # CloudCannon
