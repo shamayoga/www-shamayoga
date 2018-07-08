@@ -7,9 +7,7 @@ testimonials:
   - student: Ali
     testimony: >-
       "Dear Steve, what an amazing year! Thank you sooooo much for your energy
-      and nurturing Ommmm." <img
-      src="https://res.cloudinary.com/shamayoga/image/upload/v1531056885/shamayoga.org.uk/teacher-training/testimonials/meditation_6.jpg"
-      class="polaroid-left"/>
+      and nurturing Ommmm."
   - student: Lisa
     testimony: >-
       "Steve, you're such an inspiration. I hope our paths will meet again.
