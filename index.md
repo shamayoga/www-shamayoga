@@ -5,7 +5,7 @@ layout: homepage
 _hide_content: false
 bubbles:
   - image: >-
-      https://lh3.googleusercontent.com/-pqFA3R0QHZs/WyAqlxb1GjI/AAAAAAAABNE/_5Pm0IJUyPIPMowIepk90XY9Tzurttv4QCJoC/w530-h530-n-e30/teach2.png
+      https://res.cloudinary.com/shamayoga/image/upload/v1531049153/shamayoga.org.uk/bubbles/teach2.png
     label-text: Teach Your Yoga
     url: /teacher-training/
     popup-menu:
@@ -26,7 +26,7 @@ bubbles:
       - text: Fees &amp; Application
         link: /teacher-training/course-fees-and-application/
   - image: >-
-      https://lh3.googleusercontent.com/-fayaVdykrnA/Wx6Kcv-Em7I/AAAAAAAABFU/98nc-4Rnq_8QrseI9gY0FT-Z_fo6QQ5eACJoC/w530-h707-n-e30/FlameHands.jpg
+      https://res.cloudinary.com/shamayoga/image/upload/v1531049174/shamayoga.org.uk/bubbles/FlameHands.jpg
     label-text: Subscribe
     popup-menu:
       - text: >-
@@ -38,7 +38,7 @@ bubbles:
     url: >-
       http://shamayoga.us8.list-manage1.com/subscribe?u=2c82f35949283b905c95159e0&id=7928c7fcd3
   - image: >-
-      https://lh3.googleusercontent.com/-sh4OD_NGS44/WyWWVpQeqCI/AAAAAAAABZA/480AQz9pd4UWTbUWfgjblQhhDM5Pe6osgCJoC/w530-h530-n/bring-ls.png
+      https://res.cloudinary.com/shamayoga/image/upload/v1531049197/shamayoga.org.uk/bubbles/bring-ls.png
     label-text: Bring Out the Yoga in You
     url: /everything-yoga/yoga-classes/
     popup-menu:
@@ -72,7 +72,7 @@ bubbles:
       - text: On Instagram
         link: 'https://www.instagram.com/Shamayoga9/'
   - image: >-
-      https://lh3.googleusercontent.com/-9PAqMmYNreA/Wx6IQckMP4I/AAAAAAAABEo/lMptznnu91IIGNcWFL4TjVQzRRTDU93iACJoC/w530-h530-n-e30/colorlotus.png
+      https://res.cloudinary.com/shamayoga/image/upload/v1531049255/shamayoga.org.uk/bubbles/colorlotus.png
     label-text: About Steve Avian
     url: /steve-avian/
     popup-menu:
@@ -81,7 +81,7 @@ bubbles:
       - text: Gallery
         link: /yoga-gallery/
   - image: >-
-      https://lh3.googleusercontent.com/-y-Zmc_k-tvQ/WyWTM51NuQI/AAAAAAAABXk/L8DH_qCyVIU98t0wtW7LI4Q9g6gwWdNlgCJoC/w530-h530-n-e30/bowl-ls.png
+      https://res.cloudinary.com/shamayoga/image/upload/v1531049299/shamayoga.org.uk/bubbles/bowl-ls.png
     label-text: Royalty Free Yoga Music
     url: /everything-yoga/yoga-shop/
     popup-menu:
