@@ -34,7 +34,8 @@ Our workshops will elevate you to new levels of personal practice and vastly dee
 * Partner Yoga
 * Personal practice; choreographing your own routines
 
-#### Pranayama {: .clear-both}
+#### Pranayama
+{: .clear-both}
 
 ![Teaching Ujjya breathing](https://lh3.googleusercontent.com/6wZQx1UlGe3KtwmUojtFzsbC3L6YpaztJQP5509VFRwv9pPd6VRNc2GrfWKq3oIqTGf1Rodt9BSAXJ5hLw=w240-e30?.jpg){: .photo-right}
 
