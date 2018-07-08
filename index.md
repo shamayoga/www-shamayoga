@@ -89,13 +89,13 @@ bubbles:
         link: /everything-yoga/yoga-shop/
 Accreditations:
   - logo_image: >-
-      https://lh3.googleusercontent.com/-P2TWLiXwcIQ/WyoWOLxZOsI/AAAAAAAABd4/ON7-pzDYaTAJsvV2J79v2hArw-EGSXL2gCJoC/h100-e30/YA.png
+      https://res.cloudinary.com/shamayoga/image/upload/v1531050226/shamayoga.org.uk/Accreditation%20Logos/YA.png
   - logo_image: >-
-      https://lh3.googleusercontent.com/-r3EPy_G_Sps/WzDm9tBjw6I/AAAAAAAABpc/OYEP31wLCWIV3xgDoXVXUw1fw66iq_vrQCJoC/h100-e30/way_rys200_gold_trans.png
+      https://res.cloudinary.com/shamayoga/image/upload/v1531050250/shamayoga.org.uk/Accreditation%20Logos/way_rys200_gold_trans.png
   - logo_image: >-
-      https://lh3.googleusercontent.com/-gTdD_Bz5fLs/WzDmnXwBIYI/AAAAAAAABpQ/8vda-CkcOYMcFH5eHd5tt13RdFAXOmsSgCJoC/h100-e30/eryt-rys.png
+      https://res.cloudinary.com/shamayoga/image/upload/v1531050274/shamayoga.org.uk/Accreditation%20Logos/eryt-rys.png
   - logo_image: >-
-      https://lh3.googleusercontent.com/-3USD_2MFXF0/WyoVadCKJOI/AAAAAAAABdI/kFru00WDTVQikfH0z2l2Yr75T_m0iG9eQCJoC/h100-e30/YACEP.png
+      https://res.cloudinary.com/shamayoga/image/upload/v1531050306/shamayoga.org.uk/Accreditation%20Logos/YACEP.png
 testimonials:
   - name: Sarah Atkin
     testimony: >-
