@@ -11,12 +11,11 @@ hero_image:
 
 **&pound;1800**&nbsp;if paid in full at the &nbsp;time of booking . &nbsp;Non refundable.<br>**&pound;1950**&nbsp;if paid in installments, including a non-refundable &pound;500 deposit and the balance may be paid in a further five non-refundable, bi-monthly installments.<br>Enquire for more details.<br>**Course Fees include:**&nbsp;illustrated downloadable handouts and two instructional download albums.
 
-[Application Form ](https://downloads.shamayoga.org.uk/appForm.pdf){: .download target="_blank"}[Course Calendar ](https://downloads.shamayoga.org.uk/yogateaching2019calendar.pdf){: .download target="_blank"}
+[Application Form ](https://files.shamayoga.org.uk/teacher-training/appForm.pdf){: .download target="_blank"}[Course Calendar ](https://files.shamayoga.org.uk/teacher-training/yogateaching-calendar.pdf){: .download target="_blank"}
 
 Early booking is advisable, as numbers are limited to around 10 to ensure individual attention.
 
 **NOTE:** Students leaving the programme due to personal circumstances (eg injury, relocation) will be offered one further opportunity to complete the course at a time deemed appropriate by the tutors, after which fees will be forfeited.
-
 
 ### Still Have Questions?
 
@@ -24,5 +23,4 @@ If you are interested in the course or require any additional information please
 
 **Shamayoga**<br>2b Westwick Crescent<br>Sheffield<br>S8 7DG
 
-An application form can then be sent out to you and an interview arranged.<br>
-
+An application form can then be sent out to you and an interview arranged.
