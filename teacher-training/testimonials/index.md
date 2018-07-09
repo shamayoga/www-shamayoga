@@ -8,7 +8,7 @@ testimonials:
   - student: Ali  (Parnell)
     testimony: >-
       "Dear Steve, what an amazing year! Thank you sooooo much for your energy
-      and nurturing Ommmm." <img
+      and nurturing Ommmm." <img   class="photo-right"
       src="https://res.cloudinary.com/shamayoga/image/upload/v1531144037/shamayoga.org.uk/old-pics/group_meditation.jpg"/>
   - student: Lisa (Cronin)
     testimony: >-
@@ -27,7 +27,7 @@ testimonials:
       "It's been wonderful joining each other on our yoga journeys. Thank you.
       Namaste."
 
-      <img
+      <img  class="photo-right"
       src="https://res.cloudinary.com/shamayoga/image/upload/v1531144037/shamayoga.org.uk/old-pics/half-moon.jpg"/>
   - student: Gail (Stephens)
     testimony: >-
@@ -42,6 +42,7 @@ testimonials:
   - student: Molly (Newman)
     testimony: >-
       "Steve, Thank you so much. It's been a wonderful year." <img
+      class="photo-right"
       src="https://res.cloudinary.com/shamayoga/image/upload/v1531144037/shamayoga.org.uk/old-pics/tree_group_3.jpg"/>
   - student: Roberta (Sutherland)
     testimony: >-
