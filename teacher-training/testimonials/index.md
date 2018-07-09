@@ -3,7 +3,7 @@ title: Shamayoga Teacher Training - Past Student Testimonials
 description:
 layout: testimonial
 hero_image:
-_content: false
+_hide_content: true
 testimonials:
   - student: Ali  (Parnell)
     testimony: >-
