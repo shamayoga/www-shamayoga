@@ -78,8 +78,6 @@ bubbles:
     popup-menu:
       - text: <br/><br/><br/>My Song So Far
         link: /steve-avian/
-      - text: Gallery
-        link: /yoga-gallery/
   - image: >-
       https://res.cloudinary.com/shamayoga/image/upload/v1531049299/shamayoga.org.uk/bubbles/bowl-ls.png
     label-text: Royalty Free Yoga Music
