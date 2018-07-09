@@ -34,7 +34,7 @@ testimonials:
     testimony: >-
       "Hope we get a chance to do some collaboration in yoga. &nbsp;You're
       awesome!"
-  - student: Molly ( Newman )
+  - student: Molly (Newman)
     testimony: '"Steve, Thank you so much. It''s been a wonderful year."'
   - student: Roberta (Sutherland)
     testimony: >-
