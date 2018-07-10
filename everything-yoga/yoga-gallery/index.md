@@ -3,6 +3,7 @@ title: Shamayoga Photo Gallery
 description:
 layout: gallery_page
 hero_image:
+_hide_content: true
 gallery_images:
   - image: >-
       https://res.cloudinary.com/shamayoga/image/upload/v1531058758/shamayoga.org.uk/everything-yoga/gallery/3KfdUdbA-i25XaGPQgixqD9_6vzcXkRpjT4tPa1GuHOs_NvZVElSFr6_K3yDAm_E4D9UeOGm2gOQqbqp8Q_s0-rj-l80-e30.jpg
