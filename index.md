@@ -50,8 +50,6 @@ bubbles:
         link: /everything-yoga/yoga-retreats/
       - text: Philosophy
         link: /everything-yoga/philosophy-of-yoga/
-      - text: Useful Resources
-        link: /everything-yoga/yoga-resources/
       - text: Gallery
         link: /everything-yoga/yoga-gallery/
   - image: >-
