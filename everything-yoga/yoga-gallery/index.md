@@ -26,9 +26,8 @@ gallery_images:
       https://res.cloudinary.com/shamayoga/image/upload/v1531059903/shamayoga.org.uk/everything-yoga/gallery/10.png
   - image: >-
       https://res.cloudinary.com/shamayoga/image/upload/v1531060216/shamayoga.org.uk/everything-yoga/gallery/29.png
+  - image: /uploads/download-4.jpg
   - image: >-
       https://res.cloudinary.com/shamayoga/image/upload/v1531060312/shamayoga.org.uk/everything-yoga/gallery/20150607-162744.jpg
-  - image: >-
-      https://res.cloudinary.com/shamayoga/image/upload/v1531060415/shamayoga.org.uk/everything-yoga/gallery/s0-rj-l80-e30.jpg
 ---
 
