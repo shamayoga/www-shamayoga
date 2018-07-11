@@ -4,6 +4,21 @@ description:
 layout: testimonial
 hero_image:
 _hide_content: true
+testimonials-new:
+  - student: Justine Furness
+    testimony: >-
+      Excellent. Amazing .Why didn't i do this sooner.Loved the weekends and the
+      way everyone helps each other.
+  - student: Freya Chapman-Amey
+    testimony: >-
+      Have really enjoyed it . From day one gaining experience of what teaching
+      yoga is like . Lovely open environment.
+  - student: Ann Meadows
+    testimony: Thankyou so much it's the best thing I've ever done .
+  - student: Keely Shaw
+    testimony: >-
+      Steve is a really good teacher. Very clear in delivering. Makes you feel
+      at home . Very knowledgeable. Great weekends.
 testimonials:
   - student: Ali  (Parnell)
     testimony: >-
@@ -227,7 +242,7 @@ testimonials:
       dances and endless opportunities for students to grow and gain confidence,
       this course is a must for anyone seeking that little bit more than your
       average yogi bear."
-  - student: Helena
+  - student: Helena ( Turner )
     testimony: >-
       "Thanks for all your help and inspiration throughout the year . Its been
       an amazing journey and your dedication has helped build confidence in all
@@ -245,7 +260,7 @@ testimonials:
       together and every weekend was a joy with lots of laughter.<br />This was
       a magical, life enriching course that also gave a solid grounding in
       teaching yoga.<br />I can't thank you enough Steve."
-  - student: 'Fiona Bleloch, Student with Shamaya School of Yoga 2010'
+  - student: Fiona(Bleloch)
     testimony: >-
       "I have just completed an excellent year's course with Steve Avian at the
       Shamayoga School in Sheffield which is endorsed by the Yoga Alliance. It
