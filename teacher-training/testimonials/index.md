@@ -5,8 +5,8 @@ layout: testimonial
 hero_image:
 _hide_content: true
 testimonials-new:
-  -student: Daft Dave
-   testimony: I like your style. It made me smile.
+  - student: Daft Dave
+    testimony: I like your style. It made me smile.
 testimonials:
   - student: Ali  (Parnell)
     testimony: >-
