@@ -5,8 +5,21 @@ layout: testimonial
 hero_image:
 _hide_content: true
 testimonials-new:
-  - student: Daft Dave
-    testimony: I like your style. It made me smile.
+  - student: Justine Furness
+    testimony: >-
+      Excellent. Amazing . I now am beginning to understand the meaning of Yoga
+      . Why didn't i do this sooner.Loved the weekends and the way everyone
+      helps each other.
+  - student: Freya Chapman-Amey
+    testimony: >-
+      Have really enjoyed it . From day one gaining experience of what teaching
+      yoga is like . Lovely open environment.
+  - student: Ann Meadows
+    testimony: Thankyou so much it's the best thing I've ever done .
+  - student: Keely Shaw
+    testimony: >-
+      Steve is a really good teacher. Very clear in delivering. Makes you feel
+      at home . Very knowledgeable. Great weekends.
 testimonials:
   - student: Ali  (Parnell)
     testimony: >-
