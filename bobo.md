@@ -23,7 +23,7 @@ sheep-dip:
 > apes with bite
 
 <div style="clear: both;"/>
-<div class='embed-container'><iframe src='https://player.vimeo.com/video/110392034' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>https://vimeo.com/partlyfiction/scars
+<div class='embed-container'><iframe src='https://player.vimeo.com/video/110392034' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 
 
 &nbsp;

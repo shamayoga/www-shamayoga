@@ -50,12 +50,10 @@ bubbles:
         link: /everything-yoga/yoga-retreats/
       - text: Philosophy
         link: /everything-yoga/philosophy-of-yoga/
-      - text: Useful Resources
-        link: /everything-yoga/yoga-resources/
       - text: Gallery
         link: /everything-yoga/yoga-gallery/
   - image: >-
-      https://lh3.googleusercontent.com/-t5nAF6hlROg/WyWU3SdMYBI/AAAAAAAABYU/snKlS0QR6ts1OD9j31AV0YchPiDNKxRNACJoC/w530-h530-n/class-ls.png
+      https://res.cloudinary.com/shamayoga/image/upload/v1531049221/shamayoga.org.uk/bubbles/class-ls.png
     label-text: In the Media
     url: /shamayoga-in-the-media/
     popup-menu:
@@ -78,8 +76,6 @@ bubbles:
     popup-menu:
       - text: <br/><br/><br/>My Song So Far
         link: /steve-avian/
-      - text: Gallery
-        link: /yoga-gallery/
   - image: >-
       https://res.cloudinary.com/shamayoga/image/upload/v1531049299/shamayoga.org.uk/bubbles/bowl-ls.png
     label-text: Royalty Free Yoga Music

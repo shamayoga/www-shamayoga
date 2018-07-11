@@ -3,38 +3,43 @@ title: Shamayoga Teacher Training - Past Student Testimonials
 description:
 layout: testimonial
 hero_image:
+_hide_content: true
 testimonials:
-  - student: Ali
+  - student: Ali  (Parnell)
     testimony: >-
       "Dear Steve, what an amazing year! Thank you sooooo much for your energy
-      and nurturing Ommmm."
-  - student: Lisa
+      and nurturing Ommmm." <img class="photo-right"
+      src="https://res.cloudinary.com/shamayoga/image/upload/v1531144037/shamayoga.org.uk/old-pics/tree_group_3.jpg"/>
+  - student: Lisa (Cronin)
     testimony: >-
       "Steve, you're such an inspiration. I hope our paths will meet again.
       Thank you so much."
-  - student: Konny
+  - student: Konny (Scotthorne)
     testimony: >-
       "Thank you for your support and inspiration and motivation. The journey
       for me has just begun."
-  - student: Paula
+  - student: Paula (Rist)
     testimony: >-
       "Thank you so much. I have learned so much about myself. You have put me
       on the right path."
-  - student: India
+  - student: India (Hudson)
     testimony: >-
       "It's been wonderful joining each other on our yoga journeys. Thank you.
       Namaste."
-  - student: Gail
+
+      <img  class="photo-right"
+      src="https://res.cloudinary.com/shamayoga/image/upload/v1531144037/shamayoga.org.uk/old-pics/half-moon.jpg"/>
+  - student: Gail (Stephens)
     testimony: >-
       "Thank you so much Steve. I have learnt so much wisdom from you. You are
       an inspiration. Bless you."
-  - student: Laura
+  - student: Laura (Heath)
     testimony: '"Dearest Steveananda, Thank you sooo much. I''ve had a wonderful journey."'
-  - student: kayte
+  - student: kayte (Pritchard)
     testimony: >-
       "Hope we get a chance to do some collaboration in yoga. &nbsp;You're
       awesome!"
-  - student: Molly
+  - student: Molly (Newman)
     testimony: '"Steve, Thank you so much. It''s been a wonderful year."'
   - student: Roberta (Sutherland)
     testimony: >-
