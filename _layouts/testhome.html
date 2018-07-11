@@ -19,14 +19,14 @@
         grid-row-gap: 42px;
         grid-template-columns: 1fr 1fr 1fr;*/
         }
-        .col-md-4{width: 28%;!important}
+        
           .circle {
             flex: 1;
             background: rgba(255,255,255,0.15);
             position:relative;
             border-radius: 50%;
             /*margin: 5px;*/
-            margin: 40px 25px 40px 25px;
+            margin: 40px 0px 40px 0px;
           }
           .circle:before {
             content: "";
@@ -126,8 +126,8 @@
             text-shadow: 1px 1px rgb(252, 220, 149);
         }
         
-        #accreditations, #socialfooter{width:90%; margin: auto;xbackground-color: rgba(255,255,255,0.25);padding: 20px;margin-top:80px;display:flex;justify-content:space-around;flex-wrap: wrap;-webkit-flex-wrap: wrap;display: -webkit-flex;}
-        #accreditations{margin-top: 120px;}
+        #accreditations, #socialfooter{width:90%; margin: 80px auto;padding: 20px;display:flex;justify-content:space-around;flex-wrap: wrap;-webkit-flex-wrap: wrap;display: -webkit-flex;}
+        #accreditations{padding-top: 90px;}
         #socialfooter{list-style:none;}
         #socialfooter img{background-color: none;}
         #hp-testimonials{
@@ -233,14 +233,15 @@
 
         
  
-    <div class="xxcontainer list" id="list">
+    <div class="list" id="list">
         {% for bubble in page.bubbles %}
         {% assign mod = forloop.index | modulo: 3 %}
         <!-- {{ mod }}-->
         {% if mod == 1 %}
           <div class="row">
         {% endif %}
-            <div class="circle col-md-4 col-sm-6 col-xs-12" style="background-image: url({{bubble.image}});background-size: cover;">
+        <div class="col-md-4 col-sm-6 col-xs-12">
+            <div class="circle" style="background-image: url({{bubble.image}});background-size: cover;">
             <a href="{{ bubble.url }}">
             <div  class="{{ bubble.label-position }} right">{{ bubble.label-text }}</div>
             </a>
@@ -252,18 +253,20 @@
                     </ul>
                 {% endif %}
             </div>
+        </div>
         {% if mod == 0 %}
         </div><!-- close the loop -->
         {% endif %}
         {% endfor %}
     </div>
-
+<div class="row">
+    <br/><br/>
     <div id="accreditations">
         {% for Accreditation in page.Accreditations %}
             <img src="{{Accreditation.logo_image}}"/>
         {% endfor %}
     </div>
-
+</div>
     {{ content }}
     <ul id="hp-testimonials">
         {% for testimonial in page.testimonials %}
