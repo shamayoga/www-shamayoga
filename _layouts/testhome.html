@@ -30,10 +30,10 @@
           }
           .circle:before {
             content: "";
-            display: grid;
+            xdisplay: grid;
             padding-top: 100%; /* ratio of 1:1*/
           }
-        
+        .circle img{border-radius:50%;}
         .circle a div{
         color: 	rgb(216, 22, 59)/*#150DD3*/;
         font-family: Arial, Helvetica, sans-serif;    
@@ -243,8 +243,8 @@
           <div class="row">
         {% endif %}
         <div class="col-md-4 col-sm-6 col-xs-12">
-            <div class="circle" style="background-image: url({{bubble.image}});background-size: cover;">
-            <a href="{{ bubble.url }}">
+            <div class="circle" style="xbackground-image: url({{bubble.image}});background-size: cover;">
+            <a href="{{ bubble.url }}"><img src="{{bubble.image}}"/>
             <div  class="{{ bubble.label-position }} right">{{ bubble.label-text }}</div>
             </a>
                 {% if bubble.popup-menu %}

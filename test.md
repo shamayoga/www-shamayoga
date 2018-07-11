@@ -26,7 +26,7 @@ bubbles:
       - text: Fees &amp; Application
         link: /teacher-training/course-fees-and-application/
   - image: >-
-      https://res.cloudinary.com/shamayoga/image/upload/v1531049174/shamayoga.org.uk/bubbles/FlameHands.jpg
+      https://res.cloudinary.com/shamayoga/image/upload/c_crop,h_530,w_530/v1531049174/shamayoga.org.uk/bubbles/FlameHands.jpg
     label-text: Subscribe
     popup-menu:
       - text: >-
