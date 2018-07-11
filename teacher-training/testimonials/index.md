@@ -7,9 +7,8 @@ _hide_content: true
 testimonials-new:
   - student: Justine Furness
     testimony: >-
-      Excellent. Amazing . I now am beginning to understand the meaning of Yoga
-      . Why didn't i do this sooner.Loved the weekends and the way everyone
-      helps each other.
+      Excellent. Amazing .Why didn't i do this sooner.Loved the weekends and the
+      way everyone helps each other.
   - student: Freya Chapman-Amey
     testimony: >-
       Have really enjoyed it . From day one gaining experience of what teaching
