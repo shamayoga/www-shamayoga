@@ -10,7 +10,7 @@
 <link rel="alternate" type="application/atom+xml" title="shamayoga - Atom" href="http://localhost:4000/feeds/posts/feed-atom.xml" />
 <link rel="alternate" type="application/rss+xml" title="shamayoga - RSS" href="http://localhost:4000/feeds/posts/feed.rss" />
 <!--Can't find substitution for tag [blog.ieCssRetrofitLinks]-->
-<meta content='/' property='og:url'/>
+<meta content='/test.html' property='og:url'/>
 <meta content='Shamayoga - Learn yoga or Learn To Teach Yoga' property='og:title'/>
 <meta content='' property='og:description'/>
 <link href="https://fonts.googleapis.com/css?family=Skranji:400,700" rel="stylesheet"> 
@@ -27,24 +27,23 @@
 
         #logo{margin: 30px 0px;}
         #logo img {max-width: 70%;height: auto;}
-
+        
         .list {
         padding-left: 0;
         list-style: none;
-        display: block;
+        /*display: grid;
         grid-column-gap: 24px;
         grid-row-gap: 42px;
-        grid-template-columns: 1fr 1fr 1fr;
-        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;*/
         }
+        .col-md-4{width: 28%;!important}
           .circle {
             flex: 1;
             background: rgba(255,255,255,0.15);
             position:relative;
             border-radius: 50%;
             /*margin: 5px;*/
-            margin:5px 5px 40px 5px;
-            height: 90%;
+            margin: 40px 25px 40px 25px;
           }
           .circle:before {
             content: "";
@@ -52,7 +51,7 @@
             padding-top: 100%; /* ratio of 1:1*/
           }
         
-        .list li div{
+        .circle a div{
         color: 	rgb(216, 22, 59)/*#150DD3*/;
         font-family: Arial, Helvetica, sans-serif;    
         font-size: 18px;
@@ -143,7 +142,9 @@
             color:rgb(216, 22, 59);
             text-shadow: 1px 1px rgb(252, 220, 149);
         }
+        
         #accreditations, #socialfooter{width:90%; margin: auto;xbackground-color: rgba(255,255,255,0.25);padding: 20px;margin-top:80px;display:flex;justify-content:space-around;flex-wrap: wrap;-webkit-flex-wrap: wrap;display: -webkit-flex;}
+        #accreditations{margin-top: 120px;}
         #socialfooter{list-style:none;}
         #socialfooter img{background-color: none;}
         #hp-testimonials{
@@ -219,7 +220,7 @@
         @media only screen and (max-width: 480px) {
             img {max-width: 80%;height: auto;}
         .list{grid-template-columns: 1fr;}
-        .list li div{font-size: 11px;}
+        .circle a div{font-size: 11px;}
         .xtop{top:77%;}
         #hp-testimonials{grid-template-columns: 1fr ;}
         }
@@ -231,7 +232,7 @@
         }
     }
         @media only screen and (max-width: 320px) {
-            .list li div{font-size: 12px;}
+            .circle a div{font-size: 12px;}
 
             }
         </style>
@@ -341,161 +342,152 @@
 
         
  
-    <ul class="list" id="list">
-    
-    
-            
-    <li class="circle " style="background-image: url(https://res.cloudinary.com/shamayoga/image/upload/v1531049153/shamayoga.org.uk/bubbles/teach2.png);background-size: cover;">
-    <a href="/teacher-training/">
-    <div  class=" right">Teach Your Yoga</div>
-    </a>
-    
-
-    <ul class="bubble-popup-menu">
+    <div class="xxcontainer list" id="list">
         
-            <li class="bubble-popup-item"><a href="/teacher-training/">Yoga Teacher Training</a></li>
         
-            <li class="bubble-popup-item"><a href="/teacher-training/course-content/">Course Content</a></li>
+        <!-- 1-->
         
-            <li class="bubble-popup-item"><a href="/teacher-training/accredititation/">Accredititation</a></li>
+          <div class="row">
         
-            <li class="bubble-popup-item"><a href="/teacher-training/the-tutors/">The Tutors</a></li>
+            <div class="circle col-md-4 col-sm-6 col-xs-12" style="background-image: url(https://res.cloudinary.com/shamayoga/image/upload/v1531049153/shamayoga.org.uk/bubbles/teach2.png);background-size: cover;">
+            <a href="/teacher-training/">
+            <div  class=" right">Teach Your Yoga</div>
+            </a>
+                
+                    <ul class="bubble-popup-menu">
+                        
+                            <li class="bubble-popup-item"><a href="/teacher-training/">Yoga Teacher Training</a></li>
+                        
+                            <li class="bubble-popup-item"><a href="/teacher-training/course-content/">Course Content</a></li>
+                        
+                            <li class="bubble-popup-item"><a href="/teacher-training/accredititation/">Accredititation</a></li>
+                        
+                            <li class="bubble-popup-item"><a href="/teacher-training/the-tutors/">The Tutors</a></li>
+                        
+                            <li class="bubble-popup-item"><a href="/teacher-training/prerequisites/">Prerequisites</a></li>
+                        
+                            <li class="bubble-popup-item"><a href="/teacher-training/testimonials/">Testimonials</a></li>
+                        
+                            <li class="bubble-popup-item"><a href="/teacher-training/venues/">Venues</a></li>
+                        
+                            <li class="bubble-popup-item"><a href="/teacher-training/course-fees-and-application/">Fees &amp; Application</a></li>
+                        
+                    </ul>
+                
+            </div>
         
-            <li class="bubble-popup-item"><a href="/teacher-training/prerequisites/">Prerequisites</a></li>
         
-            <li class="bubble-popup-item"><a href="/teacher-training/testimonials/">Testimonials</a></li>
         
-            <li class="bubble-popup-item"><a href="/teacher-training/venues/">Venues</a></li>
+        <!-- 2-->
         
-            <li class="bubble-popup-item"><a href="/teacher-training/course-fees-and-application/">Fees &amp; Application</a></li>
+            <div class="circle col-md-4 col-sm-6 col-xs-12" style="background-image: url(https://res.cloudinary.com/shamayoga/image/upload/v1531049174/shamayoga.org.uk/bubbles/FlameHands.jpg);background-size: cover;">
+            <a href="http://shamayoga.us8.list-manage1.com/subscribe?u=2c82f35949283b905c95159e0&id=7928c7fcd3">
+            <div  class=" right">Subscribe</div>
+            </a>
+                
+                    <ul class="bubble-popup-menu">
+                        
+                            <li class="bubble-popup-item"><a href="http://shamayoga.us8.list-manage1.com/subscribe?u=2c82f35949283b905c95159e0&id=7928c7fcd3">Subscribe to our<br/> free newsletter<br/> to receive<br/> inspirational articles,</br> downloads and updates on<br/> Shamayoga activities.</a></li>
+                        
+                    </ul>
+                
+            </div>
         
-    </ul>
-
-
-
-    </li>
-
-
-    
-    
-            
-    <li class="circle " style="background-image: url(https://res.cloudinary.com/shamayoga/image/upload/v1531049174/shamayoga.org.uk/bubbles/FlameHands.jpg);background-size: cover;">
-    <a href="http://shamayoga.us8.list-manage1.com/subscribe?u=2c82f35949283b905c95159e0&id=7928c7fcd3">
-    <div  class=" right">Subscribe</div>
-    </a>
-    
-
-    <ul class="bubble-popup-menu">
         
-            <li class="bubble-popup-item"><a href="http://shamayoga.us8.list-manage1.com/subscribe?u=2c82f35949283b905c95159e0&id=7928c7fcd3">Subscribe to our<br/> free newsletter<br/> to receive<br/> inspirational articles,</br> downloads and updates on<br/> Shamayoga activities.</a></li>
         
-    </ul>
-
-
-
-    </li>
-
-
-    
-    
-            
-    <li class="circle " style="background-image: url(https://res.cloudinary.com/shamayoga/image/upload/v1531049197/shamayoga.org.uk/bubbles/bring-ls.png);background-size: cover;">
-    <a href="/everything-yoga/yoga-classes/">
-    <div  class=" right">Bring Out the Yoga in You</div>
-    </a>
-    
-
-    <ul class="bubble-popup-menu">
+        <!-- 0-->
         
-            <li class="bubble-popup-item"><a href="/everything-yoga/yoga-classes/">Classes</a></li>
+            <div class="circle col-md-4 col-sm-6 col-xs-12" style="background-image: url(https://res.cloudinary.com/shamayoga/image/upload/v1531049197/shamayoga.org.uk/bubbles/bring-ls.png);background-size: cover;">
+            <a href="/everything-yoga/yoga-classes/">
+            <div  class=" right">Bring Out the Yoga in You</div>
+            </a>
+                
+                    <ul class="bubble-popup-menu">
+                        
+                            <li class="bubble-popup-item"><a href="/everything-yoga/yoga-classes/">Classes</a></li>
+                        
+                            <li class="bubble-popup-item"><a href="/everything-yoga/yoga-workshops/">Workshops</a></li>
+                        
+                            <li class="bubble-popup-item"><a href="/everything-yoga/yoga-retreats/">Retreats</a></li>
+                        
+                            <li class="bubble-popup-item"><a href="/everything-yoga/philosophy-of-yoga/">Philosophy</a></li>
+                        
+                            <li class="bubble-popup-item"><a href="/everything-yoga/yoga-gallery/">Gallery</a></li>
+                        
+                    </ul>
+                
+            </div>
         
-            <li class="bubble-popup-item"><a href="/everything-yoga/yoga-workshops/">Workshops</a></li>
+        </div><!-- close the loop -->
         
-            <li class="bubble-popup-item"><a href="/everything-yoga/yoga-retreats/">Retreats</a></li>
         
-            <li class="bubble-popup-item"><a href="/everything-yoga/philosophy-of-yoga/">Philosophy</a></li>
         
-            <li class="bubble-popup-item"><a href="/everything-yoga/yoga-gallery/">Gallery</a></li>
+        <!-- 1-->
         
-    </ul>
-
-
-
-    </li>
-
-
-    
-    
-            
-    <li class="circle " style="background-image: url(https://res.cloudinary.com/shamayoga/image/upload/v1531049221/shamayoga.org.uk/bubbles/class-ls.png);background-size: cover;">
-    <a href="/shamayoga-in-the-media/">
-    <div  class=" right">In the Media</div>
-    </a>
-    
-
-    <ul class="bubble-popup-menu">
+          <div class="row">
         
-            <li class="bubble-popup-item"><a href="/shamayoga-in-the-media/events/">Events</a></li>
+            <div class="circle col-md-4 col-sm-6 col-xs-12" style="background-image: url(https://res.cloudinary.com/shamayoga/image/upload/v1531049221/shamayoga.org.uk/bubbles/class-ls.png);background-size: cover;">
+            <a href="/shamayoga-in-the-media/">
+            <div  class=" right">In the Media</div>
+            </a>
+                
+                    <ul class="bubble-popup-menu">
+                        
+                            <li class="bubble-popup-item"><a href="/shamayoga-in-the-media/events/">Events</a></li>
+                        
+                            <li class="bubble-popup-item"><a href="/print-media/">Articles and Magazines</a></li>
+                        
+                            <li class="bubble-popup-item"><a href="https://www.yogaseer.com/">Yogaseer (Blog)</a></li>
+                        
+                            <li class="bubble-popup-item"><a href="https://www.youtube.com/channel/UCSbv2H-T_m_ejmUCuMZadEA">On YouTube</a></li>
+                        
+                            <li class="bubble-popup-item"><a href="https://www.facebook.com/Shamayoga9/">On Facebook</a></li>
+                        
+                            <li class="bubble-popup-item"><a href="https://www.instagram.com/Shamayoga9/">On Instagram</a></li>
+                        
+                    </ul>
+                
+            </div>
         
-            <li class="bubble-popup-item"><a href="/print-media/">Articles and Magazines</a></li>
         
-            <li class="bubble-popup-item"><a href="https://www.yogaseer.com/">Yogaseer (Blog)</a></li>
         
-            <li class="bubble-popup-item"><a href="https://www.youtube.com/channel/UCSbv2H-T_m_ejmUCuMZadEA">On YouTube</a></li>
+        <!-- 2-->
         
-            <li class="bubble-popup-item"><a href="https://www.facebook.com/Shamayoga9/">On Facebook</a></li>
+            <div class="circle col-md-4 col-sm-6 col-xs-12" style="background-image: url(https://res.cloudinary.com/shamayoga/image/upload/v1531049255/shamayoga.org.uk/bubbles/colorlotus.png);background-size: cover;">
+            <a href="/steve-avian/">
+            <div  class=" right">About Steve Avian</div>
+            </a>
+                
+                    <ul class="bubble-popup-menu">
+                        
+                            <li class="bubble-popup-item"><a href="/steve-avian/"><br/><br/><br/>My Song So Far</a></li>
+                        
+                    </ul>
+                
+            </div>
         
-            <li class="bubble-popup-item"><a href="https://www.instagram.com/Shamayoga9/">On Instagram</a></li>
         
-    </ul>
-
-
-
-    </li>
-
-
-    
-    
-            
-    <li class="circle " style="background-image: url(https://res.cloudinary.com/shamayoga/image/upload/v1531049255/shamayoga.org.uk/bubbles/colorlotus.png);background-size: cover;">
-    <a href="/steve-avian/">
-    <div  class=" right">About Steve Avian</div>
-    </a>
-    
-
-    <ul class="bubble-popup-menu">
         
-            <li class="bubble-popup-item"><a href="/steve-avian/"><br/><br/><br/>My Song So Far</a></li>
+        <!-- 0-->
         
-    </ul>
-
-
-
-    </li>
-
-
-    
-    
-            
-    <li class="circle " style="background-image: url(https://res.cloudinary.com/shamayoga/image/upload/v1531049299/shamayoga.org.uk/bubbles/bowl-ls.png);background-size: cover;">
-    <a href="/everything-yoga/yoga-shop/">
-    <div  class=" right">Royalty Free Yoga Music</div>
-    </a>
-    
-
-    <ul class="bubble-popup-menu">
+            <div class="circle col-md-4 col-sm-6 col-xs-12" style="background-image: url(https://res.cloudinary.com/shamayoga/image/upload/v1531049299/shamayoga.org.uk/bubbles/bowl-ls.png);background-size: cover;">
+            <a href="/everything-yoga/yoga-shop/">
+            <div  class=" right">Royalty Free Yoga Music</div>
+            </a>
+                
+                    <ul class="bubble-popup-menu">
+                        
+                            <li class="bubble-popup-item"><a href="/everything-yoga/yoga-shop/"><br/><br/><br/>Download Yoga Music</a></li>
+                        
+                    </ul>
+                
+            </div>
         
-            <li class="bubble-popup-item"><a href="/everything-yoga/yoga-shop/"><br/><br/><br/>Download Yoga Music</a></li>
+        </div><!-- close the loop -->
         
-    </ul>
+        
+    </div>
 
-
-
-    </li>
-
-
-    
-    </ul>
     <div id="accreditations">
         
             <img src="https://res.cloudinary.com/shamayoga/image/upload/v1531050226/shamayoga.org.uk/Accreditation%20Logos/YA.png"/>
