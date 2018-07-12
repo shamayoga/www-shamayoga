@@ -22,7 +22,7 @@
         
           .circle {
             flex: 1;
-            xbackground: rgba(255,255,255,0.15);
+            background: rgba(255,255,255,0.05);
             position:relative;
             border-radius: 50%;
             /*margin: 5px;*/
@@ -243,7 +243,7 @@
           <div class="row">
         {% endif %}
         <div class="col-md-4 col-sm-6 col-xs-12">
-            <div class="circle" style="xbackground-image: url({{bubble.image}});background-size: cover;">
+            <div class="circle">
             <a href="{{ bubble.url }}"><center><img src="{{bubble.image}}"/></center>
             <div  class="{{ bubble.label-position }} right">{{ bubble.label-text }}</div>
             </a>
