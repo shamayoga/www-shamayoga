@@ -39,7 +39,7 @@ workshops:
       up a calendar and registration form</li><li>Take the opportunity to
       register for the course on the day</li></ul>
     Price: Free
-  - workshopDate: Saturday 1st October
+  - workshopDate: Saturday 6th October
     workshopTime: 2 to 4.30pm
     Title: Flowing Forms and Yoga Dances
     Venue: Broomhill Methodist Church
