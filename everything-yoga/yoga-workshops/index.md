@@ -6,16 +6,19 @@ hero_image: >-
   https://res.cloudinary.com/shamayoga/image/upload/v1531057919/shamayoga.org.uk/everything-yoga/yoga-workshops/7qGDZvwsYq-NMbnO4xBpM6QVuqg7kJ7B4jSfA3CcqI47KgQtKEkhnH2_3J0IImYM3QITi_Np4Zf-I95zFw_w1200-h380-n.jpg
 _hide_content: true
 workshops:
-  - workshopDate: Saturday 6th August
-    workshopTime: 2pm to 4.30 pm
-    Title: Kriyas and Asanas
-    Venue: Broomhill Methodist Church
+  - workshopDate: Saturday 19th January
+    workshopTime: 11.30 am - 1.30 pm
+    Title: Yoga Teacher Training Taster workshop
+    Venue: 'Yorkshire Yogi Studio , New Mills , Huddersfield'
     Presenter: Steve Avian
     Description_html: >-
-      <p>Learn purifying yogic practices that detox and energise the body and
-      soothe the mind. A detailed approach to a number of classical asanas and
-      deep relaxations techniques.</p>
-    Price: £15.00
+      <p>Get a feel for the 1 year, world recognised 200-hour Yoga
+      Alliance-certificated course, now in its&rsquo; 12th year.</p><p>Sample a
+      free yoga class</p><p>Meet prospective students and those already
+      booked</p><p>Get an overview of course topics and workshops</p><p>Engage
+      in a question and answer session</p><p>Pick up a calendar and registration
+      form</p><p>Take the opportunity to register for the course on the day</p>
+    Price: Free Event
   - workshopDate: Saturday 25th August
     workshopTime: 1 to 3pm
     Title: Primordial T'ai Chi
