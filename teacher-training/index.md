@@ -37,4 +37,5 @@ There will also be one major teaching assessment towards the end of the course, 
 
 Read the Interview (Teach Your Yoga) with Steve Avian, course director. [Interview](../steve-avian/interview/)
 
-[Download Course Calendar](https://docs.google.com/document/d/1IXi6E2fqSDNFFPBay0kDKK0YJ1hCtxVCxR-iawnzsew/export?format=pdf "Download Course Calendar"){: .download target="_blank"}
+[Course Calendar SHEFFIELD](https://docs.google.com/document/d/1IXi6E2fqSDNFFPBay0kDKK0YJ1hCtxVCxR-iawnzsew/export?format=pdf){: .download target="_blank"}
+[Course Calendar HUDDERSFIELD](https://docs.google.com/document/d/1AYAbRr0-pQIpHUuXuEGnWFfAkYvH-xQP_mDAwqDgZn0/export?format=pdf){: .download target="_blank"}
