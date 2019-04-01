@@ -13,7 +13,7 @@ hero_image:
 
 Power of Yoga Studio ([website](http://www.powerofyoga.net/){: target="_blank"})<br>2 Westwick Crescent<br>Greenhill<br>Sheffield<br>S8 7DG ([see map](https://www.google.co.uk/maps/place/Power+Of+Yoga/@53.327461,-1.4908907,17z/data=!3m1!4b1!4m5!3m4!1s0x487983b079cb19f7:0xa7dd804138ed7302!8m2!3d53.327461!4d-1.488702){: target="_blank"})
 
-[Course Calendar SHEFFIELD](https://docs.google.com/document/d/1IXi6E2fqSDNFFPBay0kDKK0YJ1hCtxVCxR-iawnzsew/export?format=pdf){: .download target="_blank"}
+[Course Calendar SHEFFIELD](https://docs.google.com/document/d/1u73j1zwjgk-jo8IJtVYEYIU8S77l7LzboTQJ3OqymVE/export?format=pdf){: .download target="_blank"}
 
 ## Venue for Huddersfield Based Course
 
