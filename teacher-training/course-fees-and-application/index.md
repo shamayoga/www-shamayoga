@@ -12,7 +12,7 @@ hero_image:
 **&pound;1800**&nbsp;if paid in full at the &nbsp;time of booking . &nbsp;Non refundable.<br>**&pound;1950**&nbsp;if paid in installments, including a non-refundable &pound;500 deposit and the balance may be paid in a further five non-refundable, bi-monthly installments.<br>Enquire for more details.<br>**Course Fees include:**&nbsp;illustrated downloadable handouts and two instructional download albums.
 
 [Application Form ](https://docs.google.com/document/d/1RxLa9lZoZbLZVFeo-s1E8IInCYi9LeQt9HW-UN5wdf8/export?format=pdf){: .download target="_blank"}
-[Course Calendar SHEFFIELD](https://docs.google.com/document/d/1IXi6E2fqSDNFFPBay0kDKK0YJ1hCtxVCxR-iawnzsew/export?format=pdf){: .download target="_blank"}
+[Course Calendar SHEFFIELD](https://docs.google.com/document/d/1u73j1zwjgk-jo8IJtVYEYIU8S77l7LzboTQJ3OqymVE/export?format=pdf){: .download target="_blank"}
 [Course Calendar HUDDERSFIELD](https://docs.google.com/document/d/1AYAbRr0-pQIpHUuXuEGnWFfAkYvH-xQP_mDAwqDgZn0/export?format=pdf){: .download target="_blank"}
 
 Early booking is advisable, as numbers are limited to around 10 to ensure individual attention.
