@@ -73,7 +73,7 @@ workshops:
       <p>Explore advanced asanas safely (with adaptations when necessary) and
       fine tune your awareness within the classical poses. Explore the three
       bandhas, subtle muscular locks stimulating and harmonising energy in asana
-      and meditation. Cost &pound;15.&nbsp;</p>
+      and meditation.&nbsp;</p>
     Price: £15.00
   - workshopDate: Saturday 1st February
     workshopTime: 2 to 4.30pm
