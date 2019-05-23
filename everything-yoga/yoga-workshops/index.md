@@ -85,8 +85,7 @@ workshops:
       we will explore in this workshop. Once mastered, these skills can be
       transposed to enhance all aspects of life. Included in this workshop will
       be exercises and asanas that facilitate poise and grounding through a
-      deeper awareness of the body&rsquo;s centre of gravity. Cost
-      &pound;15&nbsp;</p>
+      deeper awareness of the body&rsquo;s centre of gravity.&nbsp;</p>
     Price: £15.00
   - workshopDate: Saturday 4th April
     workshopTime: 2 to 4.30pm
