@@ -88,5 +88,15 @@ workshops:
       meditation. New partner exercises will also be explored to develop greater
       flexibility within the classic Hatha poses.</p>
     Price: £15.00
+  - workshopDate: Saturday 3rd August
+    workshopTime: 2 - 4.30pm
+    Title: Kriyas and Asana
+    Venue: Broomhill  Beacon Methodist church
+    Presenter: Steve Avian
+    Description_html: >-
+      <p>Learn purifying yogic practices that detox and energise the body and
+      soothe the mind. A detailed approach to a number of classical asanas and
+      deep relaxations techniques. Cost &pound;15 .&nbsp;</p>
+    Price:
 ---
 
