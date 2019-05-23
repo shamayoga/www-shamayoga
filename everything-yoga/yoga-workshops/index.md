@@ -6,6 +6,17 @@ hero_image: >-
   https://res.cloudinary.com/shamayoga/image/upload/v1531057919/shamayoga.org.uk/everything-yoga/yoga-workshops/7qGDZvwsYq-NMbnO4xBpM6QVuqg7kJ7B4jSfA3CcqI47KgQtKEkhnH2_3J0IImYM3QITi_Np4Zf-I95zFw_w1200-h380-n.jpg
 _hide_content: true
 workshops:
+  - workshopDate: Saturday 1st  June
+    workshopTime: 2 to 4.30pm
+    Title: Mudras and Yoga Massage
+    Venue: Broomhill Methodist Church
+    Presenter: Steve Avian
+    Description_html: >-
+      <p>The yoga of the hands - using the power points of the hands and fingers
+      - these ancient gestures and easy exercises can replenish energy, promote
+      self healing, concentration and relaxation. Plus yoga and massage combined
+      for deep release of tensions. Learning materials provided.</p>
+    Price: £15.00
   - workshopDate: Sunday 30 th June
     workshopTime: 12.30 to 1.3pm
     Title: Free Yoga Teacher Training Taster Session
@@ -76,17 +87,6 @@ workshops:
       bestow radiant health, and other simple mantra to focus the mind for
       meditation. New partner exercises will also be explored to develop greater
       flexibility within the classic Hatha poses.</p>
-    Price: £15.00
-  - workshopDate: Saturday 1st  June
-    workshopTime: 2 to 4.30pm
-    Title: Mudras and Yoga Massage
-    Venue: Broomhill Methodist Church
-    Presenter: Steve Avian
-    Description_html: >-
-      <p>The yoga of the hands - using the power points of the hands and fingers
-      - these ancient gestures and easy exercises can replenish energy, promote
-      self healing, concentration and relaxation. Plus yoga and massage combined
-      for deep release of tensions. Learning materials provided.</p>
     Price: £15.00
 ---
 
