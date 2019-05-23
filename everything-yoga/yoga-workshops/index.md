@@ -77,7 +77,7 @@ workshops:
       meditation. New partner exercises will also be explored to develop greater
       flexibility within the classic Hatha poses.</p>
     Price: £15.00
-  - workshopDate: Saturday 4th June
+  - workshopDate: Saturday 1st  June
     workshopTime: 2 to 4.30pm
     Title: Mudras and Yoga Massage
     Venue: Broomhill Methodist Church
