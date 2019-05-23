@@ -6,17 +6,8 @@ hero_image: >-
   https://res.cloudinary.com/shamayoga/image/upload/v1531057919/shamayoga.org.uk/everything-yoga/yoga-workshops/7qGDZvwsYq-NMbnO4xBpM6QVuqg7kJ7B4jSfA3CcqI47KgQtKEkhnH2_3J0IImYM3QITi_Np4Zf-I95zFw_w1200-h380-n.jpg
 _hide_content: true
 workshops:
-  - workshopDate: Saturday 25th August
-    workshopTime: 1 to 3pm
-    Title: Primordial T'ai Chi
-    Venue: 'Power of yoga studio,  Greenhill'
-    Presenter: Steve Avian
-    Description_html: >-
-      <p>Tai Chi for meditation, healing and energy cultivation . An exquisite
-      and easy to learn 800 year old short form .</p>
-    Price: £15
-  - workshopDate: Sunday 16th September
-    workshopTime: 1  to 2.15pm
+  - workshopDate: Sunday 30 th June
+    workshopTime: 12.30 to 1.3pm
     Title: Free Yoga Teacher Training Taster Session
     Venue: 'Power of yoga studio,  Greenhill'
     Presenter: Steve Avian
