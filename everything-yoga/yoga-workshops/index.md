@@ -31,6 +31,16 @@ workshops:
       up a calendar and registration form</li><li>Take the opportunity to
       register for the course on the day</li></ul>
     Price: Free
+  - workshopDate: Saturday 3rd August
+    workshopTime: 2 - 4.30pm
+    Title: Kriyas and Asana
+    Venue: Broomhill  Beacon Methodist church
+    Presenter: Steve Avian
+    Description_html: >-
+      <p>Learn purifying yogic practices that detox and energise the body and
+      soothe the mind. A detailed approach to a number of classical asanas and
+      deep relaxations techniques. Cost &pound;15 .&nbsp;</p>
+    Price:
   - workshopDate: Saturday 6th October
     workshopTime: 2 to 4.30pm
     Title: Flowing Forms and Yoga Dances
@@ -40,17 +50,6 @@ workshops:
       <p>Experience sequenced yoga postures in rhythmic flow to develop
       flexibility, poise, endurance and strength, and for sheer joy. Illustrated
       handouts provided.</p>
-    Price: £15.00
-  - workshopDate: Saturday 3rd December
-    workshopTime: 2 to 4.30pm
-    Title: Advanced Asanas for All and Bandhas
-    Venue: Broomhill Methodist Church
-    Presenter: Steve Avian
-    Description_html: >-
-      <p>Explore advanced asanas safely (with adaptations when necessary) and
-      fine tune your awareness within the classical poses. Explore the three
-      bandhas, subtle muscular locks stimulating and harmonising energy in asana
-      and meditation.</p>
     Price: £15.00
   - workshopDate: Saturday 19th January
     workshopTime: 11.30 am - 1.30 pm
@@ -65,6 +64,17 @@ workshops:
       in a question and answer session</p><p>Pick up a calendar and registration
       form</p><p>Take the opportunity to register for the course on the day</p>
     Price: Free Event
+  - workshopDate: Saturday 3rd December
+    workshopTime: 2 to 4.30pm
+    Title: Advanced Asanas for All and Bandhas
+    Venue: Broomhill Methodist Church
+    Presenter: Steve Avian
+    Description_html: >-
+      <p>Explore advanced asanas safely (with adaptations when necessary) and
+      fine tune your awareness within the classical poses. Explore the three
+      bandhas, subtle muscular locks stimulating and harmonising energy in asana
+      and meditation.</p>
+    Price: £15.00
   - workshopDate: Saturday 6th February
     workshopTime: 2 to 4.30pm
     Title: Exploring the Three Bases of Hatha Yoga.
@@ -88,15 +98,5 @@ workshops:
       meditation. New partner exercises will also be explored to develop greater
       flexibility within the classic Hatha poses.</p>
     Price: £15.00
-  - workshopDate: Saturday 3rd August
-    workshopTime: 2 - 4.30pm
-    Title: Kriyas and Asana
-    Venue: Broomhill  Beacon Methodist church
-    Presenter: Steve Avian
-    Description_html: >-
-      <p>Learn purifying yogic practices that detox and energise the body and
-      soothe the mind. A detailed approach to a number of classical asanas and
-      deep relaxations techniques. Cost &pound;15 .&nbsp;</p>
-    Price:
 ---
 
