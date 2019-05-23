@@ -41,6 +41,19 @@ workshops:
       soothe the mind. A detailed approach to a number of classical asanas and
       deep relaxations techniques. Cost &pound;15 .&nbsp;</p>
     Price:
+  - workshopDate: Sunday 1st  September
+    workshopTime: 1 - 2pm
+    Title: Yoga Teacher Training Taster workshop
+    Venue: 'Power of yoga studio , Greenhill .'
+    Presenter: Steve Avian
+    Description_html: >-
+      <p>Get a feel for the 1 year, world recognised 200-hour Yoga
+      Alliance-certificated course, now in its&rsquo; 12th year.</p><p>Sample a
+      free yoga class</p><p>Meet prospective students and those already
+      booked</p><p>Get an overview of course topics and workshops</p><p>Engage
+      in a question and answer session</p><p>Pick up a calendar and registration
+      form</p><p>Take the opportunity to register for the course on the day</p>
+    Price: Free Event
   - workshopDate: Saturday 5th October
     workshopTime: 2 to 4.30pm
     Title: Flowing Forms and Yoga Dances
@@ -86,18 +99,5 @@ workshops:
       meditation. New partner exercises will also be explored to develop greater
       flexibility within the classic Hatha poses. Cost &pound;15&nbsp;</p>
     Price: £15.00
-  - workshopDate: Sunday 1st  September
-    workshopTime: 1 - 2pm
-    Title: Yoga Teacher Training Taster workshop
-    Venue: 'Power of yoga studio , Greenhill .'
-    Presenter: Steve Avian
-    Description_html: >-
-      <p>Get a feel for the 1 year, world recognised 200-hour Yoga
-      Alliance-certificated course, now in its&rsquo; 12th year.</p><p>Sample a
-      free yoga class</p><p>Meet prospective students and those already
-      booked</p><p>Get an overview of course topics and workshops</p><p>Engage
-      in a question and answer session</p><p>Pick up a calendar and registration
-      form</p><p>Take the opportunity to register for the course on the day</p>
-    Price: Free Event
 ---
 
