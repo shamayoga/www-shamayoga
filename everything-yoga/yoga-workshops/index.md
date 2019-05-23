@@ -41,7 +41,7 @@ workshops:
       soothe the mind. A detailed approach to a number of classical asanas and
       deep relaxations techniques. Cost &pound;15 .&nbsp;</p>
     Price:
-  - workshopDate: Saturday 6th October
+  - workshopDate: Saturday 5th October
     workshopTime: 2 to 4.30pm
     Title: Flowing Forms and Yoga Dances
     Venue: Broomhill Methodist Church
@@ -49,7 +49,7 @@ workshops:
     Description_html: >-
       <p>Experience sequenced yoga postures in rhythmic flow to develop
       flexibility, poise, endurance and strength, and for sheer joy. Illustrated
-      handouts provided.</p>
+      handouts provided. Cost &pound;15 .</p>
     Price: £15.00
   - workshopDate: Saturday 19th January
     workshopTime: 11.30 am - 1.30 pm
