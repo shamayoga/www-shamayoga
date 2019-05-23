@@ -51,6 +51,17 @@ workshops:
       flexibility, poise, endurance and strength, and for sheer joy. Illustrated
       handouts provided. Cost &pound;15 .</p>
     Price: £15.00
+  - workshopDate: Saturday 7th December
+    workshopTime: 2 to 4.30pm
+    Title: Advanced Asanas for All and Bandhas
+    Venue: Broomhill Methodist Church
+    Presenter: Steve Avian
+    Description_html: >-
+      <p>Explore advanced asanas safely (with adaptations when necessary) and
+      fine tune your awareness within the classical poses. Explore the three
+      bandhas, subtle muscular locks stimulating and harmonising energy in asana
+      and meditation. Cost &pound;15.&nbsp;</p>
+    Price: £15.00
   - workshopDate: Saturday 19th January
     workshopTime: 11.30 am - 1.30 pm
     Title: Yoga Teacher Training Taster workshop
@@ -64,18 +75,7 @@ workshops:
       in a question and answer session</p><p>Pick up a calendar and registration
       form</p><p>Take the opportunity to register for the course on the day</p>
     Price: Free Event
-  - workshopDate: Saturday 7th December
-    workshopTime: 2 to 4.30pm
-    Title: Advanced Asanas for All and Bandhas
-    Venue: Broomhill Methodist Church
-    Presenter: Steve Avian
-    Description_html: >-
-      <p>Explore advanced asanas safely (with adaptations when necessary) and
-      fine tune your awareness within the classical poses. Explore the three
-      bandhas, subtle muscular locks stimulating and harmonising energy in asana
-      and meditation. Cost &pound;15.&nbsp;</p>
-    Price: £15.00
-  - workshopDate: Saturday 6th February
+  - workshopDate: Saturday 1st February
     workshopTime: 2 to 4.30pm
     Title: Exploring the Three Bases of Hatha Yoga.
     Venue: 'Broomhill Methodist Church , Sheffield'
@@ -85,7 +85,8 @@ workshops:
       we will explore in this workshop. Once mastered, these skills can be
       transposed to enhance all aspects of life. Included in this workshop will
       be exercises and asanas that facilitate poise and grounding through a
-      deeper awareness of the body&rsquo;s centre of gravity.</p>
+      deeper awareness of the body&rsquo;s centre of gravity. Cost
+      &pound;15&nbsp;</p>
     Price: £15.00
   - workshopDate: Saturday 2nd April
     workshopTime: 2 to 4.30pm
