@@ -75,19 +75,6 @@ workshops:
       deeper awareness of the body&rsquo;s centre of gravity. Cost
       &pound;15&nbsp;</p>
     Price: £15.00
-  - workshopDate: Saturday 19th January
-    workshopTime: 11.30 am - 1.30 pm
-    Title: Yoga Teacher Training Taster workshop
-    Venue: 'Yorkshire Yogi Studio , New Mills , Huddersfield'
-    Presenter: Steve Avian
-    Description_html: >-
-      <p>Get a feel for the 1 year, world recognised 200-hour Yoga
-      Alliance-certificated course, now in its&rsquo; 12th year.</p><p>Sample a
-      free yoga class</p><p>Meet prospective students and those already
-      booked</p><p>Get an overview of course topics and workshops</p><p>Engage
-      in a question and answer session</p><p>Pick up a calendar and registration
-      form</p><p>Take the opportunity to register for the course on the day</p>
-    Price: Free Event
   - workshopDate: Saturday 4th April
     workshopTime: 2 to 4.30pm
     Title: Gayatri Mantra and Partner Yoga
@@ -99,5 +86,18 @@ workshops:
       meditation. New partner exercises will also be explored to develop greater
       flexibility within the classic Hatha poses. Cost &pound;15&nbsp;</p>
     Price: £15.00
+  - workshopDate: Sunday 1st  September
+    workshopTime: 1 - 2pm
+    Title: Yoga Teacher Training Taster workshop
+    Venue: 'Power of yoga studio , Greenhill .'
+    Presenter: Steve Avian
+    Description_html: >-
+      <p>Get a feel for the 1 year, world recognised 200-hour Yoga
+      Alliance-certificated course, now in its&rsquo; 12th year.</p><p>Sample a
+      free yoga class</p><p>Meet prospective students and those already
+      booked</p><p>Get an overview of course topics and workshops</p><p>Engage
+      in a question and answer session</p><p>Pick up a calendar and registration
+      form</p><p>Take the opportunity to register for the course on the day</p>
+    Price: Free Event
 ---
 
