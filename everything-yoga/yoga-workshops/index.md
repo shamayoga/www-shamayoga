@@ -62,7 +62,7 @@ workshops:
     Description_html: >-
       <p>Experience sequenced yoga postures in rhythmic flow to develop
       flexibility, poise, endurance and strength, and for sheer joy. Illustrated
-      handouts provided. Cost &pound;15 .</p>
+      handouts provided.&nbsp;</p>
     Price: £15.00
   - workshopDate: Saturday 7th December
     workshopTime: 2 to 4.30pm
