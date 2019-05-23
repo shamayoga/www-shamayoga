@@ -96,7 +96,7 @@ workshops:
       <p>Learn the sanskrit Gayatri mantra, which is a healing mantra said to
       bestow radiant health, and other simple mantra to focus the mind for
       meditation. New partner exercises will also be explored to develop greater
-      flexibility within the classic Hatha poses. Cost &pound;15&nbsp;</p>
+      flexibility within the classic Hatha poses.&nbsp;</p>
     Price: £15.00
 ---
 
