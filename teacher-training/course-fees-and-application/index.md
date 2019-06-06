@@ -23,6 +23,7 @@ Early booking is advisable, as numbers are limited to around 10 to ensure indivi
 
 If you are interested in the course or require any additional information please phone Steve avian on 07792 557 105 for an informal chat. Alternatively you can email Steve at [info@shamayoga.org.uk](mailto:info@shamayoga.org.uk) or write to:
 
-**Shamayoga**<br>2b Westwick Crescent<br>Sheffield<br>S8 7DG
+**Shamayoga**<br>Bole Hill Close<br>Walkley<br>Sheffield<br>S6 5ED
+
 
 An application form can then be sent out to you and an interview arranged.
