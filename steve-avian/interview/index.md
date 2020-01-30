@@ -9,7 +9,7 @@ hero_image:
 
 ## An Interview with Steve Avian of Shamayoga&nbsp;
 
-![Steve Avian](https://res.cloudinary.com/drenum1vd/image/upload/yogaphoto/shama-about.jpg)
+![Steve Avian](https://res.cloudinary.com/drenum1vd/image/upload/w_640/yogaphoto/shama-about.jpg)
 
 ### What kind of Yoga do your trainees teach?
 
