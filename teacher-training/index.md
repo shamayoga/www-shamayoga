@@ -35,10 +35,10 @@ Twelve months, one weekend a month (including some working lunches) plus 2 hours
 
 There will also be one major teaching assessment towards the end of the course, the actual date of which may be specified by the student.<br>Each weekend will open and close with a sharing circle to summarise the main topics of the weekend.
 
-Read the Interview (Teach Your Yoga) with Steve Avian, course director. [Interview](../steve-avian/interview/)
-
-[Course Calendar SHEFFIELD](https://docs.google.com/document/d/1u73j1zwjgk-jo8IJtVYEYIU8S77l7LzboTQJ3OqymVE/export?format=pdf "Download SHEFFIELD Course Calendar"){: .download target="_blank"}
-
 <div><strong>You can book on to this YA accredited yoga teacher training knowing that if world - circumstances prevent in-person meetings we will continue training live on line .&nbsp;</strong></div>
 
 <div><strong>We are delighted to have delivered the training on line . The response and results have been amazing enabling students to gain the necessary support , knowledge , skills and experience for successful yoga teaching .&nbsp;</strong></div>
+
+Read the Interview (Teach Your Yoga) with Steve Avian, course director. [Interview](../steve-avian/interview/)
+
+[Course Calendar SHEFFIELD](https://docs.google.com/document/d/1u73j1zwjgk-jo8IJtVYEYIU8S77l7LzboTQJ3OqymVE/export?format=pdf "Download SHEFFIELD Course Calendar"){: .download target="_blank"}
