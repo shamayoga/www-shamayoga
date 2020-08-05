@@ -39,6 +39,8 @@ There will also be one major teaching assessment towards the end of the course, 
 
 <div><strong>We are delighted to have delivered the training on line . The response and results have been amazing enabling students to gain the necessary support , knowledge , skills and experience for successful yoga teaching .&nbsp;</strong></div>
 
+<div>&nbsp;</div>
+
 Read the Interview (Teach Your Yoga) with Steve Avian, course director. [Interview](../steve-avian/interview/)
 
 [Course Calendar SHEFFIELD](https://docs.google.com/document/d/1u73j1zwjgk-jo8IJtVYEYIU8S77l7LzboTQJ3OqymVE/export?format=pdf "Download SHEFFIELD Course Calendar"){: .download target="_blank"}
