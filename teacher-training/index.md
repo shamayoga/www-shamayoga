@@ -11,7 +11,7 @@ hero-img:
 # ![Steve leading a group session with teacher trainees](https://res.cloudinary.com/shamayoga/image/upload/v1531050692/shamayoga.org.uk/teacher-training/webphotos9.jpg "Steve leading a group session with teacher trainees"){: .photo-right}
 {: .shamafont}
 
-### 2020 : A comprehensive (yoga alliance 200 hrs ) transformational training programme covering all aspects of Yoga practice, theory and teaching.
+### 2021 : A comprehensive (yoga alliance 200 hrs ) transformational training programme covering all aspects of Yoga practice, theory and teaching.
 
 The purpose of the course is to provide students with a solid grounding in traditional Yoga and yoga teaching for contemporary times. We emphasise an eclectic, non-dogmatic experiential approach, which includes assisting in classes, supervised teaching and personalised mentoring. Students are encouraged to explore their own creativity and evolve their own wonderfully individualistic teaching style.<br>Graduates of our training programme have gone on to share yoga with others in health care centres, universities, gyms, adult education centres, schools and care homes for the elderly and people with disabilities, as well as in private classes for groups and individuals.
 
