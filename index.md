@@ -4,8 +4,7 @@ description:
 layout: homepage
 _hide_content: false
 bubbles:
-  - image: >-
-      https://res.cloudinary.com/shamayoga/image/upload/v1531049153/shamayoga.org.uk/bubbles/teach2.png
+  - image: 'https://res.cloudinary.com/shamayoga/image/upload/v1606320679/poy-crop.jpg'
     label-text: Teach Your Yoga
     url: /teacher-training/
     popup-menu:
@@ -76,7 +75,8 @@ bubbles:
     popup-menu:
       - text: <br/><br/><br/>My Song So Far
         link: /steve-avian/
-  - image: 'https://res.cloudinary.com/shamayoga/image/upload/v1606320679/poy-crop.jpg'
+  - image: >-
+      https://res.cloudinary.com/shamayoga/image/upload/v1606322523/shamayoga.org.uk/bubbles/becca.jpg
     label-text: Online Yoga Teacher Training YA 300hrs
     url: /teacher-training-online/
     popup-menu:
