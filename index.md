@@ -76,13 +76,14 @@ bubbles:
     popup-menu:
       - text: <br/><br/><br/>My Song So Far
         link: /steve-avian/
-  - image: >-
-      https://res.cloudinary.com/shamayoga/image/upload/v1531049299/shamayoga.org.uk/bubbles/bowl-ls.png
-    label-text: Royalty Free Yoga Music
-    url: /everything-yoga/yoga-shop/
+  - image: 'https://res.cloudinary.com/shamayoga/image/upload/v1606320679/poy-crop.jpg'
+    label-text: Online Yoga Teacher Training YA 300hrs
+    url: /teacher-training-online/
     popup-menu:
-      - text: <br/><br/><br/>Download Yoga Music
-        link: /everything-yoga/yoga-shop/
+      - text: >-
+          <br/><br/><br/>Learn more about Shamayoga's online supported teacher
+          training
+        link: /teacher-training-online/
 Accreditations:
   - logo_image: >-
       https://res.cloudinary.com/shamayoga/image/upload/v1531050226/shamayoga.org.uk/Accreditation%20Logos/YA.png
@@ -152,4 +153,4 @@ testimonials:
       class.
 ---
 
-<div id="roots"><h1>शम योग</h1><div id="roots-text"><p class="drop-cap"><em>If I could sum up my Yoga practice in one word, it would be "Shama". Shama is a Sanskrit word meaning inner harmony.</em></p><p><em>In the yoga tradition Shama refers to the conscious harmony of the Whole Self &ndash; body, mind and emotions. In the Vedas (India&rsquo;s oldest sacred texts) the word Yoga is used alongside the word Shama, meaning harmonious union.</em></p><p><em>To me, this suggests the idea of inner harmony and the profound connection between our inner world and the Universe itself. Yoga is there to help us explore this mystical connection in a balanced way. </em><em><br />- Steve Avian</em></p><p>Rooted in the ancient traditions and classic Hatha style, Shamayoga is an inspired and integrated eclectic approach to learning and teaching yoga in the 21st century.</p><p>For Yoga Practioners wanting to deepen and share their knowledge we offer a one year (200hrs) internationally recognised Yoga Alliance certificated teacher training course covering all aspects of yoga practice, theory and teaching.</p><p>For beginners and advanced alike we offer ongoing yoga classes, workshops, yoga retreats and music for Yoga and relaxation. All styles and spiritual paths warmly welcomed.</p></div></div>
+<div id="roots"><h1>शम योग</h1><div id="roots-text"><p class="drop-cap"><em>If I could sum up my Yoga practice in one word, it would be "Shama". Shama is a Sanskrit word meaning inner harmony.</em></p><p><em>In the yoga tradition Shama refers to the conscious harmony of the Whole Self &ndash; body, mind and emotions. In the Vedas (India&rsquo;s oldest sacred texts) the word Yoga is used alongside the word Shama, meaning harmonious union.</em></p><p><em>To me, this suggests the idea of inner harmony and the profound connection between our inner world and the Universe itself. Yoga is there to help us explore this mystical connection in a balanced way. </em><br /><em>- Steve Avian</em></p><p>Rooted in the ancient traditions and classic Hatha style, Shamayoga is an inspired and integrated eclectic approach to learning and teaching yoga in the 21st century.</p><p>For Yoga Practioners wanting to deepen and share their knowledge we offer a one year (200hrs) internationally recognised Yoga Alliance certificated teacher training course covering all aspects of yoga practice, theory and teaching.</p><p>For beginners and advanced alike we offer ongoing yoga classes, workshops, yoga retreats and music for Yoga and relaxation. All styles and spiritual paths warmly welcomed.</p></div></div>
