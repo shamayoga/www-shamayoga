@@ -4,7 +4,8 @@ description:
 layout: homepage
 _hide_content: false
 bubbles:
-  - image: 'https://res.cloudinary.com/shamayoga/image/upload/v1606320679/poy-crop.jpg'
+  - image: >-
+      https://res.cloudinary.com/shamayoga/image/upload/w_500,h_500/v1606747424/shamayoga.org.uk/bubbles/bubble1.jpg
     label-text: Teach Your Yoga
     url: /teacher-training/
     popup-menu:
