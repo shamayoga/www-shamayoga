@@ -20,25 +20,6 @@
       sublink: /teacher-training/course-fees-and-application/
     - xsubname: Course Application
       xsublink: /teacher-training/course-application/
-- name: Yoga Teacher Training
-  link: /teacher-training/
-  submenu:
-    - subname: Course Content
-      sublink: /teacher-training/course-content/
-    - subname: Accredititation
-      sublink: /teacher-training/accredititation/
-    - subname: The Tutors
-      sublink: /teacher-training/the-tutors/
-    - subname: Prerequisites
-      sublink: /teacher-training/prerequisites/
-    - subname: Testimonials
-      sublink: /teacher-training/testimonials/
-    - subname: Venues
-      sublink: /teacher-training/venues/
-    - subname: Fees &amp; Application
-      sublink: /teacher-training/course-fees-and-application/
-    - xsubname: Course Application
-      xsublink: /teacher-training/course-application/
 - name: Bring Out The Yoga in You
   link: /everything-yoga/yoga-classes/
   submenu:
