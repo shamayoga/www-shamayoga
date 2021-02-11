@@ -121,7 +121,46 @@ delivered with his quiet, wry sense of humour.” Karen Myers 2020</blockquote>
       <blockquote class="blockquote">“Thank you for everything - it has been such a wonderful journey that I am so glad I embarked on!”  Anna 2020</blockquote>
     </div>
     <div class="container">
-        <p class="yto-font-size">Tuition fees:&nbsp; <strong class="yto-font-size" style="color: rgb(216, 22, 59);text-shadow: 2px 2px #fbdc95;">£900</strong><br><strong>Lead Trainer Bios: Steve Avian </strong>(click here) and <strong>Susan McHale </strong>(click here)<br><strong>See Terms and Conditions here</strong>*GDPR*<br></p>
+        <p class="yto-font-size">Tuition fees:&nbsp; <strong class="yto-font-size" style="color: rgb(216, 22, 59);text-shadow: 2px 2px #fbdc95;">£900</strong><br></p>
+        <p>If you choose to pay using paypal you could take advantage of PayPal Credit offers which allow you to pay in installments while accessing the course from day 1.</p>
+        <p><div id="smart-button-container">
+      <div style="text-align: center;">
+        <div id="paypal-button-container"></div>
+      </div>
+    </div>
+  <script src="https://www.paypal.com/sdk/js?client-id=AWjTZWMJP2zHjDVVg7X0Mbbf-g0hrJH2JfL4qSBkmKyp4jEhqfiBVN2Xn9l5ydg5zskeAIXewIdBwmCJ&currency=GBP" data-sdk-integration-source="button-factory"></script>
+  <script>
+    function initPayPalButton() {
+      paypal.Buttons({
+        style: {
+          shape: 'rect',
+          color: 'gold',
+          layout: 'vertical',
+          label: 'paypal',
+          
+        },
+
+        createOrder: function(data, actions) {
+          return actions.order.create({
+            purchase_units: [{"description":"Yoga Teacher Training  - Online and Interactive - 300hrs Certificated - Yoga Alliance Accredited","amount":{"currency_code":"GBP","value":900}}]
+          });
+        },
+
+        onApprove: function(data, actions) {
+          return actions.order.capture().then(function(details) {
+            alert('Transaction completed by ' + details.payer.name.given_name + '!');
+          });
+        },
+
+        onError: function(err) {
+          console.log(err);
+        }
+      }).render('#paypal-button-container');
+    }
+    initPayPalButton();
+  </script></p>
+        <p><strong>Lead Trainers: Steve Avian and Susan McHale</p>
+        <p><strong>Contributing Trainers: Katie Dickinson and Olivia Lester</p>
     </div>
     
     
