@@ -5266,6 +5266,7 @@ padding-left:14px;
     margin: -20px -20px 0px -20px;
     font-size: 16px;
 }
+.categories-list{line-height:1.5em;}
 /*.event-footer{position:absolute; bottom: 2%;} */
 /* cloudcannon alignment*/
     .align-left{text-align:left;}
