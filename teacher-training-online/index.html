@@ -194,10 +194,20 @@ delivered with his quiet, wry sense of humour.” Karen Myers 2020</blockquote>
         onError: function(err) {
           console.log(err);
         }
-      }).render('.paypal-button-container');
+      })
+                        document.querySelectorAll('.paypal-button-container').forEach(function(selector) {
+                    paypal.Button.render({
+                        // options            
+                        console.log( selector.dataset.myAttribute );
+                  }, selector);
     }
     initPayPalButton();
   </script>
+  
+          <script>    
+
+               });
+        </script>
     </div>
     </div>
     <div class="main section" id="main"><div class="widget Blog" data-version="1" id="Blog1">
