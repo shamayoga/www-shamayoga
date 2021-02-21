@@ -31,7 +31,9 @@
      <img src="{{ page.hero-image }}" />
     {% endif%}
     <div class="top section" id="top">
-        
+       {% if page.title %}
+     <h2>{{ page.title }}</h2>
+    {% endif%}    
     
     {{ content }}
     
