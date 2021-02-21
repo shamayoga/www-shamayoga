@@ -2,9 +2,10 @@
 title: Susan McHale Yoga Practicioner and Yoga Teacher
 description:
 layout: page
-hero_image: https://res.cloudinary.com/shamayoga/image/upload/v1613919134/susan-mchale.jpg
+hero_image: 
 ---
 
+![photo of Susan McHale Yoga teacher and practitioner](https://res.cloudinary.com/shamayoga/image/upload/v1613919134/susan-mchale.jpg)
 
 My yoga journey started in 1981 in Australia when I travelled with an Iyengar yoga teacher who taught me asana and took me to a retreat to learn Vipassana meditation technique with Goenkaji. Later in Sheffield, after starting a family, I found an Iyengar yoga teacher, Linda Ogle, and was happy building my own personal yoga practice for a few years until she moved to another part of the country.  I did not find another teacher for a while. 
 
