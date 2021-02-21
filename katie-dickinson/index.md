@@ -2,9 +2,10 @@
 title: Katie Dickinson Yoga Practicioner and Yoga Teacher
 description:
 layout: page
-hero_image: https://res.cloudinary.com/shamayoga/image/upload/v1613919134/katie-d.jpg
+hero_image:
 ---
 
+![photo of katie Dickinson Yoga teacher and practitioner](https://res.cloudinary.com/shamayoga/image/upload/v1613919134/katie-d.jpg)
 
 Katie has been teaching yoga for over 12 years and holds a 500-hour teacher training accreditation.
 
