@@ -82,7 +82,7 @@
         <p>Instalments may be paid using 'PayPal Credit' whilst accessing the course from day one.</p>
         <p><div id="smart-button-container">
       <div style="text-align: center;">
-        <div class="paypal-button-container"></div>
+        <div id="paypal-button-1"></div>
       </div>
     </div>
     </p>
@@ -158,7 +158,7 @@ delivered with his quiet, wry sense of humour.” Karen Myers 2020</blockquote>
         <p>Instalments may be paid using 'PayPal Credit' whilst accessing the course from day one.</p>
         <p><div id="smart-button-container">
       <div style="text-align: center;">
-        <div class="paypal-button-container"></div>
+        <div id="paypal-button-2"></div>
       </div>
     </div>
     </p>
@@ -194,12 +194,8 @@ delivered with his quiet, wry sense of humour.” Karen Myers 2020</blockquote>
         onError: function(err) {
           console.log(err);
         }
-      })
-                        document.querySelectorAll('.paypal-button-container').forEach(function(selector) {
-                    paypal.Button.render({
-                        // options            
-                        console.log( selector.dataset.myAttribute );
-                  }, selector);
+      }).render('#paypal-button-1,#paypal-button-2');
+      
     }
     initPayPalButton();
   </script>
