@@ -169,7 +169,7 @@ delivered with his quiet, wry sense of humour.” Karen Myers 2020</blockquote>
 </center>
   <script src="https://www.paypal.com/sdk/js?client-id=AWjTZWMJP2zHjDVVg7X0Mbbf-g0hrJH2JfL4qSBkmKyp4jEhqfiBVN2Xn9l5ydg5zskeAIXewIdBwmCJ&currency=GBP" data-sdk-integration-source="button-factory"></script>
   <script>
-    function initPayPalButton() {
+    function initPayPalButton(thebutton) {
       paypal.Buttons({
         style: {
           shape: 'rect',
@@ -194,10 +194,11 @@ delivered with his quiet, wry sense of humour.” Karen Myers 2020</blockquote>
         onError: function(err) {
           console.log(err);
         }
-      }).render('#paypal-button-1,#paypal-button-2');
+      }).render(thebutton);
       
     }
-    initPayPalButton();
+    initPayPalButton('#paypal-button-1');
+    initPayPalButton('#paypal-button-2');
   </script>
   
           <script>    
