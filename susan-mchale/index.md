@@ -9,8 +9,8 @@ hero_image:
 
 <img style="float: left; padding: 20px;" src="https://res.cloudinary.com/shamayoga/image/upload/v1613919134/susan-mchale.jpg"/>
 
-<p>My yoga journey started in 1981 in Australia when I travelled with an Iyengar yoga teacher who taught me asana and took me to a retreat to learn Vipassana meditation technique with Goenkaji. Later in Sheffield, after starting a family, I found an Iyengar yoga teacher, Linda Ogle, and was happy building my own personal yoga practice for a few years until she moved to another part of the country.  I did not find another teacher for a while. 
-</p>
+My yoga journey started in 1981 in Australia when I travelled with an Iyengar yoga teacher who taught me asana and took me to a retreat to learn Vipassana meditation technique with Goenkaji. Later in Sheffield, after starting a family, I found an Iyengar yoga teacher, Linda Ogle, and was happy building my own personal yoga practice for a few years until she moved to another part of the country.  I did not find another teacher for a while. 
+
 <p>Then I found Steve Avian and Shamayoga, which I immediately sensed had the approach to yoga development that I was looking for. My foundational yoga teacher training was a Yoga Alliance International 200 hours accreditation with Shamayoga UK in 2014. </p> 
 
 <p>I trained with TSYP (The School of Yoga Practitioners) UK for a 500+ hours, which was also accredited by BWY (British Wheel of Yoga) in 2018 and am now a BCYT (British Council for Yoga Therapy) Yoga Therapist. I continue to connect with TSYP mentor, Andy Curtis-Payne, and Vedic chant tutor Helen Macpherson and as part of the TSYP sangha.</p>
