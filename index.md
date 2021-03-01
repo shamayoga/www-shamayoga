@@ -82,8 +82,8 @@ bubbles:
     url: /teacher-training-online/
     popup-menu:
       - text: >-
-          <br/><br/><br/>Learn More about<br/> Shamayoga 300 hour Teacher
-          Training
+          <br/><br/><br/>Learn More about<br/> Shamayoga 300 hour <br/>Teacher
+          Training Online
         link: /teacher-training-online/
 Accreditations:
   - logo_image: >-
