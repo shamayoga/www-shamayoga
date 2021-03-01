@@ -81,7 +81,9 @@ bubbles:
     label-text: Yoga Teacher Training Online
     url: /teacher-training-online/
     popup-menu:
-      - text: <br/><br/><br/>Learn More about Shamayoga 300 hour training
+      - text: >-
+          <br/><br/><br/>Learn More about<br/> Shamayoga 300 hour Teacher
+          Training
         link: /teacher-training-online/
 Accreditations:
   - logo_image: >-
