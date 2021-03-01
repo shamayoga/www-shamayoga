@@ -77,12 +77,12 @@ bubbles:
       - text: <br/><br/><br/>My Song So Far
         link: /steve-avian/
   - image: >-
-      https://res.cloudinary.com/shamayoga/image/upload/v1531049299/shamayoga.org.uk/bubbles/bowl-ls.png
-    label-text: Royalty Free Yoga Music
-    url: /everything-yoga/yoga-shop/
+      https://res.cloudinary.com/shamayoga/image/upload/v1613922880/becca-bubble-pic.png
+    label-text: Yoga Teacher Training Online
+    url: /teacher-training-online/
     popup-menu:
-      - text: <br/><br/><br/>Download Yoga Music
-        link: /everything-yoga/yoga-shop/
+      - text: <br/><br/><br/>Learn More about Shamayoga 300 hour training
+        link: /teacher-training-online/
 Accreditations:
   - logo_image: >-
       https://res.cloudinary.com/shamayoga/image/upload/v1531050226/shamayoga.org.uk/Accreditation%20Logos/YA.png
