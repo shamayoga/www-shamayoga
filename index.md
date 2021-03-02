@@ -90,7 +90,7 @@ Accreditations:
   - logo_image: >-
       https://res.cloudinary.com/shamayoga/image/upload/v1531050250/shamayoga.org.uk/Accreditation%20Logos/way_rys200_gold_trans.png
   - logo_image: >-
-      https://res.cloudinary.com/shamayoga/image/upload/v1531050274/shamayoga.org.uk/Accreditation%20Logos/eryt-rys.png
+      https://res.cloudinary.com/shamayoga/image/upload/w_100/v1613651866/oycp.png
   - logo_image: >-
       https://res.cloudinary.com/shamayoga/image/upload/v1531050306/shamayoga.org.uk/Accreditation%20Logos/YACEP.png
 testimonials:
