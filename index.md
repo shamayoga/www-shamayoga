@@ -76,7 +76,7 @@ bubbles:
     popup-menu:
       - text: <br/><br/><br/>My Song So Far
         link: /steve-avian/
-  - image: 'https://res.cloudinary.com/shamayoga/image/upload/v1614689747/becca.png'
+  - image: 'https://res.cloudinary.com/shamayoga/image/upload/v1614690183/becca.png'
     label-text: Online Yoga Teacher Training
     url: /teacher-training-online/
     popup-menu:
