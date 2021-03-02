@@ -78,7 +78,7 @@ bubbles:
         link: /steve-avian/
   - image: >-
       https://res.cloudinary.com/shamayoga/image/upload/v1613922880/becca-bubble-pic.png
-    label-text: Yoga Teacher Training Online
+    label-text: Online Yoga Teacher Training
     url: /teacher-training-online/
     popup-menu:
       - text: >-
