@@ -11,7 +11,7 @@ hero-img:
 # ![Steve leading a group session with teacher trainees](https://res.cloudinary.com/shamayoga/image/upload/v1531050692/shamayoga.org.uk/teacher-training/webphotos9.jpg "Steve leading a group session with teacher trainees"){: .photo-right}
 {: .shamafont}
 
-### 2021 : A comprehensive (yoga alliance 200 hrs ) transformational training programme covering all aspects of Yoga practice, theory and teaching.
+### 2022 : A comprehensive (yoga alliance 200 hrs ) transformational training programme covering all aspects of Yoga practice, theory and teaching.
 
 <div><strong>You can book on to this YA accredited yoga teacher training knowing that if world - circumstances prevent in-person meetings we will continue training live on line .&nbsp;</strong></div>
 
@@ -44,3 +44,4 @@ There will also be one major teaching assessment towards the end of the course, 
 Read the Interview (Teach Your Yoga) with Steve Avian, course director. [Interview](../steve-avian/interview/)
 
 [Course Calendar SHEFFIELD](https://docs.google.com/document/d/1u73j1zwjgk-jo8IJtVYEYIU8S77l7LzboTQJ3OqymVE/export?format=pdf "Download SHEFFIELD Course Calendar"){: .download target="_blank"}
+
