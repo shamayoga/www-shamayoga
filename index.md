@@ -76,14 +76,6 @@ bubbles:
     popup-menu:
       - text: <br/><br/><br/>My Song So Far
         link: /steve-avian/
-  - image: 'https://res.cloudinary.com/shamayoga/image/upload/v1614690183/becca.png'
-    label-text: Online Yoga Teacher Training
-    url: /teacher-training-online/
-    popup-menu:
-      - text: >-
-          <br/><br/>Learn More about<br/> Shamayoga 300 hour <br/>Teacher
-          Training Online
-        link: /teacher-training-online/
 Accreditations:
   - logo_image: >-
       https://res.cloudinary.com/shamayoga/image/upload/v1531050226/shamayoga.org.uk/Accreditation%20Logos/YA.png
