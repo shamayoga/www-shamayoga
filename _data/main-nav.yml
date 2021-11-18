@@ -20,8 +20,8 @@
       sublink: /teacher-training/course-fees-and-application/
     - xsubname: Course Application
       xsublink: /teacher-training/course-application/
-- name: Online Yoga Teacher Training
-  link: /teacher-training-online/
+#- name: Online Yoga Teacher Training
+#  link: /teacher-training-online/
 - name: Bring Out The Yoga in You
   link: /everything-yoga/yoga-classes/
   submenu:
