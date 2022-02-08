@@ -62,13 +62,13 @@ bubbles:
       - text: Articles and Magazines
         link: /print-media/
       - text: Yogaseer (Blog)
-        link: 'https://www.yogaseer.com/'
+        link: https://www.yogaseer.com/
       - text: On YouTube
-        link: 'https://www.youtube.com/channel/UCSbv2H-T_m_ejmUCuMZadEA'
+        link: https://www.youtube.com/channel/UCSbv2H-T_m_ejmUCuMZadEA
       - text: On Facebook
-        link: 'https://www.facebook.com/Shamayoga9/'
+        link: https://www.facebook.com/Shamayoga9/
       - text: On Instagram
-        link: 'https://www.instagram.com/Shamayoga9/'
+        link: https://www.instagram.com/Shamayoga9/
   - image: >-
       https://res.cloudinary.com/shamayoga/image/upload/v1531049255/shamayoga.org.uk/bubbles/colorlotus.png
     label-text: About Steve Avian
@@ -76,6 +76,8 @@ bubbles:
     popup-menu:
       - text: <br/><br/><br/>My Song So Far
         link: /steve-avian/
+      - text: Announcement - Stev's Passing
+        link: /steves-passing/
 Accreditations:
   - logo_image: >-
       https://res.cloudinary.com/shamayoga/image/upload/v1531050226/shamayoga.org.uk/Accreditation%20Logos/YA.png
