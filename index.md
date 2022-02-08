@@ -76,7 +76,7 @@ bubbles:
     popup-menu:
       - text: <br/><br/><br/>My Song So Far
         link: /steve-avian/
-      - text: Announcement - Stev's Passing
+      - text: Announcement - Steve's Passing
         link: /steves-passing/
 Accreditations:
   - logo_image: >-
