@@ -5,9 +5,11 @@ layout: page
 hero_image:
 ---
 
-<center>![Steve Avian](https://lh3.googleusercontent.com/ybiSwPKOiS4purjhIJ-a_HHjIk9dCqonGqnNp2YszFgoJTLsX70zz6E8UwuntOAE-LSbqiW9XwGSjFL7Xg=w640 "Steve Avian")</center>
+<center> 
+  ![Steve Avian](https://lh3.googleusercontent.com/ybiSwPKOiS4purjhIJ-a_HHjIk9dCqonGqnNp2YszFgoJTLsX70zz6E8UwuntOAE-LSbqiW9XwGSjFL7Xg=w640 "Steve Avian") 
+</center>
 # &nbsp;Honouring Steve's Life and Contribution to Yoga
-{: .shamafont}
+
 
 We regret to announce that Steve Avian passed away unexpectedly on Wednesday 17th November 2021.
 
